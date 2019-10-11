@@ -3543,7 +3543,7 @@ autoworldnews.us.intellitxt.com
 au.track.decideinteractive.com
 avalon.topbucks.com
 avantlink.com
-avatars.mds.yandex.net
+# avatars.mds.yandex.net
 avazudsp.net
 a.venetian.com
 avenfeld.com
