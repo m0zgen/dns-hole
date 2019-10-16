@@ -7211,7 +7211,7 @@ googleads4.g.doubleclick.net
 googleadservices.com
 googleads.g.doubleclick.net
 google-analytics.com
-googleapis.com
+# googleapis.com
 googlenews.xorg.pl
 google.tucows.com
 googlus.com
