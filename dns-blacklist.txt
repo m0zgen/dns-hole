@@ -3298,7 +3298,7 @@ api.optinmonster.com
 api.parse.com
 api.proofpositivemedia.com
 api.revcontent.com
-# apis.google.com
+apis.google.com
 api.solvemedia.com
 apis.sharethrough.com
 api.stathat.com
