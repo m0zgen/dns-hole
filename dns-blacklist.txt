@@ -10366,7 +10366,6 @@ optimize.adpushup.com
 optimizedby.brealtime.com
 optimizedby.rmxads.com
 optimized-by.rubiconproject.com
-optimized-by.simply.com
 optimized-by.vitalads.net
 optimized.by.vitalads.net
 optimize.indieclick.com
