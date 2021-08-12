@@ -1,6 +1,12 @@
 # apis.google.com
 # avatars.mds.yandex.net
 # googleapis.com
+# 
+videos.crazygames.com
+qauntum-system.org
+semi-cod.com
+analytics-v4-poc.ff.avast.com
+#
 0.datacollector.coin.scribol.com
 0.r.msn.com
 005.free-counter.co.uk
