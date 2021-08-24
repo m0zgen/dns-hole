@@ -43,3 +43,4 @@ googleoptimize.com
 googletagmanager.com
 www.googletagservices.com
 userlocation.googleapis.com
+pinterest.com
