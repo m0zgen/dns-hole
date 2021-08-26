@@ -45,3 +45,4 @@ www.googletagservices.com
 userlocation.googleapis.com
 pinterest.com
 cdn.jsdelivr.net
+fonts.gstatic.com
