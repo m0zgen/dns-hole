@@ -44,5 +44,8 @@ googletagmanager.com
 www.googletagservices.com
 userlocation.googleapis.com
 pinterest.com
+log.pinterest.com
+api.pinterest.com
 cdn.jsdelivr.net
 fonts.gstatic.com
+
