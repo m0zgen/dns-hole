@@ -46,6 +46,8 @@ userlocation.googleapis.com
 pinterest.com
 log.pinterest.com
 api.pinterest.com
+assets.pinterest.com
+trk.pinterest.com
 cdn.jsdelivr.net
 fonts.gstatic.com
 
