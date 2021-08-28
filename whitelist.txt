@@ -58,3 +58,5 @@ img-cdn.tinkoffjournal.ru
 #
 stat.sports.ru
 r.sports.ru
+s5o.ru
+#
