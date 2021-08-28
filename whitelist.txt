@@ -57,3 +57,4 @@ static2.tinkoffjournal.ru
 img-cdn.tinkoffjournal.ru
 #
 stat.sports.ru
+r.sports.ru
