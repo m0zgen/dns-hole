@@ -50,7 +50,10 @@ assets.pinterest.com
 trk.pinterest.com
 cdn.jsdelivr.net
 fonts.gstatic.com
+#
 img-cdn.tinkoffjournal.ru
 static-cdn.tinkoffjournal.ru
 static2.tinkoffjournal.ru
 img-cdn.tinkoffjournal.ru
+#
+stat.sports.ru
