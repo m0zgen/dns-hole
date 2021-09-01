@@ -60,3 +60,4 @@ stat.sports.ru
 r.sports.ru
 s5o.ru
 #
+glovo.api.kustomerapp.com
