@@ -61,3 +61,8 @@ r.sports.ru
 s5o.ru
 #
 glovo.api.kustomerapp.com
+#
+www.bing.com
+bing.com
+#
+rbc.ua
