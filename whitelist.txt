@@ -67,3 +67,6 @@ bing.com
 #
 rbc.ua
 www.rbc.ua
+#
+www.loggly.com
+loggly.com
