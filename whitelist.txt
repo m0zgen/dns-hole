@@ -79,3 +79,6 @@ an.mail.ru
 b2.mail.ru
 stat.radar.imgsmail.ru
 r.mail.ru
+#
+graph.facebook.com
+b-graph.facebook.com
