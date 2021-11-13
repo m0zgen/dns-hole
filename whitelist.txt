@@ -90,3 +90,5 @@ forms.office.com
 www3.haivision.com
 #
 cs.pikabu.ru
+#
+sso.passport.yandex.ru
