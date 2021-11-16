@@ -92,3 +92,5 @@ www3.haivision.com
 cs.pikabu.ru
 #
 sso.passport.yandex.ru
+# Epic games
+www.youtube-nocookie.com
