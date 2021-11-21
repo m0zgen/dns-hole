@@ -1,3 +1,2 @@
 oa.afishamedia.net
-#
-sendpulse.com
+
