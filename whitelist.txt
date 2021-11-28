@@ -95,4 +95,4 @@ sso.passport.yandex.ru
 # Epic games
 www.youtube-nocookie.com
 # Yandex disk
-clck.yandex.ru
+# clck.yandex.ru
