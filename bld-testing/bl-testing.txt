@@ -1,2 +1,2 @@
 oa.afishamedia.net
-
+adclick.*.doubleclick.net
