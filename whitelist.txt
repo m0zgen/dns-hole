@@ -1,21 +1,45 @@
-raw.githubusercontent.com
-mirror1.malwaredomains.com
-sysctl.org
-zeustracker.abuse.ch
+# [ Amazon]
 s3.amazonaws.com
-hosts-file.net
+
+# [ Atlassian ]
+api-private.atlassian.com
+api.atlassian.com
+surveys.hotjar.com
+
+# [ Mail.ru ]
+m.vk.com
 top-fwz1.mail.ru
+top.mail.ru
+img.imgsmail.ru
+img1.imgsmail.ru
+xray.mail.ru
+rs.mail.ru
+an.mail.ru
+b2.mail.ru
+stat.radar.imgsmail.ru
+r.mail.ru
+
+# [ RBC ]
+rbc.ua
+www.rbc.ua
+
+# [ Yandex ]
+metrika.yandex.ru
 informer.yandex.ru
 counter.yadro.ru
+sso.passport.yandex.ru
+
+# [ Facebook ]
+graph.facebook.com
+b-graph.facebook.com
+#
+
+# [ Google ]
 adwords.google.com
-top.mail.ru
-metrika.yandex.ru
 www.googleapis.com
 apis.google.com
 www.gstatic.com
 android.clients.google.com
-m.vk.com
-clients1.google.com
 www.googletagmanager.com
 csi.gstatic.com
 clients1.google.com
@@ -30,69 +54,65 @@ clients9.google.com
 clients10.google.com
 clients11.google.com
 clients12.google.com
-browser.pipe.aria.microsoft.com
-mobile.pipe.aria.microsoft.com
 ssl.google-analytics.com
-portswigger.net
-2ip.ru
-www.datadoghq.com
-api-private.atlassian.com
-api.atlassian.com
-surveys.hotjar.com
 googleoptimize.com
 googletagmanager.com
 www.googletagservices.com
 userlocation.googleapis.com
+fonts.gstatic.com
+## Found on Epic games
+www.youtube-nocookie.com
+
+# [ Microsoft ]
+browser.pipe.aria.microsoft.com
+mobile.pipe.aria.microsoft.com
+forms.office.com
+www.bing.com
+bing.com
+
+# [ Log systems ]
+www.datadoghq.com
+www.loggly.com
+loggly.com
+
+# [ Pinterest ]
 pinterest.com
 log.pinterest.com
 api.pinterest.com
 assets.pinterest.com
 trk.pinterest.com
+s.pinimg.com
+
+# [ Found in Bulma ]
 cdn.jsdelivr.net
-fonts.gstatic.com
-#
+
+# [ Tinkoff ]
 img-cdn.tinkoffjournal.ru
 static-cdn.tinkoffjournal.ru
 static2.tinkoffjournal.ru
 img-cdn.tinkoffjournal.ru
-#
+
+# [ Sports.ru ]
 stat.sports.ru
 r.sports.ru
 s5o.ru
+
+# [ Uncategory ]
+raw.githubusercontent.com
+mirror1.malwaredomains.com
+zeustracker.abuse.ch
+hosts-file.net
+sysctl.org
+#
+portswigger.net
+#
+2ip.ru
 #
 glovo.api.kustomerapp.com
 #
-www.bing.com
-bing.com
-#
-rbc.ua
-www.rbc.ua
-#
-www.loggly.com
-loggly.com
-#
-img.imgsmail.ru
-img1.imgsmail.ru
-xray.mail.ru
-rs.mail.ru
-an.mail.ru
-b2.mail.ru
-stat.radar.imgsmail.ru
-r.mail.ru
-#
-graph.facebook.com
-b-graph.facebook.com
-#
 plus.1fd.ru
-#
-forms.office.com
 #
 www3.haivision.com
 #
 cs.pikabu.ru
-#
-sso.passport.yandex.ru
-# Epic games
-www.youtube-nocookie.com
-# Yandex disk
-# clck.yandex.ru
+# [ Testing ]
