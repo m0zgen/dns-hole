@@ -71,9 +71,10 @@ www.bing.com
 bing.com
 
 # [ Log systems ]
-www.datadoghq.com
-www.loggly.com
-loggly.com
+# www.datadoghq.com
+# datadoghq.com
+# www.loggly.com
+# loggly.com
 
 # [ Pinterest ]
 pinterest.com
