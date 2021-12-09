@@ -1,3 +1,11 @@
+# [ 2ip ]
+2ip.ru
+
+# [ Abusing ]
+mirror1.malwaredomains.com
+zeustracker.abuse.ch
+hosts-file.net
+
 # [ Amazon]
 s3.amazonaws.com
 
@@ -6,33 +14,28 @@ api-private.atlassian.com
 api.atlassian.com
 surveys.hotjar.com
 
-# [ Mail.ru ]
-m.vk.com
-top-fwz1.mail.ru
-top.mail.ru
-img.imgsmail.ru
-img1.imgsmail.ru
-xray.mail.ru
-rs.mail.ru
-an.mail.ru
-b2.mail.ru
-stat.radar.imgsmail.ru
-r.mail.ru
+# [ Burp ]
+portswigger.net
 
-# [ RBC ]
-rbc.ua
-www.rbc.ua
-
-# [ Yandex ]
-metrika.yandex.ru
-informer.yandex.ru
-counter.yadro.ru
-sso.passport.yandex.ru
+# [ Cameras ]
+www3.haivision.com
 
 # [ Facebook ]
 graph.facebook.com
 b-graph.facebook.com
-#
+
+# [ File Sharing]
+dropmefiles.com
+wetransfer.com
+
+#[ Finance ]
+plus.1fd.ru
+
+# [ Found in Bulma ]
+cdn.jsdelivr.net
+
+# [ GitHub ]
+raw.githubusercontent.com
 
 # [ Google ]
 adwords.google.com
@@ -63,6 +66,25 @@ fonts.gstatic.com
 ## Found on Epic games
 www.youtube-nocookie.com
 
+# [ Log systems ]
+# www.datadoghq.com
+# datadoghq.com
+# www.loggly.com
+# loggly.com
+
+# [ Mail.ru ]
+m.vk.com
+top-fwz1.mail.ru
+top.mail.ru
+img.imgsmail.ru
+img1.imgsmail.ru
+xray.mail.ru
+rs.mail.ru
+an.mail.ru
+b2.mail.ru
+stat.radar.imgsmail.ru
+r.mail.ru
+
 # [ Microsoft ]
 browser.pipe.aria.microsoft.com
 mobile.pipe.aria.microsoft.com
@@ -70,11 +92,8 @@ forms.office.com
 www.bing.com
 bing.com
 
-# [ Log systems ]
-# www.datadoghq.com
-# datadoghq.com
-# www.loggly.com
-# loggly.com
+# [ Pikabu ]
+cs.pikabu.ru
 
 # [ Pinterest ]
 pinterest.com
@@ -84,8 +103,17 @@ assets.pinterest.com
 trk.pinterest.com
 s.pinimg.com
 
-# [ Found in Bulma ]
-cdn.jsdelivr.net
+# [ RBC ]
+rbc.ua
+www.rbc.ua
+
+# [ Sports.ru ]
+stat.sports.ru
+r.sports.ru
+s5o.ru
+
+# [ Sysctl ]
+sysctl.org
 
 # [ Tinkoff ]
 img-cdn.tinkoffjournal.ru
@@ -93,28 +121,12 @@ static-cdn.tinkoffjournal.ru
 static2.tinkoffjournal.ru
 img-cdn.tinkoffjournal.ru
 
-# [ Sports.ru ]
-stat.sports.ru
-r.sports.ru
-s5o.ru
+# [ Yandex ]
+metrika.yandex.ru
+informer.yandex.ru
+counter.yadro.ru
+sso.passport.yandex.ru
 
-# [ Uncategory ]
-raw.githubusercontent.com
-mirror1.malwaredomains.com
-zeustracker.abuse.ch
-hosts-file.net
-sysctl.org
-#
-portswigger.net
-#
-2ip.ru
-#
-glovo.api.kustomerapp.com
-#
-plus.1fd.ru
-#
-www3.haivision.com
-#
-cs.pikabu.ru
+# =======================
 # [ Testing ]
-dropmefiles.com
+glovo.api.kustomerapp.com
