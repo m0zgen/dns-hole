@@ -30,6 +30,13 @@ portswigger.net
 # [ Cameras ]
 www3.haivision.com
 
+# [ DuckDuck ]
+duckduckgo.com
+www.duckduckgo.com
+external-content.duckduckgo.com
+icons.duckduckgo.com
+ddg.gg
+
 # [ Facebook ]
 graph.facebook.com
 b-graph.facebook.com
@@ -50,6 +57,19 @@ cdn.jsdelivr.net
 
 # [ GitHub ]
 raw.githubusercontent.com
+# https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/whitelist/github.txt
+github.dev
+github.com
+github.io
+alive.github.com
+live.github.com
+avatars.githubusercontent.com
+avatars0.githubusercontent.com
+avatars1.githubusercontent.com
+avatars2.githubusercontent.com
+avatars3.githubusercontent.com
+github.map.fastly.net
+githubusercontent.com
 
 # [ Google ]
 adwords.google.com
