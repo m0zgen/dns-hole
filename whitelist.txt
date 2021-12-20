@@ -184,6 +184,9 @@ ecn.dev.virtualearth.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 
+# [ Mozilla ]
+www.mozilla.org
+
 # [ Pikabu ]
 cs.pikabu.ru
 
