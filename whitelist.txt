@@ -6,6 +6,16 @@ mirror1.malwaredomains.com
 zeustracker.abuse.ch
 hosts-file.net
 
+# [ Apple ]
+# Music
+itunes.apple.com
+s.mzstatic.com
+# ID
+appleid.apple.com
+# Weather app
+gsp-ssl.ls.apple.com
+gsp-ssl.ls-apple.com.akadns.net
+
 # [ Amazon]
 s3.amazonaws.com
 
@@ -27,6 +37,10 @@ b-graph.facebook.com
 # [ File Sharing]
 dropmefiles.com
 wetransfer.com
+# Dropbox
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
 
 #[ Finance ]
 plus.1fd.ru
@@ -63,8 +77,22 @@ googletagmanager.com
 www.googletagservices.com
 userlocation.googleapis.com
 fonts.gstatic.com
+gstaticadssl.l.google.com
 ## Found on Epic games
 www.youtube-nocookie.com
+# Youtube history
+# https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+s.youtube.com
+video-stats.l.google.com
+# Google keep
+reminders-pa.googleapis.com
+firestore.googleapis.com
+# Gmail
+googleapis.l.google.com
+# Chrome update service
+dl.google.com
+# Android TV
+redirector.gvt1.com
 
 # [ Log systems ]
 # www.datadoghq.com
@@ -86,11 +114,55 @@ stat.radar.imgsmail.ru
 r.mail.ru
 
 # [ Microsoft ]
+msftncsi.com
+www.msftncsi.com
+ipv6.msftncsi.com
 browser.pipe.aria.microsoft.com
 mobile.pipe.aria.microsoft.com
 forms.office.com
 www.bing.com
 bing.com
+# Microsoft Web Pages (Outlook, Office365, Live, Microsoft.com...)
+outlook.office365.com
+outlook.office.com
+products.office.com
+c.s-microsoft.com
+i.s-microsoft.com
+login.live.com
+login.microsoftonline.com
+officeclient.microsoft.com
+# Backup bitlocker recovery key to Microsoft account
+g.live.com
+# Windows store
+dl.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+# Windows update
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+tlu.dl.delivery.mp.microsoft.com
+# Edge update
+msedge.api.cdp.microsoft.com
+# Xbox
+clientconfig.passport.net 
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+client-s.gateway.messenger.live.com
+activity.windows.com
+# Skype
+s.gateway.messenger.live.com
+client-s.gateway.messenger.live.com
+ui.skype.com
+pricelist.skype.com
+apps.skype.com
+m.hotmail.com
+sa.symcb.com
+s{1..5}.symcb.com
+# Bing maps
+dev.virtualearth.net
+ecn.dev.virtualearth.net
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
 
 # [ Pikabu ]
 cs.pikabu.ru
@@ -111,6 +183,11 @@ www.rbc.ua
 stat.sports.ru
 r.sports.ru
 s5o.ru
+
+# [ Spotify ]
+spclient.wg.spotify.com
+apresolve.spotify.com
+api-tv.spotify.com
 
 # [ Sysctl ]
 sysctl.org
