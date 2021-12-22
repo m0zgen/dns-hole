@@ -212,6 +212,9 @@ spclient.wg.spotify.com
 apresolve.spotify.com
 api-tv.spotify.com
 
+# [ Software ]
+rsload.net
+
 # [ Sysctl ]
 sysctl.org
 
