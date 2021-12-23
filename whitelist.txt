@@ -18,6 +18,10 @@ gsp-ssl.ls-apple.com.akadns.net
 
 # [ Amazon]
 s3.amazonaws.com
+awscloud.com
+# pages.awscloud.com
+amazon.com
+aws.amazon.com
 
 # [ Atlassian ]
 api-private.atlassian.com
