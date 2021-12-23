@@ -117,10 +117,10 @@ dl.google.com
 redirector.gvt1.com
 
 # [ Log systems ]
-www.datadoghq.com
-datadoghq.com
-www.loggly.com
-loggly.com
+#www.datadoghq.com
+#datadoghq.com
+#www.loggly.com
+#loggly.com
 
 # [ Mail.ru ]
 m.vk.com
