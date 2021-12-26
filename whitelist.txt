@@ -32,6 +32,9 @@ portswigger.net
 # [ Cameras ]
 www3.haivision.com
 
+# [ Clickhouse ]
+clickhouse.com
+
 # [ DuckDuck ]
 duckduckgo.com
 www.duckduckgo.com
@@ -53,6 +56,10 @@ ns2.dropbox.com
 
 #[ Finance ]
 plus.1fd.ru
+
+# [ Flutter ]
+flutter.dev
+docs.flutter.dev
 
 # [ Found in Bulma ]
 cdn.jsdelivr.net
