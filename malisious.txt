@@ -1,0 +1,25 @@
+# This list are using domains from security articles
+# Security news, recommendations and etc.
+
+# https://blog.talosintelligence.com/2022/01/nanocore-netwire-and-asyncrat-spreading.html
+
+gg1592661.duckdns.org
+btime1624.duckdns.org
+justinalwhitedd554.duckdns.org
+wz303811.duckdns.org
+js1994.duckdns.org
+backu4734.duckdns.org
+www.backu4734.duckdns.org
+mback5338.duckdns.org
+nwire733.duckdns.org
+asyncmoney.duckdns.org
+nanoboss.duckdns.org
+asyncspread.duckdns.org
+tdeasy.duckdns.org
+dingspread.duckdns.org
+asyncpcc.duckdns.org
+jw9428875.duckdns.org
+meunknown.duckdns.org
+yuri101.duckdns.org
+
+#
