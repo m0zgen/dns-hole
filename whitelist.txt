@@ -29,6 +29,10 @@ surveys.hotjar.com
 # [ Burp ]
 portswigger.net
 
+# [ Binance ]
+binance.com
+www.binance.com
+
 # [ Cameras ]
 www3.haivision.com
 
