@@ -46,6 +46,10 @@ external-content.duckduckgo.com
 icons.duckduckgo.com
 ddg.gg
 
+# [ Examcollection ]
+www.examcollection.com
+examcollection.com
+
 # [ Facebook ]
 graph.facebook.com
 b-graph.facebook.com
