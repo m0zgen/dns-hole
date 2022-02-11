@@ -138,8 +138,8 @@ redirector.gvt1.com
 #loggly.com
 
 # [ Mail.ru ]
+# top-fwz1.mail.ru
 m.vk.com
-top-fwz1.mail.ru
 top.mail.ru
 img.imgsmail.ru
 img1.imgsmail.ru
