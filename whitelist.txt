@@ -33,6 +33,10 @@ portswigger.net
 binance.com
 www.binance.com
 
+# [ Cacle (comment system 3dnews) ]
+cackle.me
+i.cackle.me
+
 # [ Cameras ]
 www3.haivision.com
 
