@@ -135,6 +135,9 @@ dl.google.com
 # Android TV
 redirector.gvt1.com
 
+# [ Hhcdn ]
+hhcdn.ru
+
 # [ Log systems ]
 #www.datadoghq.com
 #datadoghq.com
