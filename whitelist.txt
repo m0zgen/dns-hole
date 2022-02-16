@@ -219,6 +219,9 @@ assets.pinterest.com
 trk.pinterest.com
 s.pinimg.com
 
+# [ Qualtrics ]
+qualtrics.com
+
 # [ RBC ]
 rbc.ua
 www.rbc.ua
