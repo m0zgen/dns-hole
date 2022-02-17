@@ -142,6 +142,8 @@ hhcdn.ru
 jivosite.com
 app.jivosite.com
 api.jivosite.com
+code-jvs.jivosite.com
+node-jvs3.jivosite.com
 
 # [ Log systems ]
 #www.datadoghq.com
