@@ -224,6 +224,7 @@ s.pinimg.com
 
 # [ Qualtrics ]
 qualtrics.com
+tetrapakglobal.eu.qualtrics.com
 
 # [ RBC ]
 rbc.ua
