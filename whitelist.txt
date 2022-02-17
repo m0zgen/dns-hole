@@ -138,6 +138,10 @@ redirector.gvt1.com
 # [ Hhcdn ]
 hhcdn.ru
 
+# [ Jivosite ]
+jivosite.com
+app.jivosite.com
+
 # [ Log systems ]
 #www.datadoghq.com
 #datadoghq.com
@@ -251,6 +255,10 @@ img-cdn.tinkoffjournal.ru
 static-cdn.tinkoffjournal.ru
 static2.tinkoffjournal.ru
 img-cdn.tinkoffjournal.ru
+
+# [ Watchit ]
+watchit.ru
+web.watchit.ru
 
 # [ Yandex ]
 metrika.yandex.ru
