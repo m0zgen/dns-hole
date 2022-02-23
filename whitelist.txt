@@ -138,6 +138,9 @@ redirector.gvt1.com
 # [ Hhcdn ]
 hhcdn.ru
 
+# [ Cloud Mine ]
+hashing24.com
+
 # [ Jivosite ]
 jivosite.com
 app.jivosite.com
@@ -147,7 +150,7 @@ node-jvs3.jivosite.com
 node-eu1-a-3.jivosite.com
 node-.*.jivosite.com
 telemetry.jivosite.com
-code-jvs.jivosite.com:443
+code-jvs.jivosite.com
 
 # [ Log systems ]
 #www.datadoghq.com
