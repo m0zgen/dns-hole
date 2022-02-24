@@ -43,6 +43,10 @@ www3.haivision.com
 # [ Clickhouse ]
 clickhouse.com
 
+# [ Coins ]
+cryptonator.com
+hashing24.com
+
 # [ DuckDuck ]
 duckduckgo.com
 www.duckduckgo.com
@@ -137,9 +141,6 @@ redirector.gvt1.com
 
 # [ Hhcdn ]
 hhcdn.ru
-
-# [ Cloud Mine ]
-hashing24.com
 
 # [ Jivosite ]
 jivosite.com
