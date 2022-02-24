@@ -271,6 +271,8 @@ watchit.ru
 web.watchit.ru
 
 # [ Wialon ]
+wialon.com
+wialon.ru
 docs.wialon.com
 hst-api.wialon.ru
 
