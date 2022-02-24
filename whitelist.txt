@@ -47,6 +47,9 @@ clickhouse.com
 cryptonator.com
 www.cryptonator.com
 hashing24.com
+mycrypto.com
+www.mycrypto.com
+mymonero.com
 
 # [ DuckDuck ]
 duckduckgo.com
