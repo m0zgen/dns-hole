@@ -280,6 +280,8 @@ wialon.com
 hosting.wialon.com
 docs.wialon.com
 hst-api.wialon.ru
+# Found in ligin page
+cdn.ravenjs.com
 
 # [ Yandex ]
 metrika.yandex.ru
