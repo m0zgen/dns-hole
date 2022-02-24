@@ -272,7 +272,7 @@ web.watchit.ru
 
 # [ Wialon ]
 wialon.com
-wialon.ru
+hosting.wialon.com
 docs.wialon.com
 hst-api.wialon.ru
 
