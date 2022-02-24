@@ -45,6 +45,7 @@ clickhouse.com
 
 # [ Coins ]
 cryptonator.com
+www.cryptonator.com
 hashing24.com
 
 # [ DuckDuck ]
