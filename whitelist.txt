@@ -270,6 +270,10 @@ img-cdn.tinkoffjournal.ru
 watchit.ru
 web.watchit.ru
 
+# [ Wialon ]
+docs.wialon.com
+hst-api.wialon.ru
+
 # [ Yandex ]
 metrika.yandex.ru
 informer.yandex.ru
