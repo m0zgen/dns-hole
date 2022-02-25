@@ -253,6 +253,10 @@ tetrapakglobal.eu.qualtrics.com
 rbc.ua
 www.rbc.ua
 
+# [ Smi ]
+smi2.ru
+www.smi2.ru
+
 # [ Sports.ru ]
 stat.sports.ru
 r.sports.ru
