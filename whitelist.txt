@@ -300,6 +300,7 @@ metrika.yandex.ru
 informer.yandex.ru
 counter.yadro.ru
 sso.passport.yandex.ru
+direct.yandex.ru
 
 # =======================
 # [ Testing ]
