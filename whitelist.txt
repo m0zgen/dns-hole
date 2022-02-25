@@ -233,6 +233,10 @@ www.mozilla.org
 # [ Pikabu ]
 cs.pikabu.ru
 
+# [ Pirogi ]
+pirogi.kz
+www.pirogi.kz
+
 # [ Pinterest ]
 pinterest.com
 log.pinterest.com
