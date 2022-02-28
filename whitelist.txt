@@ -11,6 +11,9 @@ mirror1.malwaredomains.com
 zeustracker.abuse.ch
 hosts-file.net
 
+# [ Action Media ]
+api.action-media.ru
+
 # [ Apple ]
 # Music
 itunes.apple.com
