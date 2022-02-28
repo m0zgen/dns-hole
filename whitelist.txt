@@ -153,6 +153,8 @@ redirector.gvt1.com
 
 # [ Hashes ]
 hashes.com
+onlinehashcrack.com
+www.onlinehashcrack.com
 
 # [ Hhcdn ]
 hhcdn.ru
