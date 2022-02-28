@@ -151,6 +151,9 @@ dl.google.com
 # Android TV
 redirector.gvt1.com
 
+# [ Hashes ]
+hashes.com
+
 # [ Hhcdn ]
 hhcdn.ru
 
