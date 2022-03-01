@@ -283,6 +283,11 @@ api-tv.spotify.com
 # [ Software ]
 rsload.net
 
+# [ Sys-Admin ]
+sys-adm.in
+forum.sys-adm.in
+lab.sys-adm.in
+
 # [ Sysctl ]
 sysctl.org
 
