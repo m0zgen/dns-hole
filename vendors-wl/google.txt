@@ -16,6 +16,9 @@ googleusercontent.com
 fonts.gstatic.com
 fonts.google.com
 
+# Google Mail
+gmail.com
+
 # Google Maps – developers.google.com/maps/gmp-domains
 geo0.ggpht.com
 geo1.ggpht.com
