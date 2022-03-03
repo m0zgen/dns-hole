@@ -170,6 +170,12 @@ node-.*.jivosite.com
 telemetry.jivosite.com
 code-jvs.jivosite.com
 
+# [ Kaz resources ]
+pirogi.kz
+www.pirogi.kz
+mybuh.kz
+www.mybuh.kz
+
 # [ Log systems ]
 #www.datadoghq.com
 #datadoghq.com
@@ -245,10 +251,6 @@ www.mozilla.org
 
 # [ Pikabu ]
 cs.pikabu.ru
-
-# [ Pirogi ]
-pirogi.kz
-www.pirogi.kz
 
 # [ Pinterest ]
 pinterest.com
