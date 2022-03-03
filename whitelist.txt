@@ -135,6 +135,7 @@ www.googletagservices.com
 userlocation.googleapis.com
 fonts.gstatic.com
 gstaticadssl.l.google.com
+m.youtube.com
 ## Found on Epic games
 www.youtube-nocookie.com
 # Youtube history
