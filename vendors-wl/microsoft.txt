@@ -93,3 +93,19 @@ suite.office.net
 teams.microsoft.com
 web.microsoftstream.com
 www.office.com
+
+# https://docs.microsoft.com/en-us/azure/azure-monitor/app/ip-addresses
+management.core.windows.net
+management.azure.com
+login.windows.net
+login.microsoftonline.com
+auth.gfx.ms
+globalcdn.nuget.org
+packages.nuget.org
+api.nuget.org
+nuget.org
+dc.services.vsallin.net
+
+# MS Labs
+breeze.aimon.applicationinsights.io
+api.loganalytics.io
