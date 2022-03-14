@@ -269,6 +269,10 @@ tetrapakglobal.eu.qualtrics.com
 rbc.ua
 www.rbc.ua
 
+# [ rutor.is ]
+rutor.is
+www.rutor.is
+
 # [ Smi ]
 smi2.ru
 www.smi2.ru
