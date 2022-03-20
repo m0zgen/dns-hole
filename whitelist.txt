@@ -15,7 +15,6 @@ hosts-file.net
 api.action-media.ru
 
 # [ Apple ]
-# Music
 itunes.apple.com
 s.mzstatic.com
 # ID
