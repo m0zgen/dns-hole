@@ -18,7 +18,7 @@ api.action-media.ru
 # Music
 itunes.apple.com
 s.mzstatic.com
-# ID
+# Apple ID
 appleid.apple.com
 # Weather app
 gsp-ssl.ls.apple.com
