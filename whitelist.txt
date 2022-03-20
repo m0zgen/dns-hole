@@ -8,6 +8,7 @@ vip.1gl.ru
 
 # [ 2ip ]
 2ip.ru
+www.2ip.ru
 
 # [ Abusing ]
 mirror1.malwaredomains.com
