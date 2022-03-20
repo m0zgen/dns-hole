@@ -1,3 +1,6 @@
+# Categories is alphabetical
+# Created by Y.G., https://sys-adm.in
+
 # [ 1gl ]
 1gl.ru
 www.1gl.ru
