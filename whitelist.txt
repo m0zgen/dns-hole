@@ -187,6 +187,10 @@ www.mybuh.kz
 #www.loggly.com
 #loggly.com
 
+[ # Logrocket ]
+logrocket.com
+podrocket.logrocket.com
+
 # [ Mail.ru ]
 # top-fwz1.mail.ru
 m.vk.com
