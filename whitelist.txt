@@ -281,6 +281,10 @@ www.mail.rambler.ru
 rbc.ua
 www.rbc.ua
 
+# [ Redcanary ]
+redcanary.com
+resource.redcanary.com
+
 # [ rutor.is ]
 rutor.is
 www.rutor.is
