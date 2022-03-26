@@ -70,6 +70,12 @@ external-content.duckduckgo.com
 icons.duckduckgo.com
 ddg.gg
 
+# [ Electrum ]
+electrum.org
+www.electrum.org
+download.electrum.org
+www.download.electrum.org
+
 # [ Examcollection ]
 www.examcollection.com
 examcollection.com
