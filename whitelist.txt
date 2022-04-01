@@ -119,8 +119,10 @@ github.map.fastly.net
 githubusercontent.com
 
 # [ Google ]
-# ads.google.com
+# Cabinets
+ads.google.com
 adwords.google.com
+# Apis
 www.googleapis.com
 apis.google.com
 www.gstatic.com
