@@ -355,6 +355,7 @@ wialon.com
 hosting.wialon.com
 docs.wialon.com
 hst-api.wialon.ru
+hst-api.wialon.com
 # Found in ligin page
 cdn.ravenjs.com
 
