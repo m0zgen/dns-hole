@@ -55,6 +55,7 @@ www3.haivision.com
 # [ Chatra ]
 chatra.io
 call.chatra.io
+static.chatra.io
 
 # [ Clickhouse ]
 clickhouse.com
