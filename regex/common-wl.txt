@@ -1,0 +1,23 @@
+# [ Services ]
+/^.*.jivosite.com/
+/^.*.wialon.com/
+/^.*-api.wialon.[a-z]{2,3}/
+
+# [ Gov's ]
+/^.*.gov.kz/
+
+# [ Clouds ]
+/img(|[\d]).imgsmail.ru/
+/clients(\d{0,2}).google.com/
+/avatars(|\d).githubusercontent.com/
+/ns[1-2].dropbox.com/
+
+# [ Hsts ]
+/ovh.commander[1-9].com/
+
+# [ MS ]
+/v[1-9\d]{0,2}.events.data.microsoft.com/
+
+# [ Tinkoff ]
+/static[1-9].tinkoffjournal.ru/
+/^.*-cdn.tinkoffjournal.ru/
