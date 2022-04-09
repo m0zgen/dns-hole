@@ -3,6 +3,9 @@
 /^.*.wialon.com/
 /^.*-api.wialon.[a-z]{2,3}/
 
+# [ News ]
+/^cdn\d.edgedatg.com/
+
 # [ Gov's ]
 /^.*.gov.kz/
 
