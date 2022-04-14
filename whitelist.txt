@@ -194,6 +194,8 @@ pirogi.kz
 www.pirogi.kz
 mybuh.kz
 www.mybuh.kz
+bekker.kz
+www.bekker.kz
 
 # [ Log systems ]
 #www.datadoghq.com
