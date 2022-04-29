@@ -369,9 +369,9 @@ cdn.ravenjs.com
 ru.wix.com
 
 # [ Yandex ]
-metrika.yandex.ru
-informer.yandex.ru
-counter.yadro.ru
+# metrika.yandex.ru
+# informer.yandex.ru
+# counter.yadro.ru
 sso.passport.yandex.ru
 # Cabinet management
 direct.yandex.ru
