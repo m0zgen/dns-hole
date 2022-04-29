@@ -365,6 +365,9 @@ hst-api.wialon.com
 # Found in ligin page
 cdn.ravenjs.com
 
+# [ Wix ]
+ru.wix.com
+
 # [ Yandex ]
 metrika.yandex.ru
 informer.yandex.ru
