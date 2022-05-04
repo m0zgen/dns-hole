@@ -367,6 +367,7 @@ cdn.ravenjs.com
 
 # [ Wix ]
 ru.wix.com
+premium.wix.com
 
 # [ Yandex ]
 # metrika.yandex.ru
