@@ -278,6 +278,10 @@ t0.ssl.ak.tiles.virtualearth.net
 # [ Mozilla ]
 www.mozilla.org
 
+# [ Notion ]
+# Unsubscribe link
+e.customeriomail.com
+
 # [ ip-api.com ]
 ip-api.com
 www.ip-api.com
