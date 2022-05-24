@@ -68,6 +68,11 @@ mycrypto.com
 www.mycrypto.com
 mymonero.com
 
+
+# [ # Dorma ]
+dorma.com
+news.dorma.com
+
 # [ DuckDuck ]
 duckduckgo.com
 www.duckduckgo.com
