@@ -369,6 +369,11 @@ static-cdn.tinkoffjournal.ru
 static2.tinkoffjournal.ru
 img-cdn.tinkoffjournal.ru
 
+# [ Veam ]
+veeam.com
+go.veeam.com
+link.veeam.com
+
 # [ Watchit ]
 watchit.ru
 web.watchit.ru
