@@ -57,8 +57,9 @@ chatra.io
 call.chatra.io
 static.chatra.io
 
-# [ Clickhouse ]
+# [ Clicks* ]
 clickhouse.com
+clck.ru
 
 # [ Coins ]
 cryptonator.com
