@@ -403,6 +403,8 @@ premium.wix.com
 sso.passport.yandex.ru
 # Cabinet management
 direct.yandex.ru
+# static
+yastatic.net
 
 # =======================
 # [ Testing ]
