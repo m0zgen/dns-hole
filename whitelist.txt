@@ -405,6 +405,7 @@ sso.passport.yandex.ru
 direct.yandex.ru
 # static
 yastatic.net
+mc.yandex.ru
 
 # =======================
 # [ Testing ]
