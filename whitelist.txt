@@ -95,6 +95,10 @@ www.download.electrum.org
 www.examcollection.com
 examcollection.com
 
+# [ Raketa ]
+raketa.city
+crm.raketa.city
+
 # [ Facebook ]
 graph.facebook.com
 b-graph.facebook.com
