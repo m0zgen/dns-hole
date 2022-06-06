@@ -233,6 +233,7 @@ an.mail.ru
 b2.mail.ru
 stat.radar.imgsmail.ru
 r.mail.ru
+connect.mail.ru
 
 # [ Mandrillapp ]
 mandrillapp.com
