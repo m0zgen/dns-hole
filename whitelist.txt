@@ -406,6 +406,7 @@ direct.yandex.ru
 # static
 yastatic.net
 mc.yandex.ru
+yabs.yandex.ru
 
 # =======================
 # [ Testing ]
