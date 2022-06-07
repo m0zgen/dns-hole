@@ -25,6 +25,9 @@
 /static[1-9].tinkoffjournal.ru/
 /^.*-cdn.tinkoffjournal.ru/
 
+# [ Shodan ]
+/.*.shodan.io/
+
 # [ Sys-Adm.in]
 sys-adm.in
 /.*.sys-adm.in/

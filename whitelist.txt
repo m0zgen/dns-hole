@@ -343,6 +343,11 @@ www.rutor.is
 smi2.ru
 www.smi2.ru
 
+# [ Shodan ]
+shodan.io
+www.shodan.io
+api.shodan.io
+
 # [ Shorteners ]
 okt.to
 www.okt.to
