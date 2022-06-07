@@ -24,3 +24,7 @@
 # [ Tinkoff ]
 /static[1-9].tinkoffjournal.ru/
 /^.*-cdn.tinkoffjournal.ru/
+
+# [ Sys-Adm.in]
+sys-adm.in
+/.*.sys-adm.in/
