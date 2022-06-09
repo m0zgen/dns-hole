@@ -203,6 +203,10 @@ node-.*.jivosite.com
 telemetry.jivosite.com
 code-jvs.jivosite.com
 
+# [ Itzgeek ]
+itzgeek.com
+www.itzgeek.com
+
 # [ Kaz resources ]
 pirogi.kz
 www.pirogi.kz
