@@ -61,6 +61,10 @@ static.chatra.io
 clickhouse.com
 clck.ru
 
+# [ Cisecurity ]
+cisecurity.org
+learn.cisecurity.org
+
 # [ Coins ]
 cryptonator.com
 www.cryptonator.com
