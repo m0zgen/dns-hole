@@ -247,6 +247,10 @@ connect.mail.ru
 mandrillapp.com
 www.mandrillapp.com
 
+# [ Microservices]
+microservices.io
+www.microservices.io
+
 # [ Microsoft ]
 msftncsi.com
 www.msftncsi.com
