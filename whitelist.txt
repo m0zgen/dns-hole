@@ -103,6 +103,10 @@ examcollection.com
 raketa.city
 crm.raketa.city
 
+# [ Fanlab ]
+fantlab.ru
+www.fantlab.ru
+
 # [ Facebook ]
 graph.facebook.com
 b-graph.facebook.com
