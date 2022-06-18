@@ -396,6 +396,10 @@ static-cdn.tinkoffjournal.ru
 static2.tinkoffjournal.ru
 img-cdn.tinkoffjournal.ru
 
+# [ Unisender ]
+unisender.com
+www.unisender.com
+
 # [ Veam ]
 veeam.com
 go.veeam.com
