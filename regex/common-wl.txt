@@ -8,6 +8,11 @@
 
 # [ Gov's ]
 /^.*.gov.kz/
+/^.*.gov.by/
+/^.*.gov.ru/
+/^.*.gov.uz/
+/^.*.gov.kg/
+/^.*.gov.uk/
 
 # [ Clouds ]
 /img(|[\d]).imgsmail.ru/
