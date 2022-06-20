@@ -215,9 +215,13 @@ code-jvs.jivosite.com
 ipify.org
 www.ipify.org
 
-# [ Ipapi ]
+# [ Ipapi / Ip-Api ]
 ipapi.co
 www.ipapi.co
+
+ip-api.com
+www.ip-api.com
+members.ip-api.com
 
 # [ Ipstack ]
 ipstack.com
