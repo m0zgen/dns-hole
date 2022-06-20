@@ -215,6 +215,10 @@ code-jvs.jivosite.com
 ipify.org
 www.ipify.org
 
+# [ Ipapi ]
+ipapi.co
+www.ipapi.co
+
 # [ Itzgeek ]
 itzgeek.com
 www.itzgeek.com
