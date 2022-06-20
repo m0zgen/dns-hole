@@ -223,6 +223,10 @@ www.ipapi.co
 ipstack.com
 www.ipstack.com
 
+# [ Ipinfodb ]
+ipinfodb.com
+www.ipinfodb.com
+
 # [ Itzgeek ]
 itzgeek.com
 www.itzgeek.com
