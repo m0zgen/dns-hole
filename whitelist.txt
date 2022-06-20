@@ -219,6 +219,10 @@ www.ipify.org
 ipapi.co
 www.ipapi.co
 
+# [ Ipstack ]
+ipstack.com
+www.ipstack.com
+
 # [ Itzgeek ]
 itzgeek.com
 www.itzgeek.com
