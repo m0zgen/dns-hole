@@ -211,6 +211,10 @@ node-.*.jivosite.com
 telemetry.jivosite.com
 code-jvs.jivosite.com
 
+# [ Ipify ]
+ipify.org
+www.ipify.org
+
 # [ Itzgeek ]
 itzgeek.com
 www.itzgeek.com
