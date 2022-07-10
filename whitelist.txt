@@ -404,6 +404,10 @@ api-tv.spotify.com
 # [ Software ]
 rsload.net
 
+# [ Statsig ]
+statsig.com
+api.statsig.com
+
 # [ Sys-Admin ]
 sys-adm.in
 forum.sys-adm.in
