@@ -2,6 +2,8 @@
 /^.*.jivosite.com/
 /^.*.wialon.com/
 /^.*-api.wialon.[a-z]{2,3}/
+/^.*.intercom.io/
+/^.*.sentry.io/
 
 # [ News ]
 /^cdn\d.edgedatg.com/
