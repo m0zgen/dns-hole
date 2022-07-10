@@ -378,6 +378,9 @@ resource.redcanary.com
 rutor.is
 www.rutor.is
 
+# [ Sentry ]
+sentry.io
+
 # [ Smi ]
 smi2.ru
 www.smi2.ru
