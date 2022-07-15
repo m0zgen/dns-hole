@@ -469,6 +469,11 @@ mc.yandex.ru
 mx.yandex.ru
 yabs.yandex.ru
 
+# [ Yaplakal ]
+yaplakal.com
+www.yaplakal.com
+s02.yapfiles.ru
+
 # =======================
 # [ Testing ]
 glovo.api.kustomerapp.com
