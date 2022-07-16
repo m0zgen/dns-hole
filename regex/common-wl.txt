@@ -38,3 +38,31 @@
 # [ Sys-Adm.in]
 sys-adm.in
 /.*.sys-adm.in/
+
+# [ Apple ]
+# https://support.apple.com/en-us/HT201999
+# https://apple.stackexchange.com/questions/372241/what-is-the-host-xp-apple-com-for-and-what-is-sent-there
+albert.apple.com
+appldnld.apple.com
+configuration.apple.com
+cdn-apple.com
+deimos3.apple.com
+gg.apple.com
+gs.apple.com
+itunes.apple.com
+mesu.apple.com
+skl.apple.com
+swscan.apple.com
+xp.apple.com
+
+# [ DigiCert ]
+digicert.com
+/.*.digicert.com/
+symcb.com
+/.*.symcb.com/
+symcd.com
+/.*.symcd.com/
+
+# [ Verisign ]
+verisign.com
+/.*.verisign.com/

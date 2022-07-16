@@ -29,6 +29,7 @@ gsp-ssl.ls.apple.com
 gsp-ssl.ls-apple.com.akadns.net
 
 # [ Amazon]
+amazonaws.com
 s3.amazonaws.com
 pages.awscloud.com
 aws.amazon.com
