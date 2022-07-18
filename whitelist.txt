@@ -100,6 +100,12 @@ www.download.electrum.org
 www.examcollection.com
 examcollection.com
 
+# [ Forte ]
+forte.bank
+www.forte.bank
+forte.kz
+ibank.forte.kz
+
 # [ Raketa ]
 raketa.city
 crm.raketa.city
