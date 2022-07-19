@@ -1,44 +1,3 @@
-# [ Services ]
-/^.*.jivosite.com/
-/^.*.wialon.com/
-/^.*-api.wialon.[a-z]{2,3}/
-/^.*.intercom.io/
-/^.*.sentry.io/
-
-# [ News ]
-/^cdn\d.edgedatg.com/
-
-# [ Gov's ]
-/^.*.gov.kz/
-/^.*.gov.by/
-/^.*.gov.ru/
-/^.*.gov.uz/
-/^.*.gov.kg/
-/^.*.gov.uk/
-
-# [ Clouds ]
-/img(|[\d]).imgsmail.ru/
-/clients(\d{0,2}).google.com/
-/avatars(|\d).githubusercontent.com/
-/ns[1-2].dropbox.com/
-
-# [ Hsts ]
-/ovh.commander[1-9].com/
-
-# [ MS ]
-/v[1-9\d]{0,2}.events.data.microsoft.com/
-
-# [ Tinkoff ]
-/static[1-9].tinkoffjournal.ru/
-/^.*-cdn.tinkoffjournal.ru/
-
-# [ Shodan ]
-/.*.shodan.io/
-
-# [ Sys-Adm.in]
-sys-adm.in
-/.*.sys-adm.in/
-
 # [ Apple ]
 # https://support.apple.com/en-us/HT201999
 # https://apple.stackexchange.com/questions/372241/what-is-the-host-xp-apple-com-for-and-what-is-sent-there
@@ -55,6 +14,12 @@ skl.apple.com
 swscan.apple.com
 xp.apple.com
 
+# [ Clouds ]
+/img(|[\d]).imgsmail.ru/
+/clients(\d{0,2}).google.com/
+/avatars(|\d).githubusercontent.com/
+/ns[1-2].dropbox.com/
+
 # [ DigiCert ]
 digicert.com
 /.*.digicert.com/
@@ -63,9 +28,44 @@ symcb.com
 symcd.com
 /.*.symcd.com/
 
-# [ Verisign ]
-verisign.com
-/.*.verisign.com/
+# [ Gov's ]
+/^.*.gov.kz/
+/^.*.gov.by/
+/^.*.gov.ru/
+/^.*.gov.uz/
+/^.*.gov.kg/
+/^.*.gov.uk/
+
+# [ Hsts ]
+/ovh.commander[1-9].com/
+
+# [ Services ]
+/^.*.jivosite.com/
+/^.*.wialon.com/
+/^.*-api.wialon.[a-z]{2,3}/
+/^.*.intercom.io/
+/^.*.sentry.io/
+
+# [ MS ]
+/v[1-9\d]{0,2}.events.data.microsoft.com/
+
+# [ News ]
+/^cdn\d.edgedatg.com/
+
+# [ Tinkoff ]
+/static[1-9].tinkoffjournal.ru/
+/^.*-cdn.tinkoffjournal.ru/
+
+# [ Shodan ]
+/.*.shodan.io/
 
 # [ Smart Home ]
 /.*.qloud-[abc].yandex.net/
+
+# [ Sys-Adm.in]
+sys-adm.in
+/.*.sys-adm.in/
+
+# [ Verisign ]
+verisign.com
+/.*.verisign.com/
