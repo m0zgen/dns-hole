@@ -66,3 +66,6 @@ symcd.com
 # [ Verisign ]
 verisign.com
 /.*.verisign.com/
+
+# [ Smart Home ]
+/.*.qloud-[abc].yandex.net/
