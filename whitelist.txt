@@ -476,11 +476,11 @@ mc.yandex.ru
 mx.yandex.ru
 yabs.yandex.ru
 # Smart home
-push.yandex.ru
-an.yandex.ru
-dr.yandex.net
-an.yandex.ru
-mc.admetrica.ru
+# push.yandex.ru
+# an.yandex.ru
+# dr.yandex.net
+# an.yandex.ru
+# mc.admetrica.ru
 
 # [ Yaplakal ]
 yaplakal.com
