@@ -476,6 +476,8 @@ mc.yandex.ru
 mx.yandex.ru
 yabs.yandex.ru
 push.yandex.ru
+an.yandex.ru
+dr.yandex.net
 
 # [ Yaplakal ]
 yaplakal.com
