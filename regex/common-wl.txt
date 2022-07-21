@@ -20,6 +20,10 @@ xp.apple.com
 /avatars(|\d).githubusercontent.com/
 /ns[1-2].dropbox.com/
 
+# [ Comagic ]
+comagic.ru
+/^.*.comagic.ru/
+
 # [ DigiCert ]
 digicert.com
 /.*.digicert.com/
