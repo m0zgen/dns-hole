@@ -231,8 +231,6 @@ ip-api.com
 www.ip-api.com
 members.ip-api.com
 
-
-
 # [ Ipstack ]
 ipstack.com
 www.ipstack.com
@@ -349,6 +347,11 @@ e.customeriomail.com
 # [ ip-api.com ]
 ip-api.com
 www.ip-api.com
+
+# [ Paloalto ]
+paloaltonetworks.com
+start.paloaltonetworks.com
+unit42.paloaltonetworks.com
 
 # [ Pikabu ]
 cs.pikabu.ru
