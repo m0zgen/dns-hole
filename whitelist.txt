@@ -252,10 +252,10 @@ bekker.kz
 www.bekker.kz
 
 # [ Log systems ]
-#www.datadoghq.com
-#datadoghq.com
-#www.loggly.com
-#loggly.com
+www.datadoghq.com
+datadoghq.com
+www.loggly.com
+loggly.com
 
 # [ Logrocket ]
 logrocket.com
