@@ -337,6 +337,11 @@ dev.virtualearth.net
 ecn.dev.virtualearth.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+# Azure
+api.applicationinsights.azure.com
+applicationinsights.azure.com
+azure.com
+management.azure.com
 
 # [ Mozilla ]
 www.mozilla.org
