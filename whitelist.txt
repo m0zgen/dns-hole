@@ -495,6 +495,9 @@ yabs.yandex.ru
 # dr.yandex.net
 # an.yandex.ru
 # mc.admetrica.ru
+# Mail
+sba.yandex.net
+admin.yandex.ru
 
 # [ Yaplakal ]
 yaplakal.com
