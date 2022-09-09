@@ -288,6 +288,7 @@ microservices.io
 www.microservices.io
 
 # [ Microsoft ]
+app.powerbi.com
 msftncsi.com
 www.msftncsi.com
 ipv6.msftncsi.com
