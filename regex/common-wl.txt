@@ -79,6 +79,9 @@ symcd.com
 # [ News ]
 /^cdn\d.edgedatg.com/
 
+# [ Roots ]
+/^[a-m].root-servers.net/
+
 # [ Tinkoff ]
 /static[1-9].tinkoffjournal.ru/
 /^.*-cdn.tinkoffjournal.ru/
