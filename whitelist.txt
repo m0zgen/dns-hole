@@ -474,6 +474,12 @@ hst-api.wialon.com
 # Found in ligin page
 cdn.ravenjs.com
 
+# [ Winamp ]
+nullsoft.com
+www.nullsoft.com
+download.nullsoft.com
+www.download.nullsoft.com
+
 # [ Wix ]
 ru.wix.com
 premium.wix.com
