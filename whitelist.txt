@@ -433,6 +433,10 @@ rsload.net
 statsig.com
 api.statsig.com
 
+# [ Sysdig ]
+sysdig.com
+www.sysdig.com
+
 # [ Sys-Admin ]
 sys-adm.in
 forum.sys-adm.in
