@@ -525,8 +525,18 @@ gcore.com
 auth.gcore.com
 accounts.gcore.com
 
+contabo.com
+my.contabo.com
+
 cloudflare.com
 dash.cloudflare.com
+
+hetzner.com
+www.hetzner.com
+accounts.hetzner.com
+console.hetzner.com
+hetzner.cloud
+console.hetzner.cloud
 
 x-rdp.co
 clients.x-rdp.co
