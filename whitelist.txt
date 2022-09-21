@@ -525,6 +525,9 @@ gcore.com
 auth.gcore.com
 accounts.gcore.com
 
+cloudflare.com
+dash.cloudflare.com
+
 x-rdp.co
 clients.x-rdp.co
 billing.x-rdp.co
