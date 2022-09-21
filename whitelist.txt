@@ -1,5 +1,7 @@
-# Categories is alphabetical
 # Created by Y.G., https://sys-adm.in
+
+# =======================
+# [ Alphabetical ]
 
 # [ 1gl ]
 1gl.ru
@@ -514,6 +516,26 @@ admin.yandex.ru
 yaplakal.com
 www.yaplakal.com
 s02.yapfiles.ru
+
+# =======================
+# [ Categories ]
+
+# [ Hosting/Cloud services ]
+gcore.com
+auth.gcore.com
+accounts.gcore.com
+
+x-rdp.co
+clients.x-rdp.co
+billing.x-rdp.co
+
+# [ Kz ]
+unihost.kz
+gohost.kz
+
+hoster.kz
+billing.hoster.kz
+ps.kz
 
 # =======================
 # [ Testing ]
