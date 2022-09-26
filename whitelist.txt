@@ -467,6 +467,10 @@ veeam.com
 go.veeam.com
 link.veeam.com
 
+# [ Vk ]
+vk.com
+www.vk.com
+
 # [ Watchit ]
 watchit.ru
 web.watchit.ru
