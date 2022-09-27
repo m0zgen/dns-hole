@@ -206,6 +206,10 @@ hashes.com
 onlinehashcrack.com
 www.onlinehashcrack.com
 
+$ [ Hhglobal ]
+hhglobal.com
+marketing.hhglobal.com
+
 # [ Hhcdn ]
 hhcdn.ru
 
