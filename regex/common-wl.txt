@@ -86,6 +86,11 @@ symcd.com
 /static[1-9].tinkoffjournal.ru/
 /^.*-cdn.tinkoffjournal.ru/
 
+# [ Seagate ]
+seagate.com
+www.seagate.com
+/^app.([a-z]).seagate.com/
+
 # [ Shodan ]
 /.*.shodan.io/
 
