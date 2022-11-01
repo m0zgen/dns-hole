@@ -285,6 +285,11 @@ stat.radar.imgsmail.ru
 r.mail.ru
 connect.mail.ru
 
+# [ Malwarebytes ]
+malwarebytes.com
+links.e.malwarebytes.com
+
+
 # [ Mandrillapp ]
 mandrillapp.com
 www.mandrillapp.com
