@@ -12577,6 +12577,7 @@ sifomedia.aftonbladet.se
 sifomedia.idg.se
 sifomedia.thelocal.se
 sigil.outwar.com
+sikescomposites.com
 siliconera.us.intellitxt.com
 silveragesoftware.com
 simg.zedo.com
@@ -13544,6 +13545,7 @@ tcm.affiliation-int.com
 tcmagazine.uk.intellitxt.com
 tcr.tynt.com
 td.demdex.net
+tddshht.com
 tdkads.ads.dk
 tds.trafflow.com
 te.adlandpro.com
