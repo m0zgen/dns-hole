@@ -112,6 +112,10 @@ ibank.forte.kz
 raketa.city
 crm.raketa.city
 
+# [ Red Hat]
+redhat.com
+app.engage.redhat.com
+
 # [ Fanlab ]
 fantlab.ru
 www.fantlab.ru
