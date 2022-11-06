@@ -1,3 +1,4 @@
 # Source: https://mobile.twitter.com/stephenlacy/status/1554697077430505473
 # ovz1.j19544519.pr46m.vps.myjino.ru
 /.*.myjino.ru/
+/avatars.(.*[a-z]){3}.yandex.net/
