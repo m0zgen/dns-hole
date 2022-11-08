@@ -1,0 +1,35 @@
+# [ Plain ]
+
+# Cabinet management
+direct.yandex.ru
+
+# Static
+yastatic.net
+mc.yandex.ru
+mx.yandex.ru
+yabs.yandex.ru
+
+# Mail
+sba.yandex.net
+admin.yandex.ru
+sso.passport.yandex.ru
+mail.yandex.ru
+passport.yandex.kz
+
+# [ Regex ]
+/.*passport.yandex.([a-z]{2,3})$/
+/.*mail.yandex.([a-z]{2,3})$/
+/.*admin.yandex.([a-z]{2,3})$/
+
+# [ To review ]
+
+# metrika.yandex.ru
+# informer.yandex.ru
+# counter.yadro.ru
+
+# Smart home
+# push.yandex.ru
+# an.yandex.ru
+# dr.yandex.net
+# an.yandex.ru
+# mc.admetrica.ru
