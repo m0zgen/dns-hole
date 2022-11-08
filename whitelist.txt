@@ -511,26 +511,7 @@ ru.wix.com
 premium.wix.com
 
 # [ Yandex ]
-# metrika.yandex.ru
-# informer.yandex.ru
-# counter.yadro.ru
-sso.passport.yandex.ru
-# Cabinet management
-direct.yandex.ru
-# static
-yastatic.net
-mc.yandex.ru
-mx.yandex.ru
-yabs.yandex.ru
-# Smart home
-# push.yandex.ru
-# an.yandex.ru
-# dr.yandex.net
-# an.yandex.ru
-# mc.admetrica.ru
-# Mail
-sba.yandex.net
-admin.yandex.ru
+# Moved to vendors-wl
 
 # [ Yaplakal ]
 yaplakal.com
