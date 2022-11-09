@@ -2,6 +2,7 @@
 
 # Cabinet management
 direct.yandex.ru
+dr.yandex.net
 
 # Static
 yastatic.net
@@ -9,12 +10,22 @@ mc.yandex.ru
 mx.yandex.ru
 yabs.yandex.ru
 
+# Stream
+strm.yandex.net
+
 # Mail
 sba.yandex.net
 admin.yandex.ru
 sso.passport.yandex.ru
 mail.yandex.ru
 passport.yandex.kz
+
+# Cloud services
+cloud.yandex.com
+/^cloud.yandex.([c-u]{2,3})$/
+/.*strm.yandex.net$/
+/^music.yandex.([a-z]{2,3})$/
+/^business.yandex.([a-z]{2,3})/
 
 # [ Regex ]
 /.*passport.yandex.([a-z]{2,3})$/
