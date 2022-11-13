@@ -4,6 +4,9 @@
 direct.yandex.ru
 dr.yandex.net
 
+# Go yandex
+go.yandex
+
 # Static
 yastatic.net
 mc.yandex.ru
