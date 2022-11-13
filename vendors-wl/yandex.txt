@@ -6,6 +6,8 @@ dr.yandex.net
 
 # Go yandex
 go.yandex
+api-maps.yandex.ru
+/.*maps.yandex.([c-u]{2,3})$/
 
 # Static
 yastatic.net
