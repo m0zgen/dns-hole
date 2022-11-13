@@ -30,6 +30,14 @@ cloud.yandex.com
 /^music.yandex.([a-z]{2,3})$/
 /^business.yandex.([a-z]{2,3})/
 
+# Some services
+company.yandex.ru
+money.yandex.ru
+yandexsport.ru
+
+# Punto
+punto.yandex.ru
+
 # [ Regex ]
 /.*passport.yandex.([a-z]{2,3})$/
 /.*mail.yandex.([a-z]{2,3})$/
