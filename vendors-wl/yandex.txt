@@ -27,6 +27,7 @@ passport.yandex.kz
 
 # Cloud services
 cloud.yandex.com
+dns.yandex.com
 /^cloud.yandex.([c-u]{2,3})$/
 /.*strm.yandex.net$/
 /^music.yandex.([a-z]{2,3})$/
