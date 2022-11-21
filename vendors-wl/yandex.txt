@@ -14,6 +14,7 @@ yastatic.net
 mc.yandex.ru
 mx.yandex.ru
 yabs.yandex.ru
+static.dzeninfra.ru
 
 # Stream
 strm.yandex.net
