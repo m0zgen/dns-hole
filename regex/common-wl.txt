@@ -83,6 +83,9 @@ cs.pikabu.ru
 # [ News ]
 /^cdn\d.edgedatg.com/
 
+# [ Other ]
+/(^|^v[n-p]{2,}\.)bespoyasko.kz$/
+
 # [ Roots ]
 /^[a-m].root-servers.net/
 
