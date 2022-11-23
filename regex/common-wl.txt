@@ -54,6 +54,9 @@ symcd.com
 /^cs([1-9]{1,2}).pikabu.([r-u]{2})$/
 cs.pikabu.ru
 
+# [ Linkedin ]
+/(^media|^static)-exp[1-9].licdn.com$/
+
 # [ MS ]
 /v[1-9\d]{0,2}.events.data.microsoft.com/
 # https://docs.microsoft.com/en-us/azure/security/fundamentals/azure-domains

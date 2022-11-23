@@ -261,6 +261,13 @@ www.mybuh.kz
 bekker.kz
 www.bekker.kz
 
+# [ Linkedin ]
+linkedin.com
+www.linkedin.com
+media-exp1.licdn.com
+static-exp1.licdn.com
+platform.linkedin.com
+
 # [ Log systems ]
 www.datadoghq.com
 datadoghq.com
