@@ -35,6 +35,7 @@ dns.yandex.com
 /^business.yandex.([a-z]{2,3})/
 
 # Some services
+dostavka.yandex.ru
 company.yandex.ru
 money.yandex.ru
 yandexsport.ru
