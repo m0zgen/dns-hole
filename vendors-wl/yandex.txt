@@ -36,8 +36,14 @@ dns.yandex.com
 
 # Some services
 dostavka.yandex.ru
+market.yandex.ru
+taxi.yandex.ru
+auto.yandex.ru
+auto.yandex
 company.yandex.ru
 money.yandex.ru
+video.yandex.ru
+netoscope.yandex.ru
 yandexsport.ru
 
 # Punto
