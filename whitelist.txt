@@ -8,6 +8,11 @@
 www.1gl.ru
 vip.1gl.ru
 
+# [ 1c ]
+bitrix.info
+www.bitrix.info
+rtc-cloud-eu1.bitrix.info
+
 # [ 2ip ]
 2ip.ru
 www.2ip.ru

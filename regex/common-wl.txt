@@ -1,3 +1,6 @@
+# [ 1c ]
+/rtc-cloud-[a-z]{2,}[1-9].bitrix.info/
+
 # [ Apple ]
 # https://support.apple.com/en-us/HT201999
 # https://apple.stackexchange.com/questions/372241/what-is-the-host-xp-apple-com-for-and-what-is-sent-there
