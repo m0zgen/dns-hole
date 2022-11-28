@@ -490,6 +490,7 @@ img-cdn.tinkoffjournal.ru
 # [ Unisender ]
 unisender.com
 www.unisender.com
+cp.unisender.com
 
 # [ Veam ]
 veeam.com
