@@ -46,12 +46,18 @@ api-private.atlassian.com
 api.atlassian.com
 surveys.hotjar.com
 
-# [ Burp ]
-portswigger.net
-
 # [ Binance ]
 binance.com
 www.binance.com
+
+# [ Braze ]
+braze.com
+www.braze.com
+sdk.iad-01.braze.com
+
+# [ Burp ]
+portswigger.net
+www.portswigger.net
 
 # [ Cacle (comment system 3dnews) ]
 cackle.me
