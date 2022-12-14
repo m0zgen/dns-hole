@@ -25,6 +25,7 @@ admin.yandex.ru
 sso.passport.yandex.ru
 mail.yandex.ru
 passport.yandex.kz
+imap.yandex.com
 
 # Cloud services
 cloud.yandex.com
