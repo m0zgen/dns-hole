@@ -109,3 +109,6 @@ dc.services.vsallin.net
 # MS Labs
 breeze.aimon.applicationinsights.io
 api.loganalytics.io
+
+# Azure Logging
+api.loganalytics.azure.com
