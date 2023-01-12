@@ -462,6 +462,12 @@ alb.reddit.com
 rutor.is
 www.rutor.is
 
+# [ Samokat ]
+samokat.ru
+www.samokat.ru
+health.samokat.ru
+images.samokat.ru
+
 # [ Sentry ]
 sentry.io
 
