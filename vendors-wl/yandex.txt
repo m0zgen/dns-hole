@@ -49,6 +49,7 @@ netoscope.yandex.ru
 yandexsport.ru
 translate.yandex.ru
 360.yandex.ru
+webmaster.yandex.com
 
 # Punto
 punto.yandex.ru
