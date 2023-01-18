@@ -13,6 +13,10 @@
 /avatars(|\d).githubusercontent.com/
 /ns[1-2].dropbox.com/
 
+# [ Cloudflare]
+# Clk from CF mail
+/^data.em[0-9].cloudflare.com$/
+
 # [ Comagic ]
 comagic.ru
 /^.*.comagic.ru/
