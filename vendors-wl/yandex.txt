@@ -27,6 +27,8 @@ mail.yandex.ru
 passport.yandex.kz
 imap.yandex.com
 imap.yandex.ru
+smtp.yandex.com
+smtp.yandex.ru
 
 # Cloud services
 cloud.yandex.com
