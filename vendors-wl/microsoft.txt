@@ -112,3 +112,7 @@ api.loganalytics.io
 
 # Azure Logging
 api.loganalytics.azure.com
+
+eastus.livediagnostics.monitor.azure.com
+browser.events.data.microsoft.com
+*.livediagnostics.monitor.azure.com
