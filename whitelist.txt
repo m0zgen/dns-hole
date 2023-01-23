@@ -458,6 +458,10 @@ resource.redcanary.com
 reddit.com
 alb.reddit.com
 
+# [ Rkn ]
+eais.rkn.gov.ru
+rkn.gov.ru
+
 # [ rutor.is ]
 rutor.is
 www.rutor.is
