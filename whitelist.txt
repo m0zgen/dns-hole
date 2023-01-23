@@ -306,7 +306,7 @@ unihost.kz
 gohost.kz
 hoster.kz
 billing.hoster.kz
-ps.kz
+ps.k
 
 # [ Kz Resources ]
 pirogi.kz
@@ -478,6 +478,7 @@ reddit.com
 alb.reddit.com
 
 # [ Rkn ]
+blocklist.rkn.gov.ru
 eais.rkn.gov.ru
 rkn.gov.ru
 
