@@ -114,4 +114,5 @@
 
 /eastus.livediagnostics.monitor.azure.com$/
 /browser.events.data.microsoft.com$/
+/.*.events.data.microsoft.com$/
 /.*.livediagnostics.monitor.azure.com$/
