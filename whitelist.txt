@@ -112,6 +112,13 @@ mycrypto.com
 www.mycrypto.com
 mymonero.com
 
+# [ Cloudflare ]
+cloudflare.com
+dash.cloudflare.com
+
+# [ Contabo ]
+contabo.com
+my.contabo.com
 
 # [ # Dorma ]
 dorma.com
@@ -193,6 +200,11 @@ avatars2.githubusercontent.com
 avatars3.githubusercontent.com
 github.map.fastly.net
 githubusercontent.com
+
+# [ Gcore ]
+gcore.com
+auth.gcore.com
+accounts.gcore.com
 
 # [ Google ]
 # Cabinets
@@ -289,7 +301,14 @@ www.ipinfodb.com
 itzgeek.com
 www.itzgeek.com
 
-# [ Kaz resources ]
+# [ Kz Hosting ]
+unihost.kz
+gohost.kz
+hoster.kz
+billing.hoster.kz
+ps.kz
+
+# [ Kz Resources ]
 pirogi.kz
 www.pirogi.kz
 mybuh.kz
@@ -573,20 +592,11 @@ yaplakal.com
 www.yaplakal.com
 s02.yapfiles.ru
 
-# =======================
-# [ Categories ]
+# [ YTCracker ]
+ytcracker.com
+www.ytcracker.com
 
-# [ Hosting/Cloud services ]
-gcore.com
-auth.gcore.com
-accounts.gcore.com
-
-contabo.com
-my.contabo.com
-
-cloudflare.com
-dash.cloudflare.com
-
+# [ Hetzner ]
 hetzner.com
 www.hetzner.com
 accounts.hetzner.com
@@ -594,17 +604,10 @@ console.hetzner.com
 hetzner.cloud
 console.hetzner.cloud
 
+# [ X-Rdp ]
 x-rdp.co
 clients.x-rdp.co
 billing.x-rdp.co
-
-# [ Kz ]
-unihost.kz
-gohost.kz
-
-hoster.kz
-billing.hoster.kz
-ps.kz
 
 # =======================
 # [ Testing ]
