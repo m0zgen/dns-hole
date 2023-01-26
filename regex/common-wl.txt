@@ -57,6 +57,7 @@ cs.pikabu.ru
 # [ MS ]
 /v[1-9\d]{0,2}.events.data.microsoft.com$/
 # https://docs.microsoft.com/en-us/azure/security/fundamentals/azure-domains
+# TODO: revies - https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide
 /^.*.azure-api.net$/
 /^.*.accesscontrol.windows.net$/
 /^.*.graph.windows.net$/
@@ -81,6 +82,7 @@ cs.pikabu.ru
 /^.*.visualstudio.com$/
 /.*.events.data.microsoft.com$/
 /.*.livediagnostics.monitor.azure.com$/
+/^r[1-9].res.office365.com$/
 
 # [ News ]
 /^cdn\d.edgedatg.com/
