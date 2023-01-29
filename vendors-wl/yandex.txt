@@ -33,12 +33,10 @@ smtp.yandex.ru
 # Cloud services
 cloud.yandex.com
 dns.yandex.com
-/^cloud.yandex.([c-u]{2,3})$/
-/.*strm.yandex.net$/
-/^music.yandex.([a-z]{2,3})$/
-/^business.yandex.([a-z]{2,3})/
 
 # Some services
+disk.yandex.kz
+disk.yandex.ru
 dostavka.yandex.ru
 market.yandex.ru
 taxi.yandex.ru
@@ -55,11 +53,6 @@ webmaster.yandex.com
 
 # Punto
 punto.yandex.ru
-
-# [ Regex ]
-/.*passport.yandex.([a-z]{2,3})$/
-/.*mail.yandex.([a-z]{2,3})$/
-/.*admin.yandex.([a-z]{2,3})$/
 
 # [ To review ]
 

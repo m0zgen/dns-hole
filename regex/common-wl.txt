@@ -105,9 +105,6 @@ www.seagate.com
 # [ Shodan ]
 /.*.shodan.io/
 
-# [ Smart Home ]
-/.*.qloud-[abc].yandex.net/
-
 # [ Sys-Adm.in]
 sys-adm.in
 /.*.sys-adm.in/
@@ -115,3 +112,14 @@ sys-adm.in
 # [ Verisign ]
 verisign.com
 /.*.verisign.com/
+
+# [ Yandex ]
+/^cloud.yandex.([c-u]{2,3})$/
+/.*strm.yandex.net$/
+/^music.yandex.([a-z]{2,3})$/
+/^business.yandex.([a-z]{2,3})/
+/.*passport.yandex.([a-z]{2,3})$/
+/.*mail.yandex.([a-z]{2,3})$/
+/.*admin.yandex.([a-z]{2,3})$/
+/.*.qloud-[abc].yandex.net$/
+
