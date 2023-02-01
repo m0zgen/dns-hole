@@ -120,6 +120,10 @@ dash.cloudflare.com
 contabo.com
 my.contabo.com
 
+# [ Dating ]
+beboo.ru
+m.beboo.ru
+
 # [ # Dorma ]
 dorma.com
 news.dorma.com
