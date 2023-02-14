@@ -527,6 +527,8 @@ startimg.ru
 api.start.ru
 api.mindbox.ru
 media.24h.tv
+cdn.teleport.media
+teleport.media
 
 # [ Statsig ]
 statsig.com
