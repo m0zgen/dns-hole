@@ -521,6 +521,13 @@ api-tv.spotify.com
 # [ Software ]
 rsload.net
 
+# [ Start ]
+start.ru
+startimg.ru
+api.start.ru
+api.mindbox.ru
+media.24h.tv
+
 # [ Statsig ]
 statsig.com
 api.statsig.com
