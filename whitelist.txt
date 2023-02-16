@@ -99,6 +99,7 @@ static.chatra.io
 # [ Clicks* ]
 clickhouse.com
 clck.ru
+bit.ly
 
 # [ Cisecurity ]
 cisecurity.org
