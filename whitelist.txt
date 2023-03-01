@@ -513,6 +513,10 @@ api.shodan.io
 okt.to
 www.okt.to
 
+# [ Spiceworks ]
+spiceworks.com
+www.spiceworks.com
+
 # [ Sports.ru ]
 stat.sports.ru
 r.sports.ru
