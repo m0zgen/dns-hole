@@ -93,6 +93,9 @@ cs.pikabu.ru
 # [ Roots ]
 /^[a-m].root-servers.net/
 
+# [ Tik Tok ]
+/^sf[0-9]{2,}-website-login.neutral.ttwstatic.com/
+
 # [ Tinkoff ]
 /static[1-9].tinkoffjournal.ru/
 /^.*-cdn.tinkoffjournal.ru/

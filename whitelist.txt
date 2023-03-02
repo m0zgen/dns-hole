@@ -560,6 +560,13 @@ sysctl.org
 www.tadviser.ru
 tadviser.ru
 
+# [ Tik Tok]
+tiktok.com
+ttwstatic.com
+mcs-va.tiktok.com
+mssdk-va.tiktok.com
+neutral.ttwstatic.com
+
 # [ Tinkoff ]
 img-cdn.tinkoffjournal.ru
 static-cdn.tinkoffjournal.ru
