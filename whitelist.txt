@@ -556,6 +556,10 @@ bld.sys-adm.in
 # [ Sysctl ]
 sysctl.org
 
+# [ Sysdig ]
+sysdig.com
+www.sysdig.com
+
 # [ Tadviser ]
 www.tadviser.ru
 tadviser.ru
