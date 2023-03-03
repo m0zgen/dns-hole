@@ -34,6 +34,9 @@ smtp.yandex.ru
 cloud.yandex.com
 dns.yandex.com
 
+# Practicum
+practicum.yandex.ru
+
 # Some services
 disk.yandex.kz
 disk.yandex.ru
