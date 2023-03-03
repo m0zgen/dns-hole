@@ -29,6 +29,9 @@ symcb.com
 symcd.com
 /.*.symcd.com/
 
+# [ Google ]
+/^firebase.*.googleapis.com$/
+
 # [ Gov's ]
 /^.*.gov.kz/
 /^.*.gov.by/
