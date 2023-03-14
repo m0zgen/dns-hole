@@ -266,6 +266,10 @@ marketing.hhglobal.com
 # [ Hhcdn ]
 hhcdn.ru
 
+# [ Howtofix ]
+howtofix.guide
+www.howtofix.guide
+
 # [ Jivosite ]
 jivosite.com
 app.jivosite.com
