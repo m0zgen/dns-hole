@@ -160,6 +160,10 @@ crm.raketa.city
 redhat.com
 app.engage.redhat.com
 
+# [ Rollbar ]
+rollbar.com
+www.rollbar.com
+
 # [ Fanlab ]
 fantlab.ru
 www.fantlab.ru
