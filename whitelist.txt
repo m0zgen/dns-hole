@@ -421,8 +421,6 @@ ui.skype.com
 pricelist.skype.com
 apps.skype.com
 m.hotmail.com
-sa.symcb.com
-s{1..5}.symcb.com
 # Bing maps
 dev.virtualearth.net
 ecn.dev.virtualearth.net
