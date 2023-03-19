@@ -263,7 +263,7 @@ hashes.com
 onlinehashcrack.com
 www.onlinehashcrack.com
 
-$ [ Hhglobal ]
+# [ Hhglobal ]
 hhglobal.com
 marketing.hhglobal.com
 
@@ -277,7 +277,7 @@ www.howtofix.guide
 # [ Jivosite ]
 jivosite.com
 app.jivosite.com
-api.jivosite.com
+api.jivosite.co
 code-jvs.jivosite.com
 node-jvs3.jivosite.com
 node-eu1-a-3.jivosite.com
