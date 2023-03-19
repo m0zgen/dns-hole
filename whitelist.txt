@@ -560,6 +560,7 @@ sys-adm.in
 forum.sys-adm.in
 lab.sys-adm.in
 bld.sys-adm.in
+system-checks.org
 
 # [ Sysctl ]
 sysctl.org
