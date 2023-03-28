@@ -45,6 +45,7 @@ symcd.com
 
 # [ Services ]
 /^.*.jivosite.com/
+/node-.*.jivosite.com/
 /^.*.wialon.com/
 /^.*-api.wialon.[a-z]{2,3}/
 /^.*.intercom.io/
