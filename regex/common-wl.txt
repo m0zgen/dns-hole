@@ -57,6 +57,9 @@ cs.pikabu.ru
 
 # [ Linkedin ]
 /(^media|^static)-exp[1-9].licdn.com$/
+/^static.*.licdn.com$/
+/^.*.licdn.com$/
+/^.*.linkedin.com$/
 
 # [ MS ]
 /v[1-9\d]{0,2}.events.data.microsoft.com$/
