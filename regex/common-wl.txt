@@ -132,4 +132,5 @@ verisign.com
 /.*mail.yandex.([a-z]{2,3})$/
 /.*admin.yandex.([a-z]{2,3})$/
 /.*.qloud-[abc].yandex.net$/
+/^.*\.yandex.([c-u]{2,3})$/
 

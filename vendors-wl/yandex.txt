@@ -4,10 +4,12 @@
 direct.yandex.ru
 dr.yandex.net
 
-# Go yandex
+# Go / Maps yandex
 go.yandex
 api-maps.yandex.ru
-/.*maps.yandex.([c-u]{2,3})$/
+maps.yandex.ru
+maps.yandex.com
+maps.yandex.net
 
 # Static
 yastatic.net
@@ -51,6 +53,7 @@ video.yandex.ru
 netoscope.yandex.ru
 yandexsport.ru
 translate.yandex.ru
+translate.yandex.com
 360.yandex.ru
 webmaster.yandex.com
 
