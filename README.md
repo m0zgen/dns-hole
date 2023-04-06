@@ -2,19 +2,33 @@
 
 The following lists are used in [Open BLD DNS](https://lab.sys-adm.in) project
 
-## Lists
+## Main Lists
 
+### Domains list (with comments, groups)
 * dns-blocklist.txt:     list of blocked domains
 * whitelist.txt:         list of whitelisted domains
-* bld-testing:           list of test Sys-Admin BLD service
-* regex                  common regexed domains bl/wl
+
+### Lists with regex (with comments, groups)
+* regex/common-bl.txt    regex blocked domains
+* regex/common-wl.txt    regex whitelisted domains
+
+### Plain lists (with comments)
 * vendors                some vendors, like as Google, Microsoft, Yandex whitelisted in the separated files
 
 ## Aggregated lists
 
-All bl/wl lists aggregated in to solid and sorted files with [BLD-Agregator](https://github.com/m0zgen/bld-agregator.git) project and this files daily updated and refreshed, and available with URL's:
+You can download merged, sorted, aggregated and deduplicated lists from [cac🌵usd](https://github.com/m0zgen/cactusd) project:
+* https://github.com/m0zgen/cactusd
+
+[cac🌵usd](https://github.com/m0zgen/cactusd) contains many other merged lists from different projects. 
+
+Note: you can also use aggregated and daily updated and refreshed lists with [BLD-Agregator](https://github.com/m0zgen/bld-agregator.git) project:
 
 * [blocklist.txt](https://raw.githubusercontent.com/m0zgen/bld-agregator/data/blocklist.txt)
 * [allowlist.txt](https://raw.githubusercontent.com/m0zgen/bld-agregator/data/allowlist.txt)
 
-Note: if you are using [Open BLD DNS](https://lab.sys-adm.in) service, you can report about of BLD services works [issues](doc/Issues.md).
+Note: if you are using [Open BLD DNS](https://lab.sys-adm.in) service, you can report issues of how to Open BLD DNS services works [issues](doc/Issues.md).
+
+## Only for testing
+
+* bld-testing:           list of test Sys-Admin BLD service
