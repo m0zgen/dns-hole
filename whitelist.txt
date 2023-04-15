@@ -505,6 +505,12 @@ images.samokat.ru
 # [ Sentry ]
 sentry.io
 
+# [ Snyk ]
+snyk.io
+www.snyk.io
+go.snyk.io
+
+
 # [ Smi ]
 smi2.ru
 www.smi2.ru
