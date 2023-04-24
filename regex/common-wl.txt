@@ -50,10 +50,15 @@ symcd.com
 /^.*-api.wialon.[a-z]{2,3}/
 /^.*.intercom.io/
 /^.*.sentry.io/
-/^rezka.([a-c]{2})$/
-/^static.([d-h]{2})rezka.([a-c]{2})$/
 /^cs([1-9]{1,2}).pikabu.([r-u]{2})$/
 cs.pikabu.ru
+
+# [ Media ]
+/^rezka.([a-c]{2})$/
+/^static.([d-h]{2})rezka.([a-c]{2})$/
+# Seasonwar
+/^data[0-9]{2,}-cdn.datalock.ru$/
+
 
 # [ Linkedin ]
 /(^media|^static)-exp[1-9].licdn.com$/

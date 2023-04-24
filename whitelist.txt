@@ -651,6 +651,10 @@ x-rdp.co
 clients.x-rdp.co
 billing.x-rdp.co
 
+# [ w3 ]
+w3.org
+www.w3.org
+
 # =======================
 # [ Testing ]
 glovo.api.kustomerapp.com
