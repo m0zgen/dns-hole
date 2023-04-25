@@ -589,6 +589,11 @@ static-cdn.tinkoffjournal.ru
 static2.tinkoffjournal.ru
 img-cdn.tinkoffjournal.ru
 
+# [ Twitter ]
+twitter.com
+www.twitter.com
+t.co
+
 # [ Unisender ]
 unisender.com
 www.unisender.com
