@@ -40,8 +40,8 @@ symcd.com
 /^.*.gov.kg/
 /^.*.gov.uk/
 
-# [ Hsts ]
-/ovh.commander[1-9].com/
+# [ Cloud / Hosting ]
+/^ovh.commander[0-9]{1,2}.com$/
 
 # [ Services ]
 /^.*.jivosite.com/
