@@ -121,13 +121,15 @@ dash.cloudflare.com
 contabo.com
 my.contabo.com
 
-# [ # Dorma ]
+# [ Dorma ]
 dorma.com
 news.dorma.com
 # Included third party cdn resources
 css.createsend1.com
 js.createsend1.com
 img.createsend1.com
+
+
 
 # [ DuckDuck ]
 duckduckgo.com
