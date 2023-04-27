@@ -129,7 +129,10 @@ css.createsend1.com
 js.createsend1.com
 img.createsend1.com
 
-
+# [ Dhs (Homeland Security) ]
+dhs.gov
+www.dhs.gov
+go.dhs.gov
 
 # [ DuckDuck ]
 duckduckgo.com
