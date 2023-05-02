@@ -101,6 +101,10 @@ clickhouse.com
 clck.ru
 bit.ly
 
+# [ Cloudns ]
+cloudns.net
+www.cloudns.net
+
 # [ Cisecurity ]
 cisecurity.org
 learn.cisecurity.org
