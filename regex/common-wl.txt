@@ -126,6 +126,7 @@ www.seagate.com
 # [ Sys-Adm.in]
 sys-adm.in
 /.*.sys-adm.in/
+/.*.openbld.net/
 
 # [ Verisign ]
 verisign.com
