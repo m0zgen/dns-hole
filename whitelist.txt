@@ -223,6 +223,7 @@ ads.google.com
 adwords.google.com
 # Apis
 www.googleapis.com
+fonts.googleapis.com
 apis.google.com
 www.gstatic.com
 android.clients.google.com
