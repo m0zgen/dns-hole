@@ -59,6 +59,7 @@ cs.pikabu.ru
 # Baskino
 /^baskino.me$/
 /^voidboost.net$/
+/^.*.voidboost.cc$s/
 # Seasonwar
 /^data[0-9]{2,}-cdn.datalock.ru$/
 
