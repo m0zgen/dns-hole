@@ -196,9 +196,6 @@ plus.1fd.ru
 flutter.dev
 docs.flutter.dev
 
-# [ Found in Bulma ]
-cdn.jsdelivr.net
-
 # [ GitHub ]
 raw.githubusercontent.com
 # https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/whitelist/github.txt
@@ -292,6 +289,9 @@ node-jvs3.jivosite.com
 node-eu1-a-3.jivosite.com
 telemetry.jivosite.com
 code-jvs.jivosite.com
+
+# [ Jsdelivr ]
+cdn.jsdelivr.net
 
 # [ Ipify ]
 ipify.org
