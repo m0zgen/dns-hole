@@ -51,7 +51,7 @@ symcd.com
 /^.*.intercom.io/
 /^.*.sentry.io/
 /^cs([1-9]{1,2}).pikabu.([r-u]{2})$/
-cs.pikabu.ru
+/(^|^.*\.)qualtrics.com$/
 
 # [ Media ]
 /^rezka.([a-c]{2})$/

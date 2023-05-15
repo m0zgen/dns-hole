@@ -476,6 +476,7 @@ s.pinimg.com
 # [ Qualtrics ]
 qualtrics.com
 tetrapakglobal.eu.qualtrics.com
+uopeople.qualtrics.com
 
 # [ Rambler ]
 rambler.ru
