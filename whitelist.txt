@@ -270,6 +270,11 @@ hashes.com
 onlinehashcrack.com
 www.onlinehashcrack.com
 
+# [ Hashicorp ]
+hashicorp.com
+www.hashicorp.com
+go.hashicorp.com
+
 # [ Hhglobal ]
 hhglobal.com
 marketing.hhglobal.com
