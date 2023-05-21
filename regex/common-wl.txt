@@ -21,6 +21,9 @@
 comagic.ru
 /^.*.comagic.ru/
 
+# [ Datadog ]
+/^.*.datadoghq.com$/
+
 # [ DigiCert ]
 digicert.com
 /.*.digicert.com/

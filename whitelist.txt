@@ -353,6 +353,8 @@ platform.linkedin.com
 # [ Log systems ]
 www.datadoghq.com
 datadoghq.com
+docs.datadoghq.com
+www.docs.datadoghq.com
 www.loggly.com
 loggly.com
 
