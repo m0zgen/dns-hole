@@ -74,6 +74,7 @@ surveys.hotjar.com
 # [ Binance ]
 binance.com
 www.binance.com
+log.bntrace.com
 
 # [ Braze ]
 braze.com
