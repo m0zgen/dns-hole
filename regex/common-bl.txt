@@ -6,3 +6,4 @@
 avatars.mds.yandex.net
 www.avatars.mds.yandex.net
 /avatars.(.*[a-z]){3}.yandex.net/
+/^.*.szqdn.com$/
