@@ -166,6 +166,12 @@ www.forte.bank
 forte.kz
 ibank.forte.kz
 
+# [ GitHub ]
+github.com
+api.github.com
+vscode-auth.github.com
+# copilot-proxy.githubusercontent.com
+
 # [ Raketa ]
 raketa.city
 crm.raketa.city
