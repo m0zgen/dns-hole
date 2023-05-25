@@ -110,6 +110,10 @@ www.cloudns.net
 cisecurity.org
 learn.cisecurity.org
 
+# [ Codeby ]
+codeby.net
+www.codeby.net
+
 # [ Coins ]
 cryptonator.com
 www.cryptonator.com
