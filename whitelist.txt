@@ -468,6 +468,10 @@ applicationinsights.io
 # [ Mozilla ]
 www.mozilla.org
 
+# [ MyWot ]
+mywot.com
+www.mywot.com
+
 # [ Netbox ]
 ns1.com
 
