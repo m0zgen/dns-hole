@@ -71,6 +71,10 @@ api-private.atlassian.com
 api.atlassian.com
 surveys.hotjar.com
 
+# [ Avito ]
+avito.st
+avito.ru
+
 # [ Binance ]
 binance.com
 www.binance.com
