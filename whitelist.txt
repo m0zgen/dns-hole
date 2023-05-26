@@ -158,6 +158,10 @@ external-content.duckduckgo.com
 icons.duckduckgo.com
 ddg.gg
 
+# [ Egov ]
+egov.kz
+www.egov.kz
+
 # [ Electrum ]
 electrum.org
 www.electrum.org
