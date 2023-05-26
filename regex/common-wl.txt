@@ -19,29 +19,29 @@
 
 # [ Comagic ]
 comagic.ru
-/^.*.comagic.ru/
+/^.*.comagic.ru$/
 
 # [ Datadog ]
 /^.*.datadoghq.com$/
 
 # [ DigiCert ]
 digicert.com
-/.*.digicert.com/
+/.*.digicert.com$/
 symcb.com
-/.*.symcb.com/
+/.*.symcb.com$/
 symcd.com
-/.*.symcd.com/
+/.*.symcd.com$/
 
 # [ Google ]
 /^firebase.*.googleapis.com$/
 
 # [ Gov's ]
-/^.*.gov.kz/
-/^.*.gov.by/
-/^.*.gov.ru/
-/^.*.gov.uz/
-/^.*.gov.kg/
-/^.*.gov.uk/
+/^.*.gov.kz$/
+/^.*.gov.by$/
+/^.*.gov.ru$/
+/^.*.gov.uz$/
+/^.*.gov.kg$/
+/^.*.gov.uk$/
 
 # [ Cloud / Hosting ]
 /^ovh.commander[0-9]{1,2}.com$/
