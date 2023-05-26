@@ -1,5 +1,5 @@
 # [ 1c ]
-/rtc-cloud-[a-z]{2,}[1-9].bitrix.info/
+/rtc-cloud-[a-z]{2,}[1-9].bitrix.info$/
 
 # [ Apple ]
 # https://apple.stackexchange.com/questions/372241/what-is-the-host-xp-apple-com-for-and-what-is-sent-there
@@ -8,9 +8,9 @@
 /^api\..*.apple.com$/
 
 # [ Clouds ]
-/img(|[\d]).imgsmail.ru/
-/clients(\d{0,2}).google.com/
-/avatars(|\d).githubusercontent.com/
+/img(|[\d]).imgsmail.ru$/
+/clients(\d{0,2}).google.com$/
+/avatars(|\d).githubusercontent.com$/
 /ns[1-2].dropbox.com/
 
 # [ Cloudflare]
@@ -47,12 +47,12 @@ symcd.com
 /^ovh.commander[0-9]{1,2}.com$/
 
 # [ Services ]
-/^.*.jivosite.com/
-/node-.*.jivosite.com/
+/^.*.jivosite.com$/
+/node-.*.jivosite.com$/
 /^.*.wialon.com/
-/^.*-api.wialon.[a-z]{2,3}/
-/^.*.intercom.io/
-/^.*.sentry.io/
+/^.*-api.wialon.[a-z]{2,3}$/
+/^.*.intercom.io$/
+/^.*.sentry.io$/
 /^cs([1-9]{1,2}).pikabu.([r-u]{2})$/
 /(^|^.*\.)qualtrics.com$/
 
@@ -104,33 +104,33 @@ symcd.com
 /^r[1-9].res.office365.com$/
 
 # [ News ]
-/^cdn\d.edgedatg.com/
+/^cdn\d.edgedatg.com$/
 
 # [ Other ]
 /(^|^v[n-p]{2,}\.)bespoyasko.kz$/
 
 # [ Roots ]
-/^[a-m].root-servers.net/
+/^[a-m].root-servers.net$/
 
 # [ Tik Tok ]
-/^sf[0-9]{2,}-website-login.neutral.ttwstatic.com/
+/^sf[0-9]{2,}-website-login.neutral.ttwstatic.com$/
 
 # [ Tinkoff ]
-/static[1-9].tinkoffjournal.ru/
-/^.*-cdn.tinkoffjournal.ru/
+/static[1-9].tinkoffjournal.ru$/
+/^.*-cdn.tinkoffjournal.ru$/
 
 # [ Seagate ]
 seagate.com
 www.seagate.com
-/^app.([a-z]).seagate.com/
+/^app.([a-z]).seagate.com$/
 
 # [ Shodan ]
-/.*.shodan.io/
+/.*.shodan.io$/
 
 # [ Sys-Adm.in]
 sys-adm.in
-/.*.sys-adm.in/
-/.*.openbld.net/
+/.*.sys-adm.in$/
+/.*.openbld.net$/
 
 # [ Verisign ]
 verisign.com
