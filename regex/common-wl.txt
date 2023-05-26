@@ -36,12 +36,7 @@ symcd.com
 /^firebase.*.googleapis.com$/
 
 # [ Gov's ]
-/^.*.gov.kz$/
-/^.*.gov.by$/
-/^.*.gov.ru$/
-/^.*.gov.uz$/
-/^.*.gov.kg$/
-/^.*.gov.uk$/
+/(^|^.*\.)gov.(kz|by|ru|uz|kg|uk)$
 
 # [ Cloud / Hosting ]
 /^ovh.commander[0-9]{1,2}.com$/
