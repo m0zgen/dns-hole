@@ -10,7 +10,7 @@
 /img(|[\d]).imgsmail.ru$/
 /clients(\d{0,2}).google.com$/
 /avatars(|\d).githubusercontent.com$/
-/ns[1-2].dropbox.com/
+/ns[1-2].dropbox.com$/
 
 # [ Cloudflare]
 # Clk from CF mail
@@ -35,7 +35,8 @@ symcd.com
 /^firebase.*.googleapis.com$/
 
 # [ Gov's ]
-/(^|^.*\.)gov.(kz|by|ru|uz|kg|uk)$
+/(^|^.*\.)gov.(kz|by|ru|uz|kg|uk)$/
+/(^|^.*\.)gov$/
 
 # [ Cloud / Hosting ]
 /^ovh.commander[0-9]{1,2}.com$/
