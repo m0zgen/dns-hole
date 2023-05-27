@@ -165,6 +165,8 @@ primeminister.kz
 www.primeminister.kz
 akorda.kz
 www.akorda.kz
+atameken.kz
+www.atameken.kz
 
 # [ Electrum ]
 electrum.org
