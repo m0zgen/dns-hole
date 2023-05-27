@@ -158,6 +158,10 @@ external-content.duckduckgo.com
 icons.duckduckgo.com
 ddg.gg
 
+# [ Dzen ]
+dzen.ru
+www.dzen.ru
+
 # [ Egov ]
 egov.kz
 www.egov.kz
