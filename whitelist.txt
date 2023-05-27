@@ -365,6 +365,8 @@ mybuh.kz
 www.mybuh.kz
 bekker.kz
 www.bekker.kz
+kcell.kz
+www.kcell.kz
 
 # [ Linkedin ]
 linkedin.com
