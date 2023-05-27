@@ -357,6 +357,13 @@ www.ipinfodb.com
 itzgeek.com
 www.itzgeek.com
 
+# [ Ivi ]
+ivi.tv
+www.ivi.tv
+ivi.ru
+www.ivi.ru
+thumbs.dfs.ivi.ru
+
 # [ Open Graph ]
 ogp.me
 www.ogp.me
