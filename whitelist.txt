@@ -514,6 +514,7 @@ api.pinterest.com
 assets.pinterest.com
 trk.pinterest.com
 s.pinimg.com
+sm.pinimg.com
 
 # [ Qualtrics ]
 qualtrics.com
