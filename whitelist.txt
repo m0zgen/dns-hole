@@ -161,6 +161,10 @@ ddg.gg
 # [ Egov ]
 egov.kz
 www.egov.kz
+primeminister.kz
+www.primeminister.kz
+akorda.kz
+www.akorda.kz
 
 # [ Electrum ]
 electrum.org
