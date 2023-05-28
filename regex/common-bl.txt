@@ -2,9 +2,16 @@
 # ovz1.j19544519.pr46m.vps.myjino.ru
 
 /(^|^.*\.)myjino.ru$/
+
 # SMS Scam
 /(^|^.*\.)szqdn.com$/
 /(^|^.*\.)jsgqsb.com$/
+
+# https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/microsoft-encrypted-restricted-permission-messages-deliver-phishing/
+/(^|^.*\.)fmsbscotland.us$/
+/(^|^.*\.)taluspays.us$/
+/(^|^.*\.)chambless-math.com$/
+
 #
 avatars.mds.yandex.net
 www.avatars.mds.yandex.net
