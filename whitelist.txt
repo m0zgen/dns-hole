@@ -657,6 +657,11 @@ static-cdn.tinkoffjournal.ru
 static2.tinkoffjournal.ru
 img-cdn.tinkoffjournal.ru
 
+# [ Trendmicro ]
+trendmicro.com
+www.trendmicro.com
+resources.trendmicro.com
+
 # [ Twitter ]
 twitter.com
 www.twitter.com
