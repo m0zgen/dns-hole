@@ -724,6 +724,11 @@ yaplakal.com
 www.yaplakal.com
 s02.yapfiles.ru
 
+# [ Ycombinator ]
+c.com
+www.ycombinator.com
+news.ycombinator.com
+
 # [ YTCracker ]
 ytcracker.com
 www.ytcracker.com
