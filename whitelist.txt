@@ -71,6 +71,10 @@ api-private.atlassian.com
 api.atlassian.com
 surveys.hotjar.com
 
+# [ Alternativeto ]
+alternativeto.net
+www.alternativeto.net
+
 # [ Avito ]
 avito.st
 avito.ru
