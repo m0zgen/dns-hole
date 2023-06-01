@@ -502,6 +502,10 @@ www.mywot.com
 # [ Netbox ]
 ns1.com
 
+# [ Netdata ]
+netdata.cloud
+www.netdata.cloud
+
 # [ Notion ]
 # Unsubscribe link
 e.customeriomail.com
