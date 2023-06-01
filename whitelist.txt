@@ -80,6 +80,10 @@ binance.com
 www.binance.com
 log.bntrace.com
 
+# [ Bing ]
+bing.com
+www.bing.com
+
 # [ Braze ]
 braze.com
 www.braze.com
