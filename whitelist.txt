@@ -578,6 +578,10 @@ rkn.gov.ru
 rutor.is
 www.rutor.is
 
+# [ Seagate ]
+seagate.com
+www.seagate.com
+
 # [ Samokat ]
 samokat.ru
 www.samokat.ru
