@@ -522,6 +522,10 @@ e.customeriomail.com
 ip-api.com
 www.ip-api.com
 
+# [ Paypal ]
+paypal.com
+www.paypal.com
+
 # [ Paloalto ]
 paloaltonetworks.com
 start.paloaltonetworks.com
