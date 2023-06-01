@@ -711,6 +711,10 @@ link.veeam.com
 vk.com
 www.vk.com
 
+# [ UptimeRobot ]
+uptimerobot.com
+www.uptimerobot.com
+
 # [ Watchit ]
 watchit.ru
 web.watchit.ru
