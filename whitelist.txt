@@ -623,6 +623,11 @@ api-tv.spotify.com
 # [ Software ]
 rsload.net
 
+# [ Siftscience ]
+siftscience.com
+www.siftscience.com
+cdn.siftscience.com
+
 # [ Spring ]
 sprig.com
 www.sprig.com
