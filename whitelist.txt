@@ -738,6 +738,10 @@ hst-api.wialon.com
 # Found in ligin page
 cdn.ravenjs.com
 
+# [ Wideangle ]
+wideangle.co
+www.wideangle.co
+
 # [ Winamp ]
 nullsoft.com
 www.nullsoft.com
