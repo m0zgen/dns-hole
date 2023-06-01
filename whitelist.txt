@@ -632,6 +632,10 @@ teleport.media
 statsig.com
 api.statsig.com
 
+# [ Stripes ]
+stripes.com
+www.stripes.com
+
 # [ Sysdig ]
 sysdig.com
 www.sysdig.com
