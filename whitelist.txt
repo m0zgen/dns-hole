@@ -623,6 +623,11 @@ api-tv.spotify.com
 # [ Software ]
 rsload.net
 
+# [ Spring ]
+sprig.com
+www.sprig.com
+api.sprig.com
+
 # [ Start ]
 start.ru
 startimg.ru
