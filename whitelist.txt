@@ -544,6 +544,10 @@ trk.pinterest.com
 s.pinimg.com
 sm.pinimg.com
 
+# [ Profit ]
+profit.kz
+www.profit.kz
+
 # [ Qualtrics ]
 qualtrics.com
 tetrapakglobal.eu.qualtrics.com
