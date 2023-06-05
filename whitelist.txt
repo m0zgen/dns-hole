@@ -159,6 +159,12 @@ dhs.gov
 www.dhs.gov
 go.dhs.gov
 
+# [ DigitalOcean ]
+digitalocean.com
+www.digitalocean.com
+cloud.digitalocean.com
+m.do.co
+
 # [ DuckDuck ]
 duckduckgo.com
 www.duckduckgo.com
