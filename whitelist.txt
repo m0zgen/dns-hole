@@ -79,6 +79,10 @@ www.alternativeto.net
 avito.st
 avito.ru
 
+# [ Badoo]
+badoo.com
+www.badoo.com
+
 # [ Binance ]
 binance.com
 www.binance.com
