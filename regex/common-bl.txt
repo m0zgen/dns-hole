@@ -1,6 +1,10 @@
+# Src: https://www.r-tec.net/r-tec-blog-when-hackers-hack-the-hackers.html
+/(^|^.*\.)servehttp.com$/
+adsense.servehttp.com
+nuget.servehttp.com
+
 # Source: https://mobile.twitter.com/stephenlacy/status/1554697077430505473
 # ovz1.j19544519.pr46m.vps.myjino.ru
-
 /(^|^.*\.)myjino.ru$/
 
 # SMS Scam
