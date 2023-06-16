@@ -10,6 +10,7 @@ nuget.servehttp.com
 # SMS Scam
 /(^|^.*\.)szqdn.com$/
 /(^|^.*\.)jsgqsb.com$/
+/(^|^.*\.)programinfos.com$/
 
 # https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/microsoft-encrypted-restricted-permission-messages-deliver-phishing/
 /(^|^.*\.)fmsbscotland.us$/

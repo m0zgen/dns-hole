@@ -21,5 +21,7 @@ asyncpcc.duckdns.org
 jw9428875.duckdns.org
 meunknown.duckdns.org
 yuri101.duckdns.org
-#
+
+# Whatsap Scam
 szqdn.com
+programinfos.com
