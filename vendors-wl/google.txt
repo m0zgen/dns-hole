@@ -54,3 +54,7 @@ khms3.googleapis.com
 yt3.ggpht.com
 youtube.com
 i.ytimg.com
+
+# Test click results for Google search 
+dartsearch.net
+clickserve.dartsearch.net
