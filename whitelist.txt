@@ -517,6 +517,10 @@ www.mozilla.org
 mywot.com
 www.mywot.com
 
+# [ Mxtoolbox ]
+mxtoolbox.com
+customer.io.mxtoolbox.com
+
 # [ Netbox ]
 ns1.com
 
