@@ -169,6 +169,11 @@ www.digitalocean.com
 cloud.digitalocean.com
 m.do.co
 
+# [ Discord ]
+discord.com
+www.discord.com
+click.discord.com
+
 # [ DuckDuck ]
 duckduckgo.com
 www.duckduckgo.com
