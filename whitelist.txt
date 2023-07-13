@@ -804,6 +804,11 @@ billing.x-rdp.co
 w3.org
 www.w3.org
 
+# [ Zoom ]
+zoom.us
+www.zoom.us
+click.e.zoom.us
+
 # =======================
 # [ Testing ]
 glovo.api.kustomerapp.com
