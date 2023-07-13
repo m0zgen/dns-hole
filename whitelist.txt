@@ -618,6 +618,8 @@ sentry.io
 snyk.io
 www.snyk.io
 go.snyk.io
+app.snyk.io
+email.snyk.io
 
 
 # [ Smi ]
