@@ -321,6 +321,10 @@ dl.google.com
 # Android TV
 redirector.gvt1.com
 
+# [ Kuma ]
+kuma.io
+www.kuma.io
+
 # [ Hashes ]
 hashes.com
 onlinehashcrack.com
