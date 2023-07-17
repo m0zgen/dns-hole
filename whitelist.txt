@@ -395,6 +395,10 @@ thumbs.dfs.ivi.ru
 ogp.me
 www.ogp.me
 
+# [ Kazhackstan ]
+kazhackstan.com
+www.kazhackstan.com
+
 # [ Kz Hosting ]
 unihost.kz
 gohost.kz
