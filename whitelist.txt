@@ -698,6 +698,10 @@ openbld.net
 ada.openbld.net
 ric.openbld.net
 
+# [ Sysconf ]
+sysconf.io
+19.sysconf.io
+
 # [ Sysctl ]
 sysctl.org
 
