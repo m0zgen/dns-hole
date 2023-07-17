@@ -154,6 +154,10 @@ dash.cloudflare.com
 crt.sh
 www.crt.sh
 
+# [ DevOpsDays ]
+devopsdays.kz
+www.devopsdays.kz
+
 # [ Dorma ]
 dorma.com
 news.dorma.com
