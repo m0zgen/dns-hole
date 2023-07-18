@@ -413,6 +413,8 @@ gohost.kz
 hoster.kz
 billing.hoster.kz
 ps.kz
+kazteleport.kz
+portal.kazteleport.kz
 
 # [ Kz Resources ]
 pirogi.kz
