@@ -412,7 +412,7 @@ unihost.kz
 gohost.kz
 hoster.kz
 billing.hoster.kz
-ps.k
+ps.kz
 
 # [ Kz Resources ]
 pirogi.kz
