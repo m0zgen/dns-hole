@@ -581,6 +581,11 @@ trk.pinterest.com
 s.pinimg.com
 sm.pinimg.com
 
+# [  ]
+postmarkapp.com
+pstmrk.it
+click.pstmrk.it
+
 # [ Profit ]
 profit.kz
 www.profit.kz
