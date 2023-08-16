@@ -182,6 +182,11 @@ discord.com
 www.discord.com
 click.discord.com
 
+# [ Dnsfilter ]
+dnsfilter.com
+engage.dnsfilter.com
+
+
 # [ DuckDuck ]
 duckduckgo.com
 www.duckduckgo.com
