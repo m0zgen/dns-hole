@@ -150,6 +150,10 @@ my.contabo.com
 cloudflare.com
 dash.cloudflare.com
 
+# [ Crowdstrike ]
+crowdstrike.com
+go.crowdstrike.com
+
 # [ Crt.sh ]
 crt.sh
 www.crt.sh
