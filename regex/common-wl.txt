@@ -21,6 +21,7 @@
 /(^|^.*\.)verisign.com/
 /(^|^.*\.)voidboost.cc$/
 /(^|^.*\.)wialon.com$/
+/(^|^.*\.)weather.com$/
 
 # [ Clouds / Nets ]
 /^.*-cdn.tinkoffjournal.ru$/

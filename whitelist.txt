@@ -843,6 +843,14 @@ x-rdp.co
 clients.x-rdp.co
 billing.x-rdp.co
 
+# [ Weather ]
+weather.com
+www.weather.com
+weatherapi.com
+www.weatherapi.com
+weather.gov
+www.weather.gov
+
 # [ w3 ]
 w3.org
 www.w3.org
