@@ -850,6 +850,10 @@ weatherapi.com
 www.weatherapi.com
 weather.gov
 www.weather.gov
+accuweather.com
+api.accuweather.com
+www.accuweather.com
+www.api.accuweather.com
 
 # [ w3 ]
 w3.org
