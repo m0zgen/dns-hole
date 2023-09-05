@@ -854,6 +854,7 @@ accuweather.com
 api.accuweather.com
 www.accuweather.com
 www.api.accuweather.com
+weather-server.allawnos.com
 
 # [ w3 ]
 w3.org
