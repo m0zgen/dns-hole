@@ -222,11 +222,13 @@ www.download.electrum.org
 www.examcollection.com
 examcollection.com
 
-# [ Forte ]
+# [ Banking KZ ]
 forte.bank
 www.forte.bank
 forte.kz
 ibank.forte.kz
+kazpi.kz
+www.kaspi.kz
 
 # [ GitHub ]
 github.com
