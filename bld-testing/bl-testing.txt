@@ -1,3 +1,48 @@
-/oa.afishamedia.net/
-/adclick.*.doubleclick.net/
-/.+?ads.*.doubleclick.net/
+/oa.afishamedia.net$/
+/adclick.*.doubleclick.net$/
+/.+?ads.*.doubleclick.net$/
+
+# Hotjar 
+/surveys.hotjar.com$/
+
+# Twitter
+/ads-api.twitter.com$/
+/ads-api.twitter.com$/
+
+# Linkedin
+/ads.linkedin.com$/
+/analytics.pointdrive.linkedin.com$/
+
+# Reddit
+/events.reddit.com$/
+
+# Pinterest
+/log.pinterest.com$/
+/trk.pinterest.co$m/
+/events.reddit.com$/
+/ads-api.tiktok.com$/
+
+# Tiktok
+/analytics.tiktok.com$/
+/ads-sg.tiktok.com$/
+/analytics-sg.tiktok.com$/
+/business-api.tiktok.com$/
+/ads.tiktok.com$/
+/log.byteoversea.com$/
+
+# Yad
+/extmaps-api.yandex.net$/
+/appmetrica.yandex.ru$/
+/adfstat.yandex.ru$/
+/metrika.yandex.ru$/
+/advertising.yandex.ru$/
+/offerwall.yandex.net$/
+/adfox.yandex.ru$/
+
+# Apple
+/tr.iadsdk.apple.com$/
+/iadsdk.apple.com$/
+/api-adservices.apple.com$/
+/books-analytics-events.apple.com$/
+/weather-analytics-events.apple.com$/
+/notes-analytics-events.apple.com$/
