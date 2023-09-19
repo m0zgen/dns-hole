@@ -18,6 +18,10 @@ nuget.servehttp.com
 /(^|^.*\.)chambless-math.com$/
 
 #
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+
+#
 avatars.mds.yandex.net
 www.avatars.mds.yandex.net
 appmetrica.yandex.com

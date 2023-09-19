@@ -7,7 +7,6 @@
 /(^|^.*\.)intercom.io$/
 /(^|^.*\.)jivosite.com$/
 /(^|^.*\.)licdn.com$/
-# /(^|^.*\.)linkedin.com$/
 /(^|^.*\.)openbld.net$/
 /(^|^.*\.)pikabu.ru$/
 /(^|^.*\.)qualtrics.com$/
@@ -22,6 +21,7 @@
 /(^|^.*\.)voidboost.cc$/
 /(^|^.*\.)wialon.com$/
 /(^|^.*\.)weather.com$/
+# /(^|^.*\.)linkedin.com$/
 
 # [ Clouds / Nets ]
 /^.*-cdn.tinkoffjournal.ru$/
