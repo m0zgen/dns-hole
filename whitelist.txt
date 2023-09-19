@@ -53,12 +53,12 @@ api-glb-aeuc1b.smoot.apple.com
 api.smoot.apple.com
 ca.iadsdk.apple.com
 cstat.cdn-apple.com
-iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
 internalcheck.apple.com
-notes-analytics-events.apple.com
 radarsubmissions.apple.com
+# iadsdk.apple.com
+# notes-analytics-events.apple.com
 
 # [ AppSecFest ]
 appsecfest.kz
