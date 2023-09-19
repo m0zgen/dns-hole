@@ -73,7 +73,7 @@ aws.amazon.com
 # [ Atlassian ]
 api-private.atlassian.com
 api.atlassian.com
-surveys.hotjar.com
+# surveys.hotjar.com
 
 # [ Alternativeto ]
 alternativeto.net
