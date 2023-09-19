@@ -585,12 +585,12 @@ cs.pikabu.ru
 # [ Pinterest ]
 pinterest.com
 www.pinterest.com
-log.pinterest.com
 api.pinterest.com
 assets.pinterest.com
-trk.pinterest.com
 s.pinimg.com
 sm.pinimg.com
+#log.pinterest.com
+#trk.pinterest.com
 
 # [  ]
 postmarkapp.com
