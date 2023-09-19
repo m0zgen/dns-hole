@@ -7,7 +7,7 @@
 /(^|^.*\.)intercom.io$/
 /(^|^.*\.)jivosite.com$/
 /(^|^.*\.)licdn.com$/
-/(^|^.*\.)linkedin.com$/
+# /(^|^.*\.)linkedin.com$/
 /(^|^.*\.)openbld.net$/
 /(^|^.*\.)pikabu.ru$/
 /(^|^.*\.)qualtrics.com$/

@@ -20,6 +20,8 @@ nuget.servehttp.com
 #
 avatars.mds.yandex.net
 www.avatars.mds.yandex.net
+appmetrica.yandex.com
+analytics.mobile.yandex.net
 /avatars.(.*[a-z]){3}.yandex.net/
 
 # https://securelist.ru/backdoored-free-download-manager-linux-malware/107924/
