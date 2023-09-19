@@ -564,6 +564,9 @@ www.netdata.cloud
 
 # [ Notion ]
 # Unsubscribe link
+notion.so
+www.notion.so
+exp.notion.so
 e.customeriomail.com
 
 # [ ip-api.com ]
