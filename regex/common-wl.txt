@@ -73,7 +73,7 @@
 /.*mail.yandex\.(ru|com|net)$/
 /.*admin.yandex\.(ru|com|net)$/
 /.*.qloud-[abc]\.(ru|com|net)$/
-/^.*\.yandex.([c-u]{2,3})$/
+# /^.*\.yandex.([c-u]{2,3})$/
 
 # [ Roots ]
 /^[a-m].root-servers.net$/
