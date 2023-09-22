@@ -17,6 +17,12 @@ nuget.servehttp.com
 /(^|^.*\.)taluspays.us$/
 /(^|^.*\.)chambless-math.com$/
 
+# CapraTube
+# https://www.sentinelone.com/labs/capratube-transparent-tribes-caprarat-mimics-youtube-to-hijack-android-phones/
+/(^|^.*\.)claudfront.net$/
+/(^|^.*\.)ptzbubble.shop$/
+/(^|^.*\.)allowlisted.net$/
+
 #
 ads.linkedin.com
 analytics.pointdrive.linkedin.com
