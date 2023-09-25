@@ -23,6 +23,10 @@ nuget.servehttp.com
 /(^|^.*\.)ptzbubble.shop$/
 /(^|^.*\.)allowlisted.net$/
 
+# https://citizenlab.ca/2023/09/predator-in-the-wires-ahmed-eltantawy-targeted-with-predator-spyware-after-announcing-presidential-ambitions/
+/(^|^.*\.)sec-flare.com$/
+/(^|^.*\.)verifyurl.me$/
+
 #
 ads.linkedin.com
 analytics.pointdrive.linkedin.com
