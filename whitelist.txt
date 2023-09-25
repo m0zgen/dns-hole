@@ -848,6 +848,11 @@ x-rdp.co
 clients.x-rdp.co
 billing.x-rdp.co
 
+# [VDSina]
+vdsina.ru
+www.vdsina.ru
+cp.vdsina.ru
+
 # [ Weather ]
 weather.com
 www.weather.com
