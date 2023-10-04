@@ -600,6 +600,11 @@ postmarkapp.com
 pstmrk.it
 click.pstmrk.it
 
+# [ Powerdmarc ]
+powerdmarc.com
+www.powerdmarc.com
+app.powerdmarc.com
+
 # [ Profit ]
 profit.kz
 www.profit.kz
