@@ -41,3 +41,6 @@ analytics.mobile.yandex.net
 # https://securelist.ru/backdoored-free-download-manager-linux-malware/107924/
 /(^|^.*\.)fdmpkg.org$/
 
+# https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/amp/
+/(^|^.*\.)ķeepass.info$/
+
