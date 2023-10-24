@@ -474,6 +474,7 @@ stat.radar.imgsmail.ru
 r.mail.ru
 connect.mail.ru
 portal.mail.ru
+e.mail.ru
 
 # [ Malwarebytes ]
 malwarebytes.com
