@@ -408,7 +408,12 @@ ivi.tv
 www.ivi.tv
 ivi.ru
 www.ivi.ru
+api.ivi.ru
+l.ivi.ru
+storyboard.ivi.ru
 thumbs.dfs.ivi.ru
+rocket.ivi.ru
+ivi-region.cdnvideo.ru
 
 # [ Open Graph ]
 ogp.me
