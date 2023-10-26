@@ -44,3 +44,5 @@ analytics.mobile.yandex.net
 # https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/amp/
 /(^|^.*\.)ķeepass.info$/
 
+# https://securelist.com/triangulation-validators-modules/110847/
+/(^|^.*\.)backuprabbit.com$/
