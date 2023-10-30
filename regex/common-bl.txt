@@ -46,3 +46,8 @@ analytics.mobile.yandex.net
 
 # https://securelist.com/triangulation-validators-modules/110847/
 /(^|^.*\.)backuprabbit.com$/
+
+# https://blog.talosintelligence.com/attributing-yorotrooper/
+/(^|^.*\.)az-link.email$/
+/(^|^.*\.)tpp.tj$/
+/(^|^.*\.)mail-ru.link$/
