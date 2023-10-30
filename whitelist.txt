@@ -146,6 +146,11 @@ mymonero.com
 contabo.com
 my.contabo.com
 
+# [ Cookielaw ]
+cookielaw.org
+www.cookielaw.org
+cdn.cookielaw.org
+
 # [ Cloudflare ]
 cloudflare.com
 dash.cloudflare.com
