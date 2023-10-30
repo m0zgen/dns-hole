@@ -7,6 +7,7 @@ dr.yandex.net
 # Go / Maps yandex
 go.yandex
 api-maps.yandex.ru
+enterprise.api-maps.yandex.ru
 maps.yandex.ru
 maps.yandex.com
 maps.yandex.net
