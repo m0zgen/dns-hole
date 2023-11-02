@@ -51,3 +51,11 @@ analytics.mobile.yandex.net
 /(^|^.*\.)az-link.email$/
 /(^|^.*\.)tpp.tj$/
 /(^|^.*\.)mail-ru.link$/
+
+# https://securelist.ru/spyware-whatsapp-mod/108323/
+/(^|^.*\.)whatsagold.app$/
+/(^|^.*\.)watsabplusgold.com$/
+/(^|^.*\.)whatsgold.app$/
+/(^|^.*\.)3ssem.com$/
+/(^|^.*\.)goldnwhats.app$/
+/(^|^.*\.)omarwhats.app$/
