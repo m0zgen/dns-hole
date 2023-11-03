@@ -75,6 +75,9 @@
 /.*.qloud-[abc]\.(ru|com|net)$/
 # /^.*\.yandex.([c-u]{2,3})$/
 
+# Ad checkers
+/(^|^.*\.)succeedscene.com$/
+
 # [ Roots ]
 /^[a-m].root-servers.net$/
 
