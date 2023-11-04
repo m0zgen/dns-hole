@@ -664,6 +664,10 @@ www.samokat.ru
 health.samokat.ru
 images.samokat.ru
 
+# [ Sematext ]
+sematext.com
+www.sematext.com
+
 # [ Sentry ]
 sentry.io
 
