@@ -714,6 +714,10 @@ siftscience.com
 www.siftscience.com
 cdn.siftscience.com
 
+# [ Speedcheck ]
+speedcheck.org
+www.speedcheck.org
+
 # [ Spring ]
 sprig.com
 www.sprig.com
