@@ -401,6 +401,10 @@ ip-api.com
 www.ip-api.com
 members.ip-api.com
 
+# [ Ipqualityscore ]
+ipqualityscore.com
+www.ipqualityscore.com
+
 # [ Ipstack ]
 ipstack.com
 www.ipstack.com
