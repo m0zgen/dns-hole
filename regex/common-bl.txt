@@ -62,3 +62,20 @@ analytics.mobile.yandex.net
 
 # https://blog.aquasec.com/loony-tunables-vulnerability-exploited-by-kinsing
 /(^|^.*\.)haxx.in$/
+
+# LummaC2 stealer - https://outpost24.com/blog/lummac2-anti-sandbox-technique-trigonometry-human-detection/
+/(^|^.*\.)curtainjors.fun$/
+/(^|^.*\.)gogobad.fun$/
+/(^|^.*\.)superyupp.fun$/
+
+# Royal Ransomware - https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-061a
+/(^|^.*\.)sombrat.com$/
+/(^|^.*\.)gororama.com$/
+/(^|^.*\.)softeruplive.com$/
+/(^|^.*\.)altocloudzone.live$/
+/(^|^.*\.)ciborkumari.xyz$/
+/(^|^.*\.)myappearinc.com$/
+/(^|^.*\.)parkerpublic.com$/
+/(^|^.*\.)tumbleproperty.com$/
+
+
