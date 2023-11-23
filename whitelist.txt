@@ -615,6 +615,10 @@ sm.pinimg.com
 #log.pinterest.com
 #trk.pinterest.com
 
+# [ Playrix ]
+playrix.com
+www.playrix.com
+
 # [  ]
 postmarkapp.com
 pstmrk.it
