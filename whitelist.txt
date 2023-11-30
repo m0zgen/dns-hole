@@ -806,6 +806,10 @@ twitter.com
 www.twitter.com
 t.co
 
+# [ uBlock ]
+ublock.org
+www.ublock.org
+
 # [ Unisender ]
 unisender.com
 www.unisender.com
