@@ -3,15 +3,15 @@
 # =======================
 # [ Alphabetical ]
 
-# [ 1gl ]
-1gl.ru
-www.1gl.ru
-vip.1gl.ru
-
 # [ 1c ]
 bitrix.info
 www.bitrix.info
 rtc-cloud-eu1.bitrix.info
+
+# [ 1gl ]
+1gl.ru
+www.1gl.ru
+vip.1gl.ru
 
 # [ 2ip ]
 2ip.ru
@@ -24,6 +24,16 @@ hosts-file.net
 
 # [ Action Media ]
 api.action-media.ru
+
+# [ Alternativeto ]
+alternativeto.net
+www.alternativeto.net
+
+# [ Amazon]
+amazonaws.com
+s3.amazonaws.com
+pages.awscloud.com
+aws.amazon.com
 
 # [ Apple ]
 # Music
@@ -64,20 +74,10 @@ radarsubmissions.apple.com
 appsecfest.kz
 www.appsecfest.kz
 
-# [ Amazon]
-amazonaws.com
-s3.amazonaws.com
-pages.awscloud.com
-aws.amazon.com
-
 # [ Atlassian ]
 api-private.atlassian.com
 api.atlassian.com
 # surveys.hotjar.com
-
-# [ Alternativeto ]
-alternativeto.net
-www.alternativeto.net
 
 # [ Avito ]
 avito.st
@@ -86,6 +86,14 @@ avito.ru
 # [ Badoo]
 badoo.com
 www.badoo.com
+
+# [ Banking KZ ]
+forte.bank
+www.forte.bank
+forte.kz
+ibank.forte.kz
+kazpi.kz
+www.kaspi.kz
 
 # [ Binance ]
 binance.com
@@ -117,18 +125,22 @@ chatra.io
 call.chatra.io
 static.chatra.io
 
+# [ Cisecurity ]
+cisecurity.org
+learn.cisecurity.org
+
 # [ Clicks* ]
 clickhouse.com
 clck.ru
 bit.ly
 
+# [ Cloudflare ]
+cloudflare.com
+dash.cloudflare.com
+
 # [ Cloudns ]
 cloudns.net
 www.cloudns.net
-
-# [ Cisecurity ]
-cisecurity.org
-learn.cisecurity.org
 
 # [ Codeby ]
 codeby.net
@@ -151,10 +163,6 @@ cookielaw.org
 www.cookielaw.org
 cdn.cookielaw.org
 
-# [ Cloudflare ]
-cloudflare.com
-dash.cloudflare.com
-
 # [ Crowdstrike ]
 crowdstrike.com
 go.crowdstrike.com
@@ -166,14 +174,6 @@ www.crt.sh
 # [ DevOpsDays ]
 devopsdays.kz
 www.devopsdays.kz
-
-# [ Dorma ]
-dorma.com
-news.dorma.com
-# Included third party cdn resources
-css.createsend1.com
-js.createsend1.com
-img.createsend1.com
 
 # [ Dhs (Homeland Security) ]
 dhs.gov
@@ -195,6 +195,13 @@ click.discord.com
 dnsfilter.com
 engage.dnsfilter.com
 
+# [ Dorma ]
+dorma.com
+news.dorma.com
+# Included third party cdn resources
+css.createsend1.com
+js.createsend1.com
+img.createsend1.com
 
 # [ DuckDuck ]
 duckduckgo.com
@@ -227,13 +234,28 @@ www.download.electrum.org
 www.examcollection.com
 examcollection.com
 
-# [ Banking KZ ]
-forte.bank
-www.forte.bank
-forte.kz
-ibank.forte.kz
-kazpi.kz
-www.kaspi.kz
+# [ Facebook ]
+graph.facebook.com
+b-graph.facebook.com
+
+# [ Fanlab ]
+fantlab.ru
+www.fantlab.ru
+
+# [ File Sharing]
+dropmefiles.com
+wetransfer.com
+# Dropbox
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
+
+#[ Finance ]
+plus.1fd.ru
+
+# [ Flutter ]
+flutter.dev
+docs.flutter.dev
 
 # [ GitHub ]
 github.com
@@ -252,29 +274,6 @@ app.engage.redhat.com
 # [ Rollbar ]
 rollbar.com
 www.rollbar.com
-
-# [ Fanlab ]
-fantlab.ru
-www.fantlab.ru
-
-# [ Facebook ]
-graph.facebook.com
-b-graph.facebook.com
-
-# [ File Sharing]
-dropmefiles.com
-wetransfer.com
-# Dropbox
-dl.dropboxusercontent.com
-ns1.dropbox.com
-ns2.dropbox.com
-
-#[ Finance ]
-plus.1fd.ru
-
-# [ Flutter ]
-flutter.dev
-docs.flutter.dev
 
 # [ GitHub ]
 raw.githubusercontent.com
@@ -344,6 +343,14 @@ googleapis.l.google.com
 dl.google.com
 # Android TV
 redirector.gvt1.com
+
+# [ Hetzner ]
+hetzner.com
+www.hetzner.com
+accounts.hetzner.com
+console.hetzner.com
+hetzner.cloud
+console.hetzner.cloud
 
 # [ Kuma ]
 kuma.io
@@ -824,6 +831,11 @@ link.veeam.com
 verisign.com
 www.verisign.com
 
+# [VDSina]
+vdsina.ru
+www.vdsina.ru
+cp.vdsina.ru
+
 # [ Vk ]
 vk.com
 www.vk.com
@@ -876,24 +888,6 @@ news.ycombinator.com
 ytcracker.com
 www.ytcracker.com
 
-# [ Hetzner ]
-hetzner.com
-www.hetzner.com
-accounts.hetzner.com
-console.hetzner.com
-hetzner.cloud
-console.hetzner.cloud
-
-# [ X-Rdp ]
-x-rdp.co
-clients.x-rdp.co
-billing.x-rdp.co
-
-# [VDSina]
-vdsina.ru
-www.vdsina.ru
-cp.vdsina.ru
-
 # [ Wirex ]
 # Unsubscriber
 ablinks.mail.wirexapp.com
@@ -914,6 +908,11 @@ weather-server.allawnos.com
 # [ w3 ]
 w3.org
 www.w3.org
+
+# [ X-Rdp ]
+x-rdp.co
+clients.x-rdp.co
+billing.x-rdp.co
 
 # [ Zoom ]
 zoom.us
