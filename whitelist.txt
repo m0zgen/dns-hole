@@ -510,6 +510,11 @@ links.e.malwarebytes.com
 mandrillapp.com
 www.mandrillapp.com
 
+# [ Maxmind ]
+maxmind.com
+www.maxmind.com
+dev.maxmind.com
+
 # [ Microservices]
 microservices.io
 www.microservices.io
