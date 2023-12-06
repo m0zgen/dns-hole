@@ -78,4 +78,5 @@ analytics.mobile.yandex.net
 /(^|^.*\.)parkerpublic.com$/
 /(^|^.*\.)tumbleproperty.com$/
 
-
+# https://securelist.ru/trojan-proxy-for-macos/108460/
+/(^|^.*\.)akamaized.ca$/
