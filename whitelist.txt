@@ -927,3 +927,8 @@ click.e.zoom.us
 # =======================
 # [ Testing ]
 glovo.api.kustomerapp.com
+
+# src images for paginademedia.ro
+1616.ro
+i0.1616.ro
+
