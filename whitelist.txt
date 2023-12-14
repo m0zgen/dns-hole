@@ -113,6 +113,11 @@ sdk.iad-01.braze.com
 portswigger.net
 www.portswigger.net
 
+# [ Businesswire ]
+businesswire.com
+www.businesswire.com
+cts.businesswire.com
+
 # [ Cacle (comment system 3dnews) ]
 cackle.me
 i.cackle.me
