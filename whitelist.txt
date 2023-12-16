@@ -138,6 +138,10 @@ learn.cisecurity.org
 clickhouse.com
 clck.ru
 bit.ly
+clickcease.com
+# get.inc
+www.clickcease.com
+monitor.clickcease.com
 
 # [ Cloudflare ]
 cloudflare.com
