@@ -45,6 +45,7 @@
 /^rezka.([a-c]{2})$/
 /^static.([d-h]{2})rezka.([a-c]{2})$/
 /^voidboost.net$/
+/(^|^.*\.)kahoot.(com|it)$/
 
 # [ MS ]
 /v[1-9\d]{0,2}.events.data.microsoft.com$/
