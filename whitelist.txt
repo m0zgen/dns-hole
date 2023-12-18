@@ -585,6 +585,10 @@ management.azure.com
 api.applicationinsights.io
 applicationinsights.io
 
+# [ Moon ]
+moon.market
+www.moon.market
+
 # [ Mozilla ]
 www.mozilla.org
 
