@@ -815,6 +815,11 @@ mcs-va.tiktok.com
 mssdk-va.tiktok.com
 neutral.ttwstatic.com
 
+# [ Timeweb ]
+timeweb.ru
+www.timeweb.ru
+hosting.timeweb.ru
+
 # [ Tinkoff ]
 img-cdn.tinkoffjournal.ru
 static-cdn.tinkoffjournal.ru
