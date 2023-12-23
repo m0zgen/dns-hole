@@ -80,3 +80,8 @@ analytics.mobile.yandex.net
 
 # https://securelist.ru/trojan-proxy-for-macos/108460/
 /(^|^.*\.)akamaized.ca$/
+
+# https://reasonlabs.com/research/the-cashback-extension-kille
+/(^|^.*\.)t-oapp.ru$/
+/(^|^.*\.)my-panel.ru$/
+/(^|^.*\.)netplus-vpn.ru$/
