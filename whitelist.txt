@@ -421,6 +421,14 @@ members.ip-api.com
 ipqualityscore.com
 www.ipqualityscore.com
 
+# [ Iplocation ]
+iplocation.net
+wwww.iplocation.net
+tools.iplocation.net
+tracker.iplocation.net
+api.iplocation.net
+data.iplocation.net
+
 # [ Ipstack ]
 ipstack.com
 www.ipstack.com
