@@ -626,6 +626,10 @@ e.customeriomail.com
 ip-api.com
 www.ip-api.com
 
+# [ Paloalto ]
+paloaltonetworks.com
+urlfiltering.paloaltonetworks.com
+
 # [ Paypal ]
 paypal.com
 www.paypal.com
