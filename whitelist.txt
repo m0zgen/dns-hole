@@ -626,10 +626,6 @@ e.customeriomail.com
 ip-api.com
 www.ip-api.com
 
-# [ Paloalto ]
-paloaltonetworks.com
-urlfiltering.paloaltonetworks.com
-
 # [ Paypal ]
 paypal.com
 www.paypal.com
@@ -638,6 +634,7 @@ www.paypal.com
 paloaltonetworks.com
 start.paloaltonetworks.com
 unit42.paloaltonetworks.com
+urlfiltering.paloaltonetworks.com
 
 # [ Pikabu ]
 cs.pikabu.ru
