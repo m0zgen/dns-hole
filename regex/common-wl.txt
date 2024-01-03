@@ -23,6 +23,10 @@
 /(^|^.*\.)weather.com$/
 # /(^|^.*\.)linkedin.com$/
 
+# [ Payments]
+/(^|^.*\.)swift.com$/
+/(^|^.*\.)dynatrace.com$/
+
 # [ Clouds / Nets ]
 /^.*-cdn.tinkoffjournal.ru$/
 /^api\..*.apple.com$/
