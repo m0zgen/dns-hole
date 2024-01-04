@@ -9,6 +9,7 @@
 /(^|^.*\.)lastpass.com$/
 /(^|^.*\.)licdn.com$/
 /(^|^.*\.)linkedin.com$/
+/(^|^.*\.)nessus.org$/
 /(^|^.*\.)openbld.net$/
 /(^|^.*\.)pikabu.ru$/
 /(^|^.*\.)qualtrics.com$/
