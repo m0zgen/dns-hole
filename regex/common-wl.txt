@@ -6,7 +6,9 @@
 /(^|^.*\.)gov$/
 /(^|^.*\.)intercom.io$/
 /(^|^.*\.)jivosite.com$/
+/(^|^.*\.)lastpass.com$/
 /(^|^.*\.)licdn.com$/
+/(^|^.*\.)linkedin.com$/
 /(^|^.*\.)openbld.net$/
 /(^|^.*\.)pikabu.ru$/
 /(^|^.*\.)qualtrics.com$/
@@ -21,11 +23,12 @@
 /(^|^.*\.)voidboost.cc$/
 /(^|^.*\.)wialon.com$/
 /(^|^.*\.)weather.com$/
-# /(^|^.*\.)linkedin.com$/
+/(^|^.*\.)vmware.com$/
 
 # [ Payments]
 /(^|^.*\.)swift.com$/
 /(^|^.*\.)dynatrace.com$/
+/(^|^.*\.)westernunion.com$/
 
 # [ Clouds / Nets ]
 /^.*-cdn.tinkoffjournal.ru$/
