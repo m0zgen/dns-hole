@@ -518,6 +518,9 @@ r.mail.ru
 connect.mail.ru
 portal.mail.ru
 e.mail.ru
+corp.mail.ru
+account.mail.ru
+mail.ru
 
 # [ Malwarebytes ]
 malwarebytes.com
