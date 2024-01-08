@@ -29,6 +29,10 @@ api.action-media.ru
 alternativeto.net
 www.alternativeto.net
 
+# [ AlphaVPS ]
+alphavps.com
+www.alphavps.com
+
 # [ Amazon]
 amazonaws.com
 s3.amazonaws.com
