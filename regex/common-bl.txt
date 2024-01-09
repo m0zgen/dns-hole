@@ -85,3 +85,9 @@ analytics.mobile.yandex.net
 /(^|^.*\.)t-oapp.ru$/
 /(^|^.*\.)my-panel.ru$/
 /(^|^.*\.)netplus-vpn.ru$/
+
+# [Lumma Variant] https://www.fortinet.com/blog/threat-research/lumma-variant-on-youtube
+/(^|^.*\.)netovrema.pw$/
+/(^|^.*\.)opposesicknessopw.pw$/
+/(^|^.*\.)politefrightenpowoa.pw$/
+/(^|^.*\.)chincenterblandwka.pw$/
