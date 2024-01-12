@@ -480,6 +480,10 @@ ivi-region.cdnvideo.ru
 ogp.me
 www.ogp.me
 
+# [ Opentext ]
+opentext.com
+www.opentext.com
+
 # [ Kazhackstan ]
 kazhackstan.com
 www.kazhackstan.com
