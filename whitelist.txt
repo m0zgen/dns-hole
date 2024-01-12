@@ -373,6 +373,11 @@ console.hetzner.com
 hetzner.cloud
 console.hetzner.cloud
 
+# [ Kaspersky ]
+kaspersky-labs.com
+www.kaspersky-labs.com
+ksn-stat-geo.kaspersky-labs.com
+
 # [ Kuma ]
 kuma.io
 www.kuma.io
