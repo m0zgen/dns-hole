@@ -872,6 +872,11 @@ tadviser.ru
 tamos-education.kz
 www.tamos-education.kz
 
+# [ Tektonit ]
+tektonit.ru
+www.tektonit.ru
+update.tektonit.ru
+
 # [ Tik Tok]
 tiktok.com
 ttwstatic.com
