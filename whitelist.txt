@@ -107,6 +107,8 @@ www.kaspi.kz
 binance.com
 www.binance.com
 log.bntrace.com
+launchpad.binance.com
+stream.binance.com
 
 # [ Bing ]
 bing.com
