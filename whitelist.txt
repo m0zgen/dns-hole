@@ -33,6 +33,10 @@ www.alternativeto.net
 alphavps.com
 www.alphavps.com
 
+# [ Akab ]
+akab.kz
+www.akab.kz
+
 # [ Amazon]
 amazonaws.com
 s3.amazonaws.com
@@ -107,6 +111,10 @@ log.bntrace.com
 # [ Bing ]
 bing.com
 www.bing.com
+
+# [ Bk ]
+bk.ru
+www.bk.ru
 
 # [ Braze ]
 braze.com
