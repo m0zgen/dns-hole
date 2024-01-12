@@ -741,6 +741,10 @@ blocklist.rkn.gov.ru
 eais.rkn.gov.ru
 rkn.gov.ru
 
+# [ Rmansys ]
+rmansys.ru
+www.rmansys.ru
+
 # [ rutor.is ]
 rutor.is
 www.rutor.is
