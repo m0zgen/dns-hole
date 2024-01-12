@@ -634,6 +634,11 @@ www.mywot.com
 mxtoolbox.com
 customer.io.mxtoolbox.com
 
+# [ Nesssus ]
+nessus.org
+www.nessus.org
+r.nessus.org
+
 # [ Netbox ]
 ns1.com
 
