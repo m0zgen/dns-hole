@@ -773,6 +773,9 @@ go.snyk.io
 app.snyk.io
 email.snyk.io
 
+# [ Smartway ]
+smartway.kz
+www.smartway.kz
 
 # [ Smi ]
 smi2.ru
