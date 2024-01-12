@@ -375,6 +375,11 @@ console.hetzner.com
 hetzner.cloud
 console.hetzner.cloud
 
+# [ Hitachivantara ]
+hitachivantara.com
+www.hitachivantara.com
+pages.hitachivantara.com
+
 # [ Kaspersky ]
 kaspersky-labs.com
 www.kaspersky-labs.com
