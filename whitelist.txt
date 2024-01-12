@@ -646,6 +646,10 @@ ns1.com
 netdata.cloud
 www.netdata.cloud
 
+# [ Nethouse ]
+nethouse.ru
+www.nethouse.ru
+
 # [ Notion ]
 # Unsubscribe link
 notion.so
