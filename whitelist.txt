@@ -868,6 +868,10 @@ www.sysdig.com
 www.tadviser.ru
 tadviser.ru
 
+# [ Tamos-education ]
+tamos-education.kz
+www.tamos-education.kz
+
 # [ Tik Tok]
 tiktok.com
 ttwstatic.com
