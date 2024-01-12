@@ -384,6 +384,10 @@ ksn-stat-geo.kaspersky-labs.com
 kuma.io
 www.kuma.io
 
+# [ List ]
+list.ru
+www.list.ru
+
 # [ Lunio ]
 lunio.ai
 www.lunio.ai
