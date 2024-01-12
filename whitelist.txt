@@ -489,6 +489,10 @@ www.ogp.me
 opentext.com
 www.opentext.com
 
+# [ Oszone ]
+oszone.net
+www.oszone.net
+
 # [ Kazhackstan ]
 kazhackstan.com
 www.kazhackstan.com
