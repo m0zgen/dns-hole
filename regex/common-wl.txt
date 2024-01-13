@@ -13,6 +13,7 @@
 /(^|^.*\.)openbld.net$/
 /(^|^.*\.)pikabu.ru$/
 /(^|^.*\.)qualtrics.com$/
+/(^|^.*\.)raiffeisen\.(ru|ua)$/
 /(^|^.*\.)sentry.io$/
 /(^|^.*\.)shodan.io$/
 /(^|^.*\.)smoot.apple.com$/
