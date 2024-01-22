@@ -847,6 +847,10 @@ sprig.com
 www.sprig.com
 api.sprig.com
 
+# [ Spy-soft ]
+spy-soft.net
+www.spy-soft.net
+
 # [ Start ]
 start.ru
 startimg.ru
