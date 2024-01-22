@@ -91,6 +91,11 @@ api.atlassian.com
 avito.st
 avito.ru
 
+# [ Azn ]
+azh.kz
+www.azh.kz
+f.azh.kz
+
 # [ Badoo]
 badoo.com
 www.badoo.com
