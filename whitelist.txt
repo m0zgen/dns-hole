@@ -450,6 +450,10 @@ code-jvs.jivosite.com
 # [ Jsdelivr ]
 cdn.jsdelivr.net
 
+# [ Idealmarket ]
+idealmarket.kz
+www.idealmarket.kz
+
 # [ Ipify ]
 ipify.org
 www.ipify.org
