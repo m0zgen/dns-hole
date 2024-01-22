@@ -198,6 +198,11 @@ go.crowdstrike.com
 crt.sh
 www.crt.sh
 
+# [ Db-Ip ]
+db-ip.com
+www.db-ip.com
+api.db-ip.com
+
 # [ DevOpsDays ]
 devopsdays.kz
 www.devopsdays.kz
@@ -383,6 +388,10 @@ console.hetzner.cloud
 hitachivantara.com
 www.hitachivantara.com
 pages.hitachivantara.com
+
+# [ Hm ]
+hm.ru
+www.hm.ru
 
 # [ Kaspersky ]
 kaspersky-labs.com
