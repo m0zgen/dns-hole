@@ -139,6 +139,10 @@ i.cackle.me
 # [ Cameras ]
 www3.haivision.com
 
+# [ Ceramo ]
+ceramogranit.kz
+www.ceramogranit.kz
+
 # [ Chatra ]
 chatra.io
 call.chatra.io
