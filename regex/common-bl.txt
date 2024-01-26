@@ -91,3 +91,6 @@ analytics.mobile.yandex.net
 /(^|^.*\.)opposesicknessopw.pw$/
 /(^|^.*\.)politefrightenpowoa.pw$/
 /(^|^.*\.)chincenterblandwka.pw$/
+
+# KazPost Scam
+/(^|^.*\.)post-serviceskz.top$/
