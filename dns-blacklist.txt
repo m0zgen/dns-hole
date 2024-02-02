@@ -1,3 +1,4 @@
+
 #
 # 
 # Gov target end
@@ -5012,6 +5013,7 @@ chappel.videogamer.com
 charlizetheron.sexybabesx.com
 chart.advinion.com
 chat.888.com
+chatapp-6b96e-default-rtdb.firebaseio.com
 chchoice.112.2o7.net
 cheatcc.us.intellitxt.com
 cheatingdome.us.intellitxt.com
@@ -5027,6 +5029,7 @@ chiemgau.ivwbox.de
 china.inmobi.com
 chip.de.intellitxt.com
 chip.ivwbox.de
+chit-chat-e9053-default-rtdb.firebaseio.com
 chlcotrk.com
 choice.microsoft.com
 choice.microsoft.com.nsatc.net
@@ -7780,6 +7783,7 @@ glean.pop6.com
 glitter.services.disqus.com
 global.ekmpinpoint.com
 global.msads.net
+glowchat-33103-default-rtdb.firebaseio.com
 gm.demdex.net
 gm.mmstat.com
 gm.touchclarity.com
@@ -8023,6 +8027,7 @@ helios.finn.no
 helios.fvn.no
 helios.gamerdna.com
 helium.us.intellitxt.com
+hello-chat-c47ad-default-rtdb.firebaseio.com
 hello.sexer.com
 hellomagazine.uk.intellitxt.com
 helltraffic.com
@@ -9206,6 +9211,7 @@ legitreviews.uk.intellitxt.com
 lehtimedia.spring-tns.net
 lepubs.com
 lesechos.ezakus.net
+letschat-5d5e3-default-rtdb.firebaseio.com
 letsgodigital.uk.intellitxt.com
 letsrun.us.intellitxt.com
 level3.applifier.com
@@ -9821,6 +9827,7 @@ medienhaus.nuggad.net
 medindia.us.intellitxt.com
 mediocre.se
 medleyads.com
+meetme-abc03-default-rtdb.firebaseio.com
 meetupdev.122.2o7.net
 megapopads.com
 mehdi.carpediem.fr
@@ -11801,6 +11808,7 @@ prisacom.112.2o7.net
 priusonline.us.intellitxt.com
 privacycontrol.com
 privatamateure.com
+privchat-6cc58-default-rtdb.firebaseio.com
 prizemachine.games.iwon.com
 prnewswire.122.2o7.net
 pro-networks.us.intellitxt.com
@@ -12013,6 +12021,7 @@ quantserve.com
 questiacom.112.2o7.net
 questionsurveyfriend.com
 questsoftware.112.2o7.net
+quick-chat-1d242-default-rtdb.firebaseio.com
 quick-down-win.com
 quickpwn.us.intellitxt.com
 quik2link.com
@@ -14449,6 +14458,7 @@ tidbitscom.skimlinks.com
 tie.iprom.net
 tigershark.adultadworld.com
 tikonl.ivwbox.de
+tiktalk-2fc98-default-rtdb.firebaseio.com
 timecom.112.2o7.net
 timecom.122.2o7.net
 timeessence.122.2o7.net
@@ -15420,6 +15430,7 @@ watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
 watson.telemetry.microsoft.com.nsatc.net
 watube.com
+wave-chat-e52fe-default-rtdb.firebaseio.com
 wb.interpolls.com
 wba.wirtschaftsblatt.at
 wbads.vo.llnwd.net
@@ -18096,6 +18107,7 @@ yllix.com
 ym.adnxs.com
 ym.bannerconnect.net
 yoda.cybereps.com
+yooho-c3345-default-rtdb.firebaseio.com
 yorick.adjuggler.net
 youminor.ru
 your.com
