@@ -94,3 +94,10 @@ analytics.mobile.yandex.net
 
 # KazPost Scam
 /(^|^.*\.)post-serviceskz.top$/
+
+# KazEgov Scam
+# https://t.me/securixy_kz/820
+/(^|^.*\.)oneindia.info$/
+/(^|^.*\.)jretail.co.uk$/
+/(^|^.*\.)egov-kz.online$/
+

@@ -6379,6 +6379,7 @@ dt.adsafeprotected.com
 dt.scanscout.com
 dts.akamai.startappexchange.com
 dts.innovid.com
+dualstack.sonatype.map.fastly.net
 dubai.best-top.biz
 dvdcovers.spacash.com
 dvdhentai.net
