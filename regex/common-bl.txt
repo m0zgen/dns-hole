@@ -1,3 +1,18 @@
+# [ Noise ]
+
+# #
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+
+#
+avatars.mds.yandex.net
+www.avatars.mds.yandex.net
+appmetrica.yandex.com
+analytics.mobile.yandex.net
+/avatars.(.*[a-z]){3}.yandex.net/
+
+# [ Malware Domain ]
+
 # Src: https://www.r-tec.net/r-tec-blog-when-hackers-hack-the-hackers.html
 /(^|^.*\.)servehttp.com$/
 adsense.servehttp.com
@@ -26,17 +41,6 @@ nuget.servehttp.com
 # https://citizenlab.ca/2023/09/predator-in-the-wires-ahmed-eltantawy-targeted-with-predator-spyware-after-announcing-presidential-ambitions/
 /(^|^.*\.)sec-flare.com$/
 /(^|^.*\.)verifyurl.me$/
-
-#
-ads.linkedin.com
-analytics.pointdrive.linkedin.com
-
-#
-avatars.mds.yandex.net
-www.avatars.mds.yandex.net
-appmetrica.yandex.com
-analytics.mobile.yandex.net
-/avatars.(.*[a-z]){3}.yandex.net/
 
 # https://securelist.ru/backdoored-free-download-manager-linux-malware/107924/
 /(^|^.*\.)fdmpkg.org$/
