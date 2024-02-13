@@ -30,6 +30,16 @@
 # [ Banks ]
 /(^|^.*\.)kaspi.(kz)$/
 /(^|^.*\.)halykbank.(kz)$/
+/(^|^.*\.)bankrbk.(kz)$/
+/(^|^.*\.)bcc.(kz)$/
+/(^|^.*\.)forte.(kz)$/
+/(^|^.*\.)bankffin.(kz)$/
+/(^|^.*\.)mykassa.(kz)$/
+/(^|^.*\.)nurbank.(kz)$/
+/(^|^.*\.)nurbank24.(kz)$/
+/(^|^.*\.)hcsbk.(kz)$/
+/(^|^.*\.)nurbank24.(kz)$/
+/(^|^.*\.)nationalbank.(kz)$/
 
 # [ Payments]
 /(^|^.*\.)swift.com$/
