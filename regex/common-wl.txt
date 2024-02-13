@@ -27,6 +27,10 @@
 /(^|^.*\.)weather.com$/
 /(^|^.*\.)vmware.com$/
 
+# [ Banks ]
+/(^|^.*\.)kaspi.(kz)$/
+/(^|^.*\.)halykbank.(kz)$/
+
 # [ Payments]
 /(^|^.*\.)swift.com$/
 /(^|^.*\.)dynatrace.com$/
