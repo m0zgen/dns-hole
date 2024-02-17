@@ -212,6 +212,9 @@ api.db-ip.com
 devopsdays.kz
 www.devopsdays.kz
 
+# [ Submitted gov resources ]
+sister.agenziaentrate.gov.it
+
 # [ Dhs (Homeland Security) ]
 dhs.gov
 www.dhs.gov

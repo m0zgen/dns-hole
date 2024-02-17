@@ -2,7 +2,7 @@
 /(^|^.*\.)comagic.ru$/
 /(^|^.*\.)datadoghq.com$/
 /(^|^.*\.)digicert.com$/
-/(^|^.*\.)gov.(kz|by|ru|uz|kg|uk|cn)$/
+/(^|^.*\.)gov.(kz|by|ru|uz|kg|uk|cn|it)$/
 /(^|^.*\.)gov$/
 /(^|^.*\.)intercom.io$/
 /(^|^.*\.)jivosite.com$/
