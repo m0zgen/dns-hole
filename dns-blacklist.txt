@@ -617,6 +617,7 @@ accva.advertserve.com
 ace-lb.advertising.com
 ace-tag.advertising.com
 ace.adoftheyear.com
+acedatacenter.com
 aceshowbiz.us.intellitxt.com
 acezip.net
 achmedia.com
@@ -3006,6 +3007,7 @@ ai.p.findology.com
 aidps.atdmt.com
 aidu.ivwbox.de
 aimfar.solution.weborama.fr
+airtel.com
 aiu-w.com
 aj.600z.com
 aj.adjungle.com
@@ -3033,6 +3035,7 @@ akihabaranews.us.intellitxt.com
 albanytimesunion.122.2o7.net
 alex.fileburst.com
 alexa-sitestats.s3.amazonaws.com
+alexhost.com
 alfatraffic.com
 algenib.ru
 aliciakeys.sexybabesx.com
@@ -9304,6 +9307,7 @@ loadm.exelator.com
 loadus.exelator.com
 loady.de.intellitxt.com
 lobby.sexlist.com
+lobnya.com
 loc1.hitsprocessor.com
 lockergnome.us.intellitxt.com
 log.adap.tv
@@ -9631,6 +9635,7 @@ main.rampidads.com
 mainstream.topbucks.com
 mainstreet.us.intellitxt.com
 majorgeeks.us.intellitxt.com
+makeapp.today
 makeherup.us.intellitxt.com
 makemeheal.us.intellitxt.com
 makeushot.us.intellitxt.com
@@ -10170,6 +10175,7 @@ mobilityguru.us.intellitxt.com
 mobpopup-elb-1179019535.us-east-1.elb.amazonaws.com
 mobwin.app.qq.com
 modifiedlife.us.intellitxt.com
+mol.ru
 mola77.mobilenobo.com
 mom.freelogs.com
 mommyish.us.intellitxt.com
@@ -10314,6 +10320,7 @@ mt83.mtree.com
 mt94.mtree.com
 mtdata.ru
 mtg.tns-cs.net
+mtnonline.com
 mtrcs.redhat.com
 mtree.com
 mtrics.cdc.gov
@@ -12801,6 +12808,7 @@ sa2.ipon.lt
 sacdcad01.salon.com
 sacdcad02.salon.com
 sacdcad03.salon.com
+sachacel.ru
 sact.atdmt.com
 safaribooks.112.2o7.net
 safe-es.imrworldwide.com
@@ -13349,6 +13357,7 @@ smart.synergy-e.com
 smartabouthealth.us.intellitxt.com
 smartad.mercadolibre.com.ar
 smartad.mercadolivre.com.br
+smartape.net
 smartcarfinder.us.intellitxt.com
 smartdevicecentral.us.intellitxt.com
 smartinit.webads.nl
