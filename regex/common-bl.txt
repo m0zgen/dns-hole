@@ -105,3 +105,8 @@ nuget.servehttp.com
 /(^|^.*\.)jretail.co.uk$/
 /(^|^.*\.)egov-kz.online$/
 
+# Pelmeni wrapper -https://lab52.io/blog/pelmeni-wrapper-new-wrapper-of-kazuar-turla-backdoor/
+/(^|^.*\.)sam-maintenance.com$/
+/(^|^.*\.)bibliotecaunicef.uy$/
+/(^|^.*\.)altavista[.]rs$/
+
