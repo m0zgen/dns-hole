@@ -110,3 +110,10 @@ nuget.servehttp.com
 /(^|^.*\.)bibliotecaunicef.uy$/
 /(^|^.*\.)altavista[.]rs$/
 
+# WogRAT Malware Exploits aNotepad
+# https://asec.ahnlab.com/en/62446/
+/(^|^.*\.)linuxwork.net$/
+/(^|^.*\.)t0rguard.net$/
+/(^|^.*\.)newujs.com$/
+/(^|^.*\.)domaiso.com$/
+/(^|^.*\.)jp.anotepad.com$/
