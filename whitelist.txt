@@ -108,6 +108,13 @@ ibank.forte.kz
 kazpi.kz
 www.kaspi.kz
 
+# [ Banking App for Mobiles]
+app.adjust.com
+app.adjust.net.in
+app.adjust.world
+api2.amplitude.com
+app-measurement.com
+
 # [ Binance ]
 binance.com
 www.binance.com

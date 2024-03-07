@@ -41,6 +41,12 @@
 /(^|^.*\.)nurbank24.(kz)$/
 /(^|^.*\.)nationalbank.(kz)$/
 
+# [ Mobile banking]
+/(^|^.*\.)aaplimg.com$/
+/(^|^.*\.)appsflyersdk.com$/
+/^firebase.*.googleapis.com$/
+/^firebase.*.crashlytics.com$/
+
 # [ Payments]
 /(^|^.*\.)swift.com$/
 /(^|^.*\.)dynatrace.com$/
@@ -53,7 +59,6 @@
 /^app.([a-z]).seagate.com$/
 /^cdn\d.edgedatg.com$/
 /^data.em[0-9].cloudflare.com$/
-/^firebase.*.googleapis.com$/
 /^ovh.commander[0-9]{1,2}.com$/
 /^sf[0-9]{2,}-website-login.neutral.ttwstatic.com$/
 /avatars(|\d).githubusercontent.com$/
