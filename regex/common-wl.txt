@@ -44,6 +44,7 @@
 # [ Mobile banking]
 /(^|^.*\.)aaplimg.com$/
 /(^|^.*\.)appsflyersdk.com$/
+/(^|^.*\.)appsflyer.com$/
 /^firebase.*.googleapis.com$/
 /^firebase.*.crashlytics.com$/
 
