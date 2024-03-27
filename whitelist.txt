@@ -277,6 +277,10 @@ www.electrum.org
 download.electrum.org
 www.download.electrum.org
 
+# [ Etoro ]
+etoro.com
+www.etoro.com
+
 # [ Examcollection ]
 www.examcollection.com
 examcollection.com
