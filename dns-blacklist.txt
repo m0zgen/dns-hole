@@ -15096,6 +15096,7 @@ up.cm.ksmobile.com
 up.nytimes.com
 upads.info
 update-java.kit.net
+update.centos-yum.com
 update.estrongs.com
 update.hiconversion.com
 update.privdog.com
