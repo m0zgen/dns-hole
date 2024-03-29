@@ -135,6 +135,10 @@ braze.com
 www.braze.com
 sdk.iad-01.braze.com
 
+# [ Bubble ]
+bubble.io
+www.bubble.io
+
 # [ Burp ]
 portswigger.net
 www.portswigger.net
