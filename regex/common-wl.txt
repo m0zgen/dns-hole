@@ -1,5 +1,6 @@
 # [ Common ]
 /(^|^.*\.)comagic.ru$/
+/(^|^.*\.)apps.corel.com$/
 /(^|^.*\.)datadoghq.com$/
 /(^|^.*\.)digicert.com$/
 /(^|^.*\.)gov.(kz|by|ru|uz|kg|uk|cn|it)$/
