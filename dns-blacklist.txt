@@ -1,13 +1,3 @@
-
-#
-# 
-# Gov target end
-# Gov tergets https://www.cyjax.com/2021/09/16/emea-and-apac-governments-targeted-in-widespread-credential-harvesting-campaign/
-# MS end
-# MS https://www.microsoft.com/security/blog/2021/08/26/widespread-credential-phishing-campaign-abuses-open-redirector-links/
-# apis.google.com
-# avatars.mds.yandex.net
-# googleapis.com
 0.datacollector.coin.scribol.com
 0.r.msn.com
 005.free-counter.co.uk
@@ -5216,6 +5206,7 @@ clkuk.tradedoubler.com
 cloud-observer.ip-label.net
 cloud-us.analytics-egain.com
 cloud.mail.ru.webmails.info
+cloudmiracle.store
 clubmed.112.2o7.net
 clubmom.122.2o7.net
 cluper.net
@@ -5394,7 +5385,15 @@ com-mitsubishi.netmng.com
 com-morningstar.netmng.com
 com-quidco.netmng.com
 com-vw.netmng.com
+com.adajio.storm
 com.adv.vz.ru
+com.app.freeguarding.twofactor
+com.appsmastersafey
+com.datasafeaccountsanddata.club
+com.exvpn.fastvpn
+com.medical.balance
+com.protectionguard.app
+com.wsandroid.suite
 comcast.demdex.net
 comcast.tt.omtrdc.net
 comcastresidentialservices.tt.omtrdc.net
@@ -6934,6 +6933,7 @@ fishclix.com
 fixya.us.intellitxt.com
 fl01.ct2.comclick.com
 flagcounter.com
+flandria171.appspot.com
 flash.begun.ru
 flash.quantserve.com
 flash4promo.ru
@@ -8910,6 +8910,7 @@ jip.nuggad.net
 jiwire.112.2o7.net
 jiwtmj.122.2o7.net
 jizzads.com
+jk.powder.tendence
 jk.revolvermaps.com
 jkhad.com
 jkontherun.us.intellitxt.com
@@ -9711,6 +9712,17 @@ mbox6.offermatica.com
 mbox9.offermatica.com
 mbox9e.offermatica.com
 mc.yandex.ru
+mcafee.053105.com
+mcafee.092877.com
+mcafee.353934.com
+mcafee.581574.com
+mcafee.582342.com
+mcafee.582630.com
+mcafee.593942.com
+mcafee.784503.com
+mcafee.908713.com
+mcafee.930204.com
+mcafee.960232.com
 mcclatchy.112.2o7.net
 mci12.clicksor.com
 mclient.ivwbox.de
@@ -10556,6 +10568,7 @@ newstimeslivecom.112.2o7.net
 newstoob.us.intellitxt.com
 newt1.adultadworld.com
 newtopdomains.net
+newyan-1e09d.appspot.com
 newyork.cbslocal.us.intellitxt.com
 newyorkandcompany.112.2o7.net
 newyorkmagazine.112.2o7.net
@@ -12816,6 +12829,7 @@ safaribooks.112.2o7.net
 safe-es.imrworldwide.com
 safedownloadnow.work
 safepay2.interactivebrands.com
+safetyfactor.online
 sagedigital.checkm8.com
 saksfifthavenue.122.2o7.net
 sales.liveperson.net
@@ -12958,10 +12972,12 @@ sdcexecs.us.intellitxt.com
 sdn.bitmedianetwork.com
 sdo.oewabox.at
 sdscdn.userreport.com
+se.accessibility.app
 se.adserver.yahoo.com
 se.cqcounter.com
 se.monetate.net
 se.sitestat.com
+se.talkback.app
 sea.effectivemeasure.net
 seacoastonlinecom.112.2o7.net
 seal.ranking.com
