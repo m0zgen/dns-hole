@@ -928,6 +928,13 @@ tektonit.ru
 www.tektonit.ru
 update.tektonit.ru
 
+# [ Telegram ]
+telegram.me
+telegram.org
+telesco.pe
+tg.dev
+t.me
+
 # [ Tik Tok]
 tiktok.com
 ttwstatic.com
