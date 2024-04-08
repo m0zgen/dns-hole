@@ -713,6 +713,10 @@ www.notion.so
 exp.notion.so
 e.customeriomail.com
 
+# [ Oshi ]
+oshi.at
+www.oshi.at
+
 # [ ip-api.com ]
 ip-api.com
 www.ip-api.com
