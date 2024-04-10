@@ -117,3 +117,8 @@ nuget.servehttp.com
 /(^|^.*\.)newujs.com$/
 /(^|^.*\.)domaiso.com$/
 /(^|^.*\.)jp.anotepad.com$/
+
+# Bing ad for NordVPN leads to SecTopRAT
+# https://www.malwarebytes.com/blog/threat-intelligence/2024/04/bing-ad-for-nordvpn-leads-to-sectoprat
+/(^|^.*\.)nordivpn.xyz$/
+/(^|^.*\.)besthord-vpn.com$/
