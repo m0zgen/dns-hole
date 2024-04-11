@@ -127,4 +127,5 @@ nuget.servehttp.com
 # https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta547-targets-german-organizations-rhadamanthys-stealer
 /(^|^.*\.)bolibachan.com$/
 /(^|^.*\.)indscpm.xyz$/
+/(^|^.*\.)metro-delivery.com$/
 
