@@ -787,6 +787,10 @@ resource.redcanary.com
 reddit.com
 alb.reddit.com
 
+# [ Redhead ]
+redthread.studio
+www.redthread.studio
+
 # [ Rkn ]
 blocklist.rkn.gov.ru
 eais.rkn.gov.ru
