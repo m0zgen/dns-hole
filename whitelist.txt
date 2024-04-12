@@ -1002,6 +1002,10 @@ www.vk.com
 uptimerobot.com
 www.uptimerobot.com
 
+# [ Urbanculture ]
+urbanculture.pro
+www.urbanculture.pro
+
 # [ Watchit ]
 watchit.ru
 web.watchit.ru
