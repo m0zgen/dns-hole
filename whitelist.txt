@@ -748,7 +748,7 @@ sm.pinimg.com
 playrix.com
 www.playrix.com
 
-# [  ]
+# [ Postmark ]
 postmarkapp.com
 pstmrk.it
 click.pstmrk.it
