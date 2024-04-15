@@ -46,6 +46,7 @@
 /(^|^.*\.)aaplimg.com$/
 /(^|^.*\.)appsflyersdk.com$/
 /(^|^.*\.)appsflyer.com$/
+/(^|^.*\.)sustainalytics.com$/
 /^firebase.*.googleapis.com$/
 /^firebase.*.crashlytics.com$/
 
