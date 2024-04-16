@@ -201,6 +201,10 @@ mymonero.com
 contabo.com
 my.contabo.com
 
+# [ ComputingForGeeks ]
+computingforgeeks.com
+www.computingforgeeks.com
+
 # [ Cookielaw ]
 cookielaw.org
 www.cookielaw.org
