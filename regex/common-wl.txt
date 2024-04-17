@@ -50,6 +50,9 @@
 /^firebase.*.googleapis.com$/
 /^firebase.*.crashlytics.com$/
 
+# [ Depended ]
+/(^|^.*\.)yurta.me$/
+
 # [ Payments]
 /(^|^.*\.)swift.com$/
 /(^|^.*\.)dynatrace.com$/
