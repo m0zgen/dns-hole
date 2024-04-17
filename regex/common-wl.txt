@@ -51,7 +51,7 @@
 /^firebase.*.crashlytics.com$/
 
 # [ Depended ]
-/(^|^.*\.)yurta.me$/
+#
 
 # [ Payments]
 /(^|^.*\.)swift.com$/
