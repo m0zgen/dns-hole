@@ -489,6 +489,10 @@ ip-api.com
 www.ip-api.com
 members.ip-api.com
 
+# [ Ip.me ]
+ip.me
+www.ip.me
+
 # [ Ipqualityscore ]
 ipqualityscore.com
 www.ipqualityscore.com
