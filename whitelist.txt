@@ -126,6 +126,10 @@ stream.binance.com
 bing.com
 www.bing.com
 
+# [ Bitpay ]
+bitpay.com
+www.bitpay.com
+
 # [ Bk ]
 bk.ru
 www.bk.ru
