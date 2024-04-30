@@ -164,6 +164,10 @@ chatra.io
 call.chatra.io
 static.chatra.io
 
+# [ Ccbill ]
+ccbill.com
+www.ccbill.com
+
 # [ Cisecurity ]
 cisecurity.org
 learn.cisecurity.org
