@@ -737,6 +737,9 @@ www.oshi.at
 ip-api.com
 www.ip-api.com
 
+# [ Patreon Mailgun ]
+email.mailgun.patreon.com
+
 # [ Paypal ]
 paypal.com
 www.paypal.com
