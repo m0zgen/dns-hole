@@ -129,3 +129,10 @@ nuget.servehttp.com
 /(^|^.*\.)indscpm.xyz$/
 /(^|^.*\.)metro-delivery.com$/
 
+# Trusted Brands and Sponsored Google Ads to Distribute MSIX Payloads
+# https://www.esentire.com/blog/fin7-uses-trusted-brands-and-sponsored-google-ads-to-distribute-msix-payloads
+sun47281.space
+storageplace.pro
+sun1.space
+cdn41.space
+cdn46.space
