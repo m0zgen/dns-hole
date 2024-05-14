@@ -82,6 +82,11 @@ radarsubmissions.apple.com
 appsecfest.kz
 www.appsecfest.kz
 
+# [ Archive ]
+archive.org
+www.archive.org
+web.archive.org
+
 # [ Atlassian ]
 api-private.atlassian.com
 api.atlassian.com
