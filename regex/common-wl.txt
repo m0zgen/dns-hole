@@ -50,14 +50,14 @@
 /^firebase.*.googleapis.com$/
 /^firebase.*.crashlytics.com$/
 
-# [ Depended ]
-#
-
 # [ Payments]
 /(^|^.*\.)swift.com$/
 /(^|^.*\.)dynatrace.com$/
 /(^|^.*\.)westernunion.com$/
 /(^|^.*\.)1xbet.(kz|com)$/
+
+# [ Filters ]
+/(^|^.*\.)oisd.nl$/
 
 # [ Clouds / Nets ]
 /^.*-cdn.tinkoffjournal.ru$/
