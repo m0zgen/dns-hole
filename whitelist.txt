@@ -584,6 +584,11 @@ media-exp1.licdn.com
 static-exp1.licdn.com
 platform.linkedin.com
 
+# [ Link Synergy ]
+linksynergy.com
+click.linksynergy.com
+www.linksynergy.com
+
 # [ Log systems ]
 www.datadoghq.com
 datadoghq.com
