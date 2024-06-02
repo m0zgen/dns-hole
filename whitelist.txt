@@ -773,6 +773,10 @@ sm.pinimg.com
 #log.pinterest.com
 #trk.pinterest.com
 
+# [ PQ Hosting ]
+pq.hosting
+www.pq.hosting
+
 # [ Playrix ]
 playrix.com
 www.playrix.com
