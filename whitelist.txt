@@ -760,6 +760,10 @@ start.paloaltonetworks.com
 unit42.paloaltonetworks.com
 urlfiltering.paloaltonetworks.com
 
+# [ Pdm ]
+pdm.kz
+www.pdm.kz
+
 # [ Pikabu ]
 cs.pikabu.ru
 
