@@ -75,6 +75,8 @@ iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
 internalcheck.apple.com
 radarsubmissions.apple.com
+gateway.fe.apple-dns.net
+gateway.icloud.com
 # iadsdk.apple.com
 # notes-analytics-events.apple.com
 
