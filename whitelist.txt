@@ -17,6 +17,10 @@ vip.1gl.ru
 2ip.ru
 www.2ip.ru
 
+# [ 2gis ]
+2gis.kz
+www.2gis.kz
+
 # [ Abusing ]
 mirror1.malwaredomains.com
 zeustracker.abuse.ch
