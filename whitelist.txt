@@ -181,7 +181,7 @@ static.chatra.io
 
 # [ Chrome ]
 chromestatus.com
-www.chromestatus.co
+www.chromestatus.com
 
 # [ Ccbill ]
 ccbill.com
