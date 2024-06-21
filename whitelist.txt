@@ -175,6 +175,10 @@ chatra.io
 call.chatra.io
 static.chatra.io
 
+# [ Chrome ]
+chromestatus.com
+www.chromestatus.co
+
 # [ Ccbill ]
 ccbill.com
 www.ccbill.com
