@@ -888,6 +888,10 @@ api.shodan.io
 okt.to
 www.okt.to
 
+# [ Sixt ]
+sixt.lv
+www.sixt.lv
+
 # [ Spiceworks ]
 spiceworks.com
 www.spiceworks.com
