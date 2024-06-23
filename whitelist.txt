@@ -749,6 +749,11 @@ www.notion.so
 exp.notion.so
 e.customeriomail.com
 
+# [ Opera ]
+opera.com
+www.opera.com
+net.geo.opera.com
+
 # [ Oshi ]
 oshi.at
 www.oshi.at
