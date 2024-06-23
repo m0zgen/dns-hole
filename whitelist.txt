@@ -507,10 +507,13 @@ api.ipify.org
 # [ Ipapi / Ip-Api ]
 ipapi.co
 www.ipapi.co
-
 ip-api.com
 www.ip-api.com
 members.ip-api.com
+
+# [ Ipinfo ]
+ipinfo.io
+www.ipinfo.io
 
 # [ Ip.me ]
 ip.me
