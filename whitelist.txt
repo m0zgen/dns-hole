@@ -478,6 +478,11 @@ marketing.hhglobal.com
 # [ Hhcdn ]
 hhcdn.ru
 
+# [ Hypr ]
+hypr.com
+www.hypr.com
+blog.hypr.com
+
 # [ Howtofix ]
 howtofix.guide
 www.howtofix.guide
