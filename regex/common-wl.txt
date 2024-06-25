@@ -3,6 +3,7 @@
 /(^|^.*\.)apps.corel.com$/
 /(^|^.*\.)datadoghq.com$/
 /(^|^.*\.)digicert.com$/
+/(^|^.*\.)entrust.net$/
 /(^|^.*\.)gov.(kz|by|ru|uz|kg|uk|cn|it)$/
 /(^|^.*\.)gov$/
 /(^|^.*\.)intercom.io$/

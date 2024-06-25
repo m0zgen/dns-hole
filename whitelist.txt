@@ -61,6 +61,8 @@ albert.apple.com
 appldnld.apple.com
 configuration.apple.com
 cdn-apple.com
+updates-http.cdn-apple.com
+updates.cdn-apple.com
 deimos3.apple.com
 gg.apple.com
 gs.apple.com
@@ -81,6 +83,10 @@ internalcheck.apple.com
 radarsubmissions.apple.com
 gateway.fe.apple-dns.net
 gateway.icloud.com
+api.apple-cloudkit.com
+token.safebrowsing.apple
+appldnld.apple.com.edgesuite.net
+appleid.cdn-apple.com
 # iadsdk.apple.com
 # notes-analytics-events.apple.com
 
