@@ -233,3 +233,8 @@ wellsystemte.net
 wipresolutions.com
 withclier.com
 
+# Polyfill supply chain attack
+# https://sansec.io/research/polyfill-supply-chain-attack
+
+/(^|^.*\.)kuurza.com$/
+/(^|^.*\.)googie-anaiytics.com$/
