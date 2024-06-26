@@ -8,6 +8,7 @@ ggpht.com
 # Google APIs
 googleapis.com
 www.googleapis.com
+storage.googleapis.com
 
 # Google User Content
 googleusercontent.com
