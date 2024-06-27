@@ -54,6 +54,9 @@ khms3.googleapis.com
 # YouTube
 yt3.ggpht.com
 youtube.com
+www.youtube.com
+youtu.be
+www.youtu.be
 i.ytimg.com
 
 # Test click results for Google search 
