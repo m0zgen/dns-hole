@@ -651,6 +651,9 @@ e.mail.ru
 corp.mail.ru
 account.mail.ru
 mail.ru
+smtp.mail.ru
+push-me.mail.ru
+portal.mail.ru
 
 # [ Malwarebytes ]
 malwarebytes.com
