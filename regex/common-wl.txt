@@ -63,6 +63,7 @@
 # [ Clouds / Nets ]
 /^.*-cdn.tinkoffjournal.ru$/
 /^api\..*.apple.com$/
+/(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns).net$/
 /^app.([a-z]).seagate.com$/
 /^cdn\d.edgedatg.com$/
 /^data.em[0-9].cloudflare.com$/
@@ -74,6 +75,10 @@
 /ns[1-2].dropbox.com$/
 /rtc-cloud-[a-z]{2,}[1-9].bitrix.info$/
 /static[1-9].tinkoffjournal.ru$/
+/(^|^.*\.)akamai\.net$/
+/(^|^.*\.)unity3d\.com$/
+# /(^|^.*\.)akadns\.net$/
+# /(^|^.*\.)fastly\.net$/
 
 # [ Media ]
 /^baskino.me$/
@@ -82,6 +87,11 @@
 /^static.([d-h]{2})rezka.([a-c]{2})$/
 /^voidboost.net$/
 /(^|^.*\.)kahoot.(com|it)$/
+
+# [ Social / Jobs ]
+/(^|^.*\.)hh.([a-z]{2,})$/
+/(^|^.*\.)x\.com$/
+/(^|^.*\.)twimg\.com$/
 
 # [ MS ]
 /v[1-9\d]{0,2}.events.data.microsoft.com$/
