@@ -339,8 +339,13 @@ dl.dropboxusercontent.com
 ns1.dropbox.com
 ns2.dropbox.com
 
-#[ Finance ]
+# [ Finance ]
 plus.1fd.ru
+
+# [ FindMyKids ]
+findmykids.org
+www.findmykids.org
+api.findmykids.org
 
 # [ Flutter ]
 flutter.dev
