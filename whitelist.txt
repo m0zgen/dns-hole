@@ -771,6 +771,8 @@ e.customeriomail.com
 opera.com
 www.opera.com
 net.geo.opera.com
+pns-sdk.opera-api.com
+ofa-sub.osp.opera.software
 
 # [ Oshi ]
 oshi.at

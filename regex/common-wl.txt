@@ -136,4 +136,5 @@
 /(^|^.*\.)cloudfront.net$/
 /(^|^.*\.)mozilla.com$/
 /(^|^.*\.)firefox.com$/
+/(^|^.*\.)opera.com$/
 
