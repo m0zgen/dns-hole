@@ -134,3 +134,6 @@
 
 # [ Tests ]
 /(^|^.*\.)cloudfront.net$/
+/(^|^.*\.)mozilla.com$/
+/(^|^.*\.)firefox.com$/
+
