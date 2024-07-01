@@ -12,6 +12,8 @@ storage.googleapis.com
 
 # Google User Content
 googleusercontent.com
+people-pa.googleapis.com
+people.googleapis.com
 
 # Google Fonts
 fonts.gstatic.com
