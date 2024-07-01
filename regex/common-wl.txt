@@ -63,7 +63,7 @@
 # [ Clouds / Nets ]
 /^.*-cdn.tinkoffjournal.ru$/
 /^api\..*.apple.com$/
-/(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns).net$/
+/(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns|com.edgekey).net$/
 /(^|^.*\.)mzstatic\.com$/
 /^app.([a-z]).seagate.com$/
 /^cdn\d.edgedatg.com$/
