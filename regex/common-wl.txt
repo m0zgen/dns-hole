@@ -64,6 +64,7 @@
 /^.*-cdn.tinkoffjournal.ru$/
 /^api\..*.apple.com$/
 /(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns|com.edgekey|com.edgesuite).net$/
+/(^|^.*\.)icloud.com.akadns.net$/
 /(^|^.*\.)mzstatic\.com$/
 /^app.([a-z]).seagate.com$/
 /^cdn\d.edgedatg.com$/
