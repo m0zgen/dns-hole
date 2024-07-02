@@ -135,7 +135,7 @@
 
 # [ Tests ]
 /(^|^.*\.)cloudfront.net$/
-/(^|^.*\.)mozilla.com$/
+/(^|^.*\.)mozilla.(com|org)$/
 /(^|^.*\.)firefox.com$/
 /(^|^.*\.)opera.com$/
 
