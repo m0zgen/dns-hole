@@ -355,6 +355,8 @@ docs.flutter.dev
 github.com
 api.github.com
 vscode-auth.github.com
+alive.github.com
+collector.github.com
 # copilot-proxy.githubusercontent.com
 
 # [ Raketa ]
