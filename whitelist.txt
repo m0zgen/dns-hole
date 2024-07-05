@@ -533,6 +533,8 @@ members.ip-api.com
 # [ Ipinfo ]
 ipinfo.io
 www.ipinfo.io
+ipinfo.info
+www.ipinfo.info
 
 # [ Ip.me ]
 ip.me
