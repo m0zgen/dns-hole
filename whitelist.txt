@@ -1083,6 +1083,11 @@ cp.vdsina.ru
 vk.com
 www.vk.com
 
+# [ Vue ]
+vuejs.org
+www.vuejs.org
+sponsors.vuejs.org
+
 # [ UptimeRobot ]
 uptimerobot.com
 www.uptimerobot.com
