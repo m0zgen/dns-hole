@@ -298,6 +298,8 @@ ddg.gg
 # [ Dzen ]
 dzen.ru
 www.dzen.ru
+log.dzen.ru
+cdn.dzen.ru
 
 # [ Egov ]
 egov.kz
