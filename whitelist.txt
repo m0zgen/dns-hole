@@ -793,6 +793,11 @@ www.oshi.at
 ip-api.com
 www.ip-api.com
 
+# [ Pardot ]
+# Storage for CIS downloading
+pardot.com
+storage.pardot.com
+
 # [ Patreon Mailgun ]
 email.mailgun.patreon.com
 
