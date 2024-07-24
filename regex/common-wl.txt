@@ -48,6 +48,7 @@
 /(^|^.*\.)appsflyersdk.com$/
 /(^|^.*\.)appsflyer.com$/
 /(^|^.*\.)sustainalytics.com$/
+/(^|^.*\.)acfcs.org$/
 /^firebase.*.googleapis.com$/
 /^firebase.*.crashlytics.com$/
 
