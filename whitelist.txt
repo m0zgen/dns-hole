@@ -240,6 +240,10 @@ cookielaw.org
 www.cookielaw.org
 cdn.cookielaw.org
 
+# [ Coralogix ]
+coralogix.com
+www.coralogix.com
+
 # [ Crowdstrike ]
 crowdstrike.com
 go.crowdstrike.com
