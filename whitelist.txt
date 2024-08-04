@@ -772,6 +772,10 @@ www.netdata.cloud
 nethouse.ru
 www.nethouse.ru
 
+# [ Newrelic ]
+newrelic.com
+www.newrelic.com
+
 # [ Notion ]
 # Unsubscribe link
 notion.so
