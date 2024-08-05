@@ -91,6 +91,10 @@ appleid.cdn-apple.com
 # iadsdk.apple.com
 # notes-analytics-events.apple.com
 
+# [ Appleinsider ]
+appleinsider.ru
+www.appleinsider.ru
+
 # [ AppSecFest ]
 appsecfest.kz
 www.appsecfest.kz
