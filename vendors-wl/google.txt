@@ -9,6 +9,7 @@ ggpht.com
 googleapis.com
 www.googleapis.com
 storage.googleapis.com
+device-provisioning.googleapis.com
 
 # Google User Content
 googleusercontent.com
