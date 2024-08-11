@@ -1017,9 +1017,13 @@ openbld.net
 ada.openbld.net
 ric.openbld.net
 
-# [ Sysconf ]
+# [ SysConf ]
 sysconf.io
 19.sysconf.io
+
+# [ SysConf Dev ]
+sysconf-dev-nuxt-site.pages.dev
+open-sysconf-app.pages.dev
 
 # [ Sysctl ]
 sysctl.org
