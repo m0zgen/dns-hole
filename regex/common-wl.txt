@@ -140,4 +140,6 @@
 /(^|^.*\.)mozilla.(com|org)$/
 /(^|^.*\.)firefox.com$/
 /(^|^.*\.)opera.com$/
+/(^|^.*\.)eloqua.com$/
+
 
