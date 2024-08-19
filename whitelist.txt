@@ -181,6 +181,10 @@ i.cackle.me
 # [ Cameras ]
 www3.haivision.com
 
+# [ Cdn-cookieyes ]
+cdn-cookieyes.com
+www.cdn-cookieyes.com
+
 # [ Ceramo ]
 ceramogranit.kz
 www.ceramogranit.kz
