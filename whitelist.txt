@@ -861,7 +861,11 @@ app.powerdmarc.com
 
 # [ Profit ]
 profit.kz
-www.profit.kz
+www.profit.
+
+# [ Profitwell ]
+profitwell.com
+public.profitwell.com
 
 # [ Qualtrics ]
 qualtrics.com
@@ -901,7 +905,7 @@ rkn.gov.ru
 rmansys.ru
 www.rmansys.ru
 
-# [ rutor.is ]
+# [ Rutor.is ]
 rutor.is
 www.rutor.is
 
