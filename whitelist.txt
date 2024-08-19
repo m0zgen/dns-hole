@@ -21,6 +21,11 @@ www.2ip.ru
 2gis.kz
 www.2gis.kz
 
+# [ Ably ]
+ably.io
+www.ably.io
+realtime.ably.io
+
 # [ Abusing ]
 mirror1.malwaredomains.com
 zeustracker.abuse.ch
