@@ -371,6 +371,10 @@ api.findmykids.org
 flutter.dev
 docs.flutter.dev
 
+# [ G2crowd ]
+g2crowd.com
+images.g2crowd.com
+
 # [ GitHub ]
 github.com
 api.github.com
