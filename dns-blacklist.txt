@@ -467,7 +467,6 @@ a.rad.msn.com
 a.remarketstats.com
 a.rfihub.com
 a.rmgserving.com
-a.root-servers.net
 a.rvttrack.com
 a.scorecardresearch.com
 a.sdska.ru
