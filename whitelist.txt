@@ -640,6 +640,11 @@ www.bekker.kz
 kcell.kz
 www.kcell.kz
 
+# [ Kundelik ]
+kundelik.kz
+schools.kundelik.kz
+mektepmenu.kz
+
 # [ Linkedin ]
 linkedin.com
 www.linkedin.com
