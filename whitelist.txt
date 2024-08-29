@@ -927,6 +927,10 @@ www.rmansys.ru
 rutor.is
 www.rutor.is
 
+# [ Samsclass ]
+samsclass.info
+www.samsclass.info
+
 # [ Seagate ]
 seagate.com
 www.seagate.com
