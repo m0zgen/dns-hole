@@ -481,6 +481,11 @@ pages.hitachivantara.com
 hm.ru
 www.hm.ru
 
+# [ Hubspot ]
+hubspot.com
+www.hubspot.com
+cta-redirect.hubspot.com
+
 # [ Kaspersky ]
 kaspersky-labs.com
 www.kaspersky-labs.com
