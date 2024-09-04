@@ -93,6 +93,10 @@
 /^voidboost.net$/
 /(^|^.*\.)kahoot.(com|it)$/
 
+# [ Games ]
+/(^|^.*\.)playstation.(com|net)$/
+/(^|^.*\.)roblox.com$/
+
 # [ Social / Jobs ]
 /(^|^.*\.)hh.([a-z]{2,})$/
 /(^|^.*\.)x\.com$/
