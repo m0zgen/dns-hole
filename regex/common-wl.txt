@@ -97,6 +97,10 @@
 /(^|^.*\.)playstation.(com|net)$/
 /(^|^.*\.)roblox.com$/
 
+# [ IoT ]
+/(^|^.*\.)dreame.tech$/
+/(^|^.*\.)dreametech.com$/
+
 # [ Social / Jobs ]
 /(^|^.*\.)hh.([a-z]{2,})$/
 /(^|^.*\.)x\.com$/
