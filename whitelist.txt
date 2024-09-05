@@ -1199,6 +1199,9 @@ www.ytcracker.com
 yurta.me
 www.yurta.me
 
+# [ Whatsapp ]
+wa.me
+
 # [ Wirex ]
 # Unsubscriber
 ablinks.mail.wirexapp.com
