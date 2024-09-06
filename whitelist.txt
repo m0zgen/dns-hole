@@ -985,6 +985,10 @@ www.sixt.lv
 spiceworks.com
 www.spiceworks.com
 
+# [ Split ]
+split.io
+www.split.io
+
 # [ Sports.ru ]
 stat.sports.ru
 r.sports.ru
