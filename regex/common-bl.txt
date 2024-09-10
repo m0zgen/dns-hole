@@ -11,6 +11,10 @@ appmetrica.yandex.com
 analytics.mobile.yandex.net
 /avatars.(.*[a-z]){3}.yandex.net/
 
+# [ Brute-force ]
+/(\.mx1\.mx1\.)/
+/(\.mail\.mail\.mail)/
+
 # [ Malware Domain ]
 
 # Src: https://www.r-tec.net/r-tec-blog-when-hackers-hack-the-hackers.html
