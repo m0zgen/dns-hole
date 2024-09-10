@@ -14,6 +14,8 @@ analytics.mobile.yandex.net
 # [ Brute-force ]
 /(\.mx1\.mx1\.)/
 /(\.mail\.mail\.mail)/
+/mx1.mx1.mx1/
+/mail.mail.mail/
 
 # [ Malware Domain ]
 
