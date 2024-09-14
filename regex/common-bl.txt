@@ -347,3 +347,7 @@ visitpageaus.com
 auseventstream.com
 pbg4jptrk.com
 paperpadpen.com
+
+# Phishing Pages Delivered Through Refresh HTTP Response Header
+# https://unit42.paloaltonetworks.com/rare-phishing-page-delivery-header-refresh/
+/(^|^.*\.)8ik8rq.ru$/
