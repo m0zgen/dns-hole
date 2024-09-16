@@ -902,6 +902,7 @@ news.rambler.ru
 www.news.rambler.ru
 mail.rambler.ru
 www.mail.rambler.ru
+hlsvod.rambler.eaglecdn.com
 
 # [ RBC ]
 rbc.ua
