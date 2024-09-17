@@ -711,6 +711,12 @@ maxmind.com
 www.maxmind.com
 dev.maxmind.com
 
+# [ Memfault ]
+memfault.com
+www.memfault.com
+interrupt.memfault.com
+community.memfault.com
+
 # [ Microservices]
 microservices.io
 www.microservices.io
