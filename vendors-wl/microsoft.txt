@@ -118,3 +118,23 @@ eastus.livediagnostics.monitor.azure.com
 browser.events.data.microsoft.com
 livediagnostics.monitor.azure.com
 events.data.microsoft.com
+
+# Visual Studio Code
+# https://code.visualstudio.com/docs/setup/network
+update.code.visualstudio.com
+code.visualstudio.com
+go.microsoft.com
+vscode.blob.core.windows.net
+marketplace.visualstudio.com
+rink.hockeyapp.net
+bingsettingssearch.trafficmanager.net
+vscode.search.windows.net
+raw.githubusercontent.com
+vsmarketplacebadges.dev
+vscode.download.prss.microsoft.com
+download.visualstudio.microsoft.com
+vscode-sync.trafficmanager.net
+vscode-sync-insiders.trafficmanager.net
+vscode.dev
+default.exp-tas.com
+
