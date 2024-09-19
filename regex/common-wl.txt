@@ -1,17 +1,19 @@
 # [ Common ]
-/(^|^.*\.)comagic.ru$/
 /(^|^.*\.)apps.corel.com$/
+/(^|^.*\.)chatgpt.com$/
+/(^|^.*\.)comagic.ru$/
 /(^|^.*\.)datadoghq.com$/
 /(^|^.*\.)digicert.com$/
 /(^|^.*\.)entrust.net$/
-/(^|^.*\.)gov.(kz|by|ru|uz|kg|uk|cn|it)$/
 /(^|^.*\.)gov$/
+/(^|^.*\.)gov.(kz|by|ru|uz|kg|uk|cn|it)$/
 /(^|^.*\.)intercom.io$/
 /(^|^.*\.)jivosite.com$/
 /(^|^.*\.)lastpass.com$/
 /(^|^.*\.)licdn.com$/
 /(^|^.*\.)linkedin.com$/
 /(^|^.*\.)nessus.org$/
+/(^|^.*\.)openai.com$/
 /(^|^.*\.)openbld.net$/
 /(^|^.*\.)pikabu.ru$/
 /(^|^.*\.)qualtrics.com$/
@@ -24,10 +26,10 @@
 /(^|^.*\.)sys-adm.in$/
 /(^|^.*\.)uptimerobot.com$/
 /(^|^.*\.)verisign.com/
-/(^|^.*\.)voidboost.cc$/
-/(^|^.*\.)wialon.com$/
-/(^|^.*\.)weather.com$/
 /(^|^.*\.)vmware.com$/
+/(^|^.*\.)voidboost.cc$/
+/(^|^.*\.)weather.com$/
+/(^|^.*\.)wialon.com$/
 
 # [ Banks ]
 /(^|^.*\.)kaspi.(kz)$/
