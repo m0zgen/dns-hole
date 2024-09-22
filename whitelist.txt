@@ -974,6 +974,8 @@ www.smartway.kz
 # [ Smi ]
 smi2.ru
 www.smi2.ru
+smi24.kz
+www.smi24.kz
 
 # [ Shodan ]
 shodan.io
