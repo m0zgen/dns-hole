@@ -658,12 +658,13 @@ click.linksynergy.com
 www.linksynergy.com
 
 # [ Log systems ]
-www.datadoghq.com
+browser-intake-datadoghq.com
 datadoghq.com
 docs.datadoghq.com
+loggly.com
+www.datadoghq.com
 www.docs.datadoghq.com
 www.loggly.com
-loggly.com
 
 # [ Logrocket ]
 logrocket.com
