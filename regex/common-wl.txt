@@ -162,4 +162,6 @@
 /(^|^.*\.)opera.com$/
 /(^|^.*\.)eloqua.com$/
 
-
+# [ Dependences ]
+# LinkedIn
+/(^|^.*\.)xlgmedia.com$/
