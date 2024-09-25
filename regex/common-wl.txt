@@ -165,3 +165,4 @@
 # [ Dependences ]
 # LinkedIn
 /(^|^.*\.)xlgmedia.com$/
+/(^|^.*\.)protechts.net$/
