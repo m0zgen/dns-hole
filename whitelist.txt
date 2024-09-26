@@ -1205,6 +1205,10 @@ c.com
 www.ycombinator.com
 news.ycombinator.com
 
+# [ Yesware ]
+yesware.com
+www.yesware.com
+
 # [ YTCracker ]
 ytcracker.com
 www.ytcracker.com
