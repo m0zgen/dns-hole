@@ -166,3 +166,5 @@
 # LinkedIn
 /(^|^.*\.)xlgmedia.com$/
 /(^|^.*\.)protechts.net$/
+# VK
+/(^|^.*\.)userapi.com$/
