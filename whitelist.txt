@@ -161,6 +161,12 @@ www.bitpay.com
 bk.ru
 www.bk.ru
 
+# [ Branch ]
+branch.io
+www.branch.io
+api2.branch.io
+help.branch.io
+
 # [ Braze ]
 braze.com
 www.braze.com
