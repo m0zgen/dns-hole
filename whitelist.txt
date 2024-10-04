@@ -960,6 +960,11 @@ www.samokat.ru
 health.samokat.ru
 images.samokat.ru
 
+# [ Segment ]
+segment.com
+www.segment.com
+cdn.segment.com
+
 # [ Sematext ]
 sematext.com
 www.sematext.com
