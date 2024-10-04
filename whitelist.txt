@@ -984,6 +984,12 @@ www.smi2.ru
 smi24.kz
 www.smi24.kz
 
+# [ Split ]
+split.io
+www.split.io
+events.split.io
+sdk.split.io
+
 # [ Shodan ]
 shodan.io
 www.shodan.io
