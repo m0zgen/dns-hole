@@ -52,6 +52,12 @@ s3.amazonaws.com
 pages.awscloud.com
 aws.amazon.com
 
+# [ Amplitude ]
+amplitude.com
+api-sr.amplitude.com
+api.amplitude.com
+www..amplitude.com
+
 # [ Apple ]
 # https://support.apple.com/en-us/101555
 # Music
