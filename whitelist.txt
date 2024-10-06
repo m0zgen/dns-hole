@@ -961,9 +961,12 @@ health.samokat.ru
 images.samokat.ru
 
 # [ Segment ]
-segment.com
-www.segment.com
+api.segment.io
 cdn.segment.com
+segment.com
+segment.io
+www.segment.com
+www.segment.io
 
 # [ Sematext ]
 sematext.com
