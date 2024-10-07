@@ -852,6 +852,7 @@ www.ip-api.com
 # Storage for CIS downloading
 pardot.com
 storage.pardot.com
+go.pardot.com
 
 # [ Patreon Mailgun ]
 email.mailgun.patreon.com
