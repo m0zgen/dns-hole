@@ -351,3 +351,26 @@ paperpadpen.com
 # Phishing Pages Delivered Through Refresh HTTP Response Header
 # https://unit42.paloaltonetworks.com/rare-phishing-page-delivery-header-refresh/
 /(^|^.*\.)8ik8rq.ru$/
+
+# Tunneling - https://cybersecuritynews.com/hackers-exploiting-dns-tunneling/
+avtomaty-bcg.online
+codeaddon.net
+dreyzek.com
+dtodcart.site
+foxxbank.com
+healthproreview.com
+juicyplaymatesfinder.com
+lifemedicalplus.net
+linkwide.site
+lustypartnersfinder.com
+mouvobo.site
+mponiem.site
+ns2000wip.com
+piquantchicksfinder.com
+pretorya.site
+sosua.cz
+soupandselfcare[].com
+unlimitedpartnersfinder.com
+yummyflingsfinder.com
+yummyloversfinder.com
+zzczloh.site
