@@ -1179,6 +1179,10 @@ cp.vdsina.ru
 vk.com
 www.vk.com
 
+# [ Vto ]
+vto.kz
+www.vto.kz
+
 # [ Vue ]
 vuejs.org
 www.vuejs.org
