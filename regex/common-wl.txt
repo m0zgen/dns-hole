@@ -59,6 +59,7 @@
 # [ Payments]
 /(^|^.*\.)swift.com$/
 /(^|^.*\.)visa.com$/
+/(^|^.*\.)mastercard.com$/
 /(^|^.*\.)dynatrace.com$/
 /(^|^.*\.)westernunion.com$/
 /(^|^.*\.)1xbet.(kz|com)$/
