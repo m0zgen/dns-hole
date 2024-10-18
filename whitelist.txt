@@ -686,6 +686,10 @@ podrocket.logrocket.com
 mackeeper.com
 www.mackeeper.com
 
+# [ Macsecurity ]
+macsecurity.net
+www.macsecurity.net
+
 # [ Mail.ru ]
 # top-fwz1.mail.ru
 m.vk.com
