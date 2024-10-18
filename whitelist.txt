@@ -475,6 +475,8 @@ googleapis.l.google.com
 dl.google.com
 # Android TV
 redirector.gvt1.com
+googletagmanager.com
+www.googletagmanager.com
 
 # [ Hetzner ]
 hetzner.com
