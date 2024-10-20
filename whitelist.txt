@@ -877,6 +877,10 @@ urlfiltering.paloaltonetworks.com
 pdm.kz
 www.pdm.kz
 
+# [ Phonearena ]
+phonearena.com
+www.phonearena.com
+
 # [ Pikabu ]
 cs.pikabu.ru
 
