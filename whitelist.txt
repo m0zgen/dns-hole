@@ -1166,6 +1166,10 @@ t.co
 ublock.org
 www.ublock.org
 
+# [ Ultrahost ]
+ultahost.com
+www.ultahost.com
+
 # [ Unisender ]
 unisender.com
 www.unisender.com
