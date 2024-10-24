@@ -12,6 +12,10 @@ maps.yandex.ru
 maps.yandex.com
 maps.yandex.net
 
+# Eda
+eda.yandex.ru
+eda.yandex.kz
+
 # Static
 yastatic.net
 mc.yandex.ru
