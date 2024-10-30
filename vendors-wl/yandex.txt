@@ -61,6 +61,7 @@ translate.yandex.ru
 translate.yandex.com
 360.yandex.ru
 webmaster.yandex.com
+avatars.mds.yandex.net
 
 # Punto
 punto.yandex.ru
