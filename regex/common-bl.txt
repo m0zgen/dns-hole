@@ -383,3 +383,8 @@ notion.foreducationapp.com
 slack.workmeetingsapp.com
 clockify.turnrevenue.com
 slack.aerodrame.finance
+
+# https://www.cleafy.com/cleafy-labs/toxicpanda-a-new-banking-trojan-from-asia-hit-europe-and-latam
+dksu.top  
+mixcom.one
+freebasic.cn
