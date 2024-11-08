@@ -45,6 +45,9 @@
 /(^|^.*\.)vipsexpay.*$/
 /(^|^.*\.)zorox.*$/
 
+# Progress
+/(^|^.*\.)huyamba.*$/
+
 # [ Domain rules ] #
 bewitchedhimself.com
 example.com
