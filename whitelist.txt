@@ -509,6 +509,10 @@ ksn-stat-geo.kaspersky-labs.com
 kuma.io
 www.kuma.io
 
+# [ Lenta ]
+lenta.ru
+www.lenta.ru
+
 # [ List ]
 list.ru
 www.list.ru
