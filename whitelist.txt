@@ -512,6 +512,8 @@ www.kuma.io
 # [ Lenta ]
 lenta.ru
 www.lenta.ru
+icdn.lenta.ru
+api.lenta.ru
 
 # [ List ]
 list.ru
