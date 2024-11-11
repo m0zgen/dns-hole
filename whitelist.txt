@@ -1090,10 +1090,6 @@ api.statsig.com
 stripes.com
 www.stripes.com
 
-# [ Sysdig ]
-sysdig.com
-www.sysdig.com
-
 # [ Sys-Admin ]
 sys-adm.in
 forum.sys-adm.in
