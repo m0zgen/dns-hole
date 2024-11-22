@@ -120,6 +120,12 @@ api-private.atlassian.com
 api.atlassian.com
 # surveys.hotjar.com
 
+# [ Atradius ]
+atradius.com
+www.atradius.com
+group.atradius.com
+login-app.atradius.com
+
 # [ Avito ]
 avito.st
 avito.ru
