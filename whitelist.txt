@@ -1096,6 +1096,9 @@ api.statsig.com
 stripes.com
 www.stripes.com
 
+# [ Suse ]
+more.suse.com
+
 # [ Sys-Admin ]
 sys-adm.in
 forum.sys-adm.in
