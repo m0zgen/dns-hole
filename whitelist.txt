@@ -336,6 +336,8 @@ www.dzen.ru
 log.dzen.ru
 cdn.dzen.ru
 passport.dzen.ru
+sso.dzen.ru
+m.dzen.ru
 
 # [ Egov ]
 egov.kz
