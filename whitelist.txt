@@ -338,6 +338,8 @@ cdn.dzen.ru
 passport.dzen.ru
 sso.dzen.ru
 m.dzen.ru
+ms.dzen.ru
+cdn.dzen.ru
 
 # [ Egov ]
 egov.kz
