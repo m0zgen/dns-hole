@@ -828,6 +828,10 @@ www.mywot.com
 mxtoolbox.com
 customer.io.mxtoolbox.com
 
+# [ Naked-science ]
+naked-science.ru
+www.naked-science.ru
+
 # [ Nesssus ]
 nessus.org
 www.nessus.org
