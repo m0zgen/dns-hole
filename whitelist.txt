@@ -58,6 +58,11 @@ api-sr.amplitude.com
 api.amplitude.com
 www..amplitude.com
 
+# [ Appcenter (Microsoft) ]
+appcenter.ms
+www.appcenter.ms
+in.appcenter.ms
+
 # [ Apple ]
 # https://support.apple.com/en-us/101555
 # Music
@@ -1318,6 +1323,12 @@ click.e.zoom.us
 # =======================
 # [ Testing ]
 glovo.api.kustomerapp.com
+
+# [ Games ]
+telemetry.sgp.pvp.net
+applog.matrix.easebar.com
+sdk-os.mpsdk.easebar.com
+x20na.appdump.nie.easebar.com
 
 # src images for paginademedia.ro
 1616.ro
