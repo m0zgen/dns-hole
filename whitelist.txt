@@ -750,6 +750,8 @@ www.mandrillapp.com
 maxmind.com
 www.maxmind.com
 dev.maxmind.com
+static.maxmind.com
+status.maxmind.com
 
 # [ Memfault ]
 memfault.com
