@@ -79,3 +79,9 @@ e123movieswatch.com
 totalsportek.games
 aniwatch.to
 travelmiso.com
+
+# Fake TG
+# Ref: https://www.cyfirma.com/research/inside-firescam-an-information-stealer-with-spyware-capabilities/
+rustore-apk.github.io
+androidscamru-default-rtdb.firebaseio.com
+androidscamru-default-rtdb.firebaseio.com
