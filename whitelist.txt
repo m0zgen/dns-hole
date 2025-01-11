@@ -1188,6 +1188,11 @@ twitter.com
 www.twitter.com
 t.co
 
+# [ Uber ]
+uber.com
+www.uber.com
+support-uber.com
+
 # [ uBlock ]
 ublock.org
 www.ublock.org
