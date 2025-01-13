@@ -652,6 +652,11 @@ www.opentext.com
 oszone.net
 www.oszone.net
 
+# [ Quizlet ]
+quizlet.com
+www.quizlet.com
+ablink.account.quizlet.com
+
 # [ Kazhackstan ]
 kazhackstan.com
 www.kazhackstan.com
