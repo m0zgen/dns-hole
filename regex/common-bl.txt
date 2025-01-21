@@ -446,3 +446,6 @@ travelmiso.com
 # New I2PRAT communicates via anonymous peer-to-peer network
 # https://www.gdatasoftware.com/blog/2024/12/38093-ip2rat-malware
 /(^|^.*\.)porn-zoo.sbs$/
+
+# faked homebrew
+/(^|^.*\.)brewe.sh$/
