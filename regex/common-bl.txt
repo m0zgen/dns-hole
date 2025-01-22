@@ -449,3 +449,6 @@ travelmiso.com
 
 # faked homebrew
 /(^|^.*\.)brewe.sh$/
+
+# Phishing
+/(^|^.*\.)vod3um.online$/
