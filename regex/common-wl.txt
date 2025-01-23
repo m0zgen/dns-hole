@@ -46,6 +46,7 @@
 /(^|^.*\.)nurbank24.(kz)$/
 /(^|^.*\.)nationalbank.(kz)$/
 /(^|^.*\.)kazincombank.(kz)$/
+/(^|^.*\.)vtb.ru(kz)$/
 
 # [ Mobile banking]
 /(^|^.*\.)aaplimg.com$/

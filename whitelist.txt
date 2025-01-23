@@ -1193,6 +1193,9 @@ twitter.com
 www.twitter.com
 t.co
 
+# [ Vtb ]
+sso-app4.vtb.ru
+
 # [ Uber ]
 uber.com
 www.uber.com
