@@ -1298,6 +1298,10 @@ www.ytcracker.com
 yurta.me
 www.yurta.me
 
+# [ Webnames ]
+webnames.ru
+www.webnames.ru
+
 # [ Whatsapp ]
 wa.me
 
