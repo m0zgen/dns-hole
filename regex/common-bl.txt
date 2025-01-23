@@ -452,3 +452,4 @@ travelmiso.com
 
 # Phishing
 /(^|^.*\.)vod3um.online$/
+/(^|^.*\.)dostavka.dealp-a.cyou$/
