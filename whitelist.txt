@@ -1129,15 +1129,17 @@ www.stripes.com
 more.suse.com
 
 # [ Sys-Admin ]
-sys-adm.in
-forum.sys-adm.in
-lab.sys-adm.in
 a-bld.sys-adm.in
-bld.sys-adm.in
-system-checks.org
-openbld.net
 ada.openbld.net
+bld-status.sys-adm.in
+bld.sys-adm.in
+forum.sys-adm.in
+kid.openbld.net
+lab.sys-adm.in
+openbld.net
 ric.openbld.net
+sys-adm.in
+system-checks.org
 
 # [ SysConf ]
 sysconf.io
