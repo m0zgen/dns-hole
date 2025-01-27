@@ -410,6 +410,11 @@ alive.github.com
 collector.github.com
 # copilot-proxy.githubusercontent.com
 
+# [ Hdrezka ]
+hdrezka.ag
+www.hdrezka.ag
+rezka.ag
+
 # [ Raketa ]
 raketa.city
 crm.raketa.city
