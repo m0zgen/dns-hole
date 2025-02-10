@@ -28,7 +28,7 @@
 /(^|^.*\.)kz-girl.*$/
 /(^|^.*\.)mister-x.*$/
 /(^|^.*\.)mkiska.*$/
-/(^|^.*\.)mkiska.*$/
+/(^|^.*\.)rusoska.*$/
 /(^|^.*\.)onporn.*$/
 /(^|^.*\.)pejnya.*$/
 /(^|^.*\.)prostitutki.*$/
@@ -45,6 +45,10 @@
 /(^|^.*\.)vipsexpay.*$/
 /(^|^.*\.)zorox.*$/
 
+/(^|^.*\.)noodlemagazine.(com)$/
+/(^|^.*\.)xhamster.*$/
+/(^|^.*\.)xhcdn.com$/
+
 # [ Domain rules ] #
 bewitchedhimself.com
 example.com
@@ -55,3 +59,5 @@ redlight.net
 tne.onporn.fun
 www.redlight.net
 xguru.info
+
+# Testing
