@@ -1181,6 +1181,10 @@ telesco.pe
 tg.dev
 t.me
 
+# [ Testter ]
+testter.kz
+www.testter.kz
+
 # [ Tik Tok]
 tiktok.com
 ttwstatic.com
