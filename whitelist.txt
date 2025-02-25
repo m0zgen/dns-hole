@@ -498,6 +498,10 @@ redirector.gvt1.com
 googletagmanager.com
 www.googletagmanager.com
 
+# [ Goldapple ]
+goldapple.kz
+www.goldapple.kz
+
 # [ Hetzner ]
 hetzner.com
 www.hetzner.com
