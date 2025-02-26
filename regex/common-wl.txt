@@ -87,7 +87,7 @@
 /rtc-cloud-[a-z]{2,}[1-9].bitrix.info$/
 /static[1-9].tinkoffjournal.ru$/
 /(^|^.*\.)akamai\.net$/
-/(^|^.*\.)unity3d\.com$/
+#/(^|^.*\.)unity3d\.com$/
 # /(^|^.*\.)akadns\.net$/
 # /(^|^.*\.)fastly\.net$/
 
