@@ -483,6 +483,11 @@ verlflcation-etsy.cfd
 # https://www.gdatasoftware.com/blog/2024/12/38093-ip2rat-malware
 /(^|^.*\.)porn-zoo.sbs$/
 
+# Malicious websites. Examples:
+# ns500213.ns500248.ns500262.ns500248.ns500242.ns500259.ns500202.ns500248.ns500213.ns500195.sweetchicksclub.com
+# ns500259.ns500202.ns500261.ns500242.ns500248.ns500249.ns500248.ns500202.ns500197.ns500208.hereyourhotlady.com
+/(?:ns\d+\.){4,}[\w-]+\.[\w-]+/
+
 # faked homebrew
 /(^|^.*\.)brewe.sh$/
 
