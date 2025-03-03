@@ -496,5 +496,8 @@ verlflcation-etsy.cfd
 /(^|^.*\.)dostavka.dealp-a.cyou$/
 /(^|^.*\.)auselectrical.com$/
 
+# Telegram Scam
+/(^|^.*\.)cmstcycle.com$/
+
 # Testing
 /(^|^.*\.)testpanw.com$/
