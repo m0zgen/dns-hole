@@ -479,6 +479,64 @@ etsy.requstlon-verflcation.cfd
 etsy.web-proff-point.cfd
 verlflcation-etsy.cfd
 
+# IP logger + Lumma
+# Unwanted HH connector: https://t.me/cyberseckz/482070
+02ip.ru
+2no.co
+api.cyberhavenext.pro
+aptonic.xyz
+arcbrowser.pro
+bookmarkfc.info
+censortracker.pro
+cleanmymac.pro
+cleanshot.ink
+cyberhavenext.pro
+dekabristiney.fvds.ru
+ext.linewizeconnect.com
+ezstat.ru
+figma.lat
+grabify.link
+iina-app.lat
+internxtvpn.pro
+ipgrabber.ru
+ipgraber.ru
+iplis.ru
+iplogger.co
+iplogger.com
+iplogger.info
+iplogger.org
+iplogger.ru
+lightpillar.lat
+macbartender.lat
+moonsift.store
+orbitpettystudio.fun
+parallelsdesktop.pro
+parrottalks.info
+password-app.pro
+patrikbob100.fvds.ru
+pixelmator.pics
+pixelmator.us
+primusext.pro
+punchtelephoneverdi.store
+rainway.cloud
+readermodeext.info
+rize.lat
+servicescraft.buzz
+setapp.ink
+sipapp.lat
+skylum.store
+smallrabbitcrossing.site
+snuggleapplicationswo.fun
+strainriskpropos.store
+telephoneverdictyow.site
+theoryapparatusjuko.fun
+ultradelux.buzz
+uvoice.live
+vpncity.live
+wayinai.live
+yip.su
+yujaverity.info
+
 # New I2PRAT communicates via anonymous peer-to-peer network
 # https://www.gdatasoftware.com/blog/2024/12/38093-ip2rat-malware
 /(^|^.*\.)porn-zoo.sbs$/
