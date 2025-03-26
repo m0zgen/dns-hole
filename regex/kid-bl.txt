@@ -32,8 +32,6 @@
 /(^|^.*\.)onporn.*$/
 /(^|^.*\.)pejnya.*$/
 /(^|^.*\.)prostitutki.*$/
-/(^|^.*\.)prostitutki.*$/
-/(^|^.*\.)prostitutki.*$/
 /(^|^.*\.)public-porn.*$/
 /(^|^.*\.)relaxa.*$/
 /(^|^.*\.)rusdosug.*$/
@@ -46,7 +44,11 @@
 /(^|^.*\.)zorox.*$/
 
 # Progress
+/(^|^.*\.)almatinki.*$/
 /(^|^.*\.)huyamba.*$/
+/(^|^.*\.)kizdar.*$/
+/(^|^.*\.)masturbat.*$/
+
 
 # [ Domain rules ] #
 bewitchedhimself.com
