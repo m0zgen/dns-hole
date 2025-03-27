@@ -105,7 +105,7 @@ nuget.servehttp.com
 # KazPost Scam
 /(^|^.*\.)post-serviceskz.top$/
 /(^|^.*\.)postzi.top$/
-/(^|^.*\.)kz-serve.cfd$/
+/(.*)kz-serve.cfd$/
 
 # KazEgov Scam
 # https://t.me/securixy_kz/820
