@@ -259,9 +259,12 @@ www.codeby.net
 cryptonator.com
 www.cryptonator.com
 hashing24.com
+www.hashing24.com
 mycrypto.com
 www.mycrypto.com
 mymonero.com
+nicehash.com
+www.nicehash.com
 
 # [ Contabo ]
 contabo.com
