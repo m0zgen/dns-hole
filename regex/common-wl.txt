@@ -13,12 +13,13 @@
 /(^|^.*\.)licdn.com$/
 /(^|^.*\.)linkedin.com$/
 /(^|^.*\.)nessus.org$/
-/(^|^.*\.)openai.com$/
 /(^|^.*\.)oaistatic.com$/
+/(^|^.*\.)openai.com$/
 /(^|^.*\.)openbld.net$/
 /(^|^.*\.)pikabu.ru$/
 /(^|^.*\.)qualtrics.com$/
 /(^|^.*\.)raiffeisen\.(ru|ua)$/
+/(^|^.*\.)sendpulse.com$/
 /(^|^.*\.)sentry.io$/
 /(^|^.*\.)shodan.io$/
 /(^|^.*\.)smoot.apple.com$/
