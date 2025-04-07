@@ -1,10 +1,12 @@
 # [ Common ]
+
 /(^|^.*\.)apps.corel.com$/
 /(^|^.*\.)chatgpt.com$/
 /(^|^.*\.)comagic.ru$/
 /(^|^.*\.)datadoghq.com$/
 /(^|^.*\.)digicert.com$/
 /(^|^.*\.)entrust.net$/
+/(^|^.*\.)gismeteo.(kz|ru)$/
 /(^|^.*\.)gov$/
 /(^|^.*\.)gov.(kz|by|ru|uz|kg|uk|cn|it)$/
 /(^|^.*\.)intercom.io$/
