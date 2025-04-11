@@ -1,5 +1,4 @@
 # [ Common ]
-
 /(^|^.*\.)apps.corel.com$/
 /(^|^.*\.)chatgpt.com$/
 /(^|^.*\.)comagic.ru$/
@@ -68,6 +67,9 @@
 /(^|^.*\.)dynatrace.com$/
 /(^|^.*\.)westernunion.com$/
 /(^|^.*\.)1xbet.(kz|com)$/
+
+# [ APIs ]
+/(^|^.*\.)ipify.org$/
 
 # [ Filters ]
 /(^|^.*\.)oisd.nl$/
