@@ -71,6 +71,7 @@
 # [ APIs ]
 /(^|^.*\.)ipify.org$/
 /(^|^.*\.)ipwho.is$/
+/(^|^.*\.)ipwhois.io$/
 
 # [ Filters ]
 /(^|^.*\.)oisd.nl$/
