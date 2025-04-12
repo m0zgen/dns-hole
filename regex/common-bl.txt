@@ -561,4 +561,5 @@ yujaverity.info
 
 # Testing
 /(^|^.*\.)testpanw.com$/
+/^blockcheck[1-9][0-9]*\.system-checks\.org$/
 /^blockcheck[1-9][0-9]*\.[a-z0-9-]+\.system-checks\.org$/
