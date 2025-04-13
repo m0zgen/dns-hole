@@ -3,6 +3,7 @@
 /(^|^.*\.)chatgpt.com$/
 /(^|^.*\.)comagic.ru$/
 /(^|^.*\.)datadoghq.com$/
+/(^|^.*\.)deepl.com$/
 /(^|^.*\.)digicert.com$/
 /(^|^.*\.)entrust.net$/
 /(^|^.*\.)gismeteo.(kz|ru)$/
