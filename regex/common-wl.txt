@@ -1,5 +1,5 @@
 # [ Common ]
-/(^|^.*\.)apps.corel.com$/
+/(^|^.*\.)corel.com$/
 /(^|^.*\.)chatgpt.com$/
 /(^|^.*\.)comagic.ru$/
 /(^|^.*\.)datadoghq.com$/
