@@ -1,6 +1,6 @@
 # DNS-Hole - List for hole domains
 
-The following lists are used in [Open BLD DNS](https://lab.sys-adm.in) project
+The following lists are used in [OpenBLD.net DNS](https://openbld.net/) project
 
 ## Main Lists
 
