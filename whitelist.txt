@@ -16,6 +16,8 @@ vip.1gl.ru
 # [ 2ip ]
 2ip.ru
 www.2ip.ru
+2ip.io
+www.2ip.io
 
 # [ 2gis ]
 2gis.kz
