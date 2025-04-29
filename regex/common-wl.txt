@@ -173,6 +173,7 @@
 /(^|^.*\.)firefox.com$/
 /(^|^.*\.)opera.com$/
 /(^|^.*\.)eloqua.com$/
+/(^|^.*\.)slackb.com$/
 
 # [ Dependences ]
 # LinkedIn
