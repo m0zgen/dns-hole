@@ -173,6 +173,7 @@
 /(^|^.*\.)firefox.com$/
 /(^|^.*\.)opera.com$/
 /(^|^.*\.)eloqua.com$/
+/(^|^.*\.)slack.com$/
 /(^|^.*\.)slackb.com$/
 
 # [ Dependences ]
