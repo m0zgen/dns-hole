@@ -112,6 +112,8 @@ appleid.cdn-apple.com
 # [ Appleinsider ]
 appleinsider.ru
 www.appleinsider.ru
+appleinsider.com
+www.appleinsider.com
 
 # [ AppSecFest ]
 appsecfest.kz
