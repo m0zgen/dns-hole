@@ -23,6 +23,10 @@ www.2ip.io
 2gis.kz
 www.2gis.kz
 
+# [ 3dvf ]
+3dvf.com
+www.3dvf.com
+
 # [ Ably ]
 ably.io
 www.ably.io
