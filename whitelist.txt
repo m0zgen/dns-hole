@@ -784,6 +784,10 @@ dev.maxmind.com
 static.maxmind.com
 status.maxmind.com
 
+# [ Medallia ]
+medallia.com
+www.medallia.com
+
 # [ Memfault ]
 memfault.com
 www.memfault.com
