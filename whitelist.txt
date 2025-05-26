@@ -974,6 +974,10 @@ powerdmarc.com
 www.powerdmarc.com
 app.powerdmarc.com
 
+# [ Pr-cy ]
+pr-cy.ru
+www.pr-cy.ru
+
 # [ Profit ]
 profit.kz
 www.profit.
