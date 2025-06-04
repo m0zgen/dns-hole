@@ -1048,6 +1048,10 @@ www.samokat.ru
 health.samokat.ru
 images.samokat.ru
 
+# [ Secureworld ]
+secureworld.io
+www.secureworld.io
+
 # [ Segment ]
 api.segment.io
 cdn.segment.com
