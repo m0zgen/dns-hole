@@ -705,6 +705,8 @@ bekker.kz
 www.bekker.kz
 kcell.kz
 www.kcell.kz
+kazlenta.kz
+www.kazlenta.kz
 
 # [ Kundelik ]
 kundelik.kz
