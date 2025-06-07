@@ -542,6 +542,9 @@ kaspersky-labs.com
 www.kaspersky-labs.com
 ksn-stat-geo.kaspersky-labs.com
 
+# [ Kisnetorg ]
+email.kisnetorg.myenotice.com
+
 # [ Kuma ]
 kuma.io
 www.kuma.io
