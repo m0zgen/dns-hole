@@ -906,6 +906,8 @@ notion.so
 www.notion.so
 exp.notion.so
 e.customeriomail.com
+notion.com
+www.notion.com
 
 # [ Opera ]
 opera.com
