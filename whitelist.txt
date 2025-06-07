@@ -217,6 +217,10 @@ i.cackle.me
 # [ Cameras ]
 www3.haivision.com
 
+# [ Ccleaner ]
+ccleaner.com
+www.ccleaner.com
+
 # [ Cdn-cookieyes ]
 cdn-cookieyes.com
 www.cdn-cookieyes.com
