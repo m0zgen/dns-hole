@@ -133,6 +133,10 @@ api-private.atlassian.com
 api.atlassian.com
 # surveys.hotjar.com
 
+# [ Atocan ]
+atocan.eu
+www.atocan.eu
+
 # [ Atradius ]
 atradius.com
 www.atradius.com
