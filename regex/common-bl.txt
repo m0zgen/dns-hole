@@ -9,7 +9,7 @@ avatars.mds.yandex.net
 www.avatars.mds.yandex.net
 appmetrica.yandex.com
 analytics.mobile.yandex.net
-/avatars.(.*[a-z]){3}.yandex.net/
+/avatars.(.*[a-z]){3}.yandex\.net/
 
 # [ Brute-force ]
 /(\.mx1\.mx1\.)/
@@ -26,117 +26,117 @@ nuget.servehttp.com
 
 # Source: https://mobile.twitter.com/stephenlacy/status/1554697077430505473
 # ovz1.j19544519.pr46m.vps.myjino.ru
-/(^|^.*\.)myjino.ru$/
+/(?:^|\.)myjino\.ru$/
 
 # SMS Scam
-/(^|^.*\.)szqdn.com$/
-/(^|^.*\.)jsgqsb.com$/
-/(^|^.*\.)programinfos.com$/
+/(?:^|\.)szqdn\.com$/
+/(?:^|\.)jsgqsb\.com$/
+/(?:^|\.)programinfos\.com$/
 
 # https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/microsoft-encrypted-restricted-permission-messages-deliver-phishing/
-/(^|^.*\.)fmsbscotland.us$/
-/(^|^.*\.)taluspays.us$/
-/(^|^.*\.)chambless-math.com$/
+/(?:^|\.)fmsbscotland\.us$/
+/(?:^|\.)taluspays\.us$/
+/(?:^|\.)chambless-math\.com$/
 
 # CapraTube
 # https://www.sentinelone.com/labs/capratube-transparent-tribes-caprarat-mimics-youtube-to-hijack-android-phones/
-/(^|^.*\.)claudfront.net$/
-/(^|^.*\.)ptzbubble.shop$/
-/(^|^.*\.)allowlisted.net$/
+/(?:^|\.)claudfront\.net$/
+/(?:^|\.)ptzbubble\.shop$/
+/(?:^|\.)allowlisted\.net$/
 
 # https://citizenlab.ca/2023/09/predator-in-the-wires-ahmed-eltantawy-targeted-with-predator-spyware-after-announcing-presidential-ambitions/
-/(^|^.*\.)sec-flare.com$/
-/(^|^.*\.)verifyurl.me$/
+/(?:^|\.)sec-flare\.com$/
+/(?:^|\.)verifyurl\.me$/
 
 # https://securelist.ru/backdoored-free-download-manager-linux-malware/107924/
-/(^|^.*\.)fdmpkg.org$/
+/(?:^|\.)fdmpkg\.org$/
 
 # https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/amp/
-/(^|^.*\.)ķeepass.info$/
+/(?:^|\.)ķeepass\.info$/
 
 # https://securelist.com/triangulation-validators-modules/110847/
-/(^|^.*\.)backuprabbit.com$/
+/(?:^|\.)backuprabbit\.com$/
 
 # https://blog.talosintelligence.com/attributing-yorotrooper/
-/(^|^.*\.)az-link.email$/
-/(^|^.*\.)tpp.tj$/
-/(^|^.*\.)mail-ru.link$/
+/(?:^|\.)az-link\.email$/
+/(?:^|\.)tpp\.tj$/
+/(?:^|\.)mail-ru\.link$/
 
 # https://securelist.ru/spyware-whatsapp-mod/108323/
-/(^|^.*\.)whatsagold.app$/
-/(^|^.*\.)watsabplusgold.com$/
-/(^|^.*\.)whatsgold.app$/
-/(^|^.*\.)3ssem.com$/
-/(^|^.*\.)goldnwhats.app$/
-/(^|^.*\.)omarwhats.app$/
+/(?:^|\.)whatsagold\.app$/
+/(?:^|\.)watsabplusgold\.com$/
+/(?:^|\.)whatsgold\.app$/
+/(?:^|\.)3ssem\.com$/
+/(?:^|\.)goldnwhats\.app$/
+/(?:^|\.)omarwhats\.app$/
 
 # https://blog.aquasec.com/loony-tunables-vulnerability-exploited-by-kinsing
-/(^|^.*\.)haxx.in$/
+/(?:^|\.)haxx\.in$/
 
 # LummaC2 stealer - https://outpost24.com/blog/lummac2-anti-sandbox-technique-trigonometry-human-detection/
-/(^|^.*\.)curtainjors.fun$/
-/(^|^.*\.)gogobad.fun$/
-/(^|^.*\.)superyupp.fun$/
+/(?:^|\.)curtainjors\.fun$/
+/(?:^|\.)gogobad\.fun$/
+/(?:^|\.)superyupp\.fun$/
 
 # Royal Ransomware - https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-061a
-/(^|^.*\.)sombrat.com$/
-/(^|^.*\.)gororama.com$/
-/(^|^.*\.)softeruplive.com$/
-/(^|^.*\.)altocloudzone.live$/
-/(^|^.*\.)ciborkumari.xyz$/
-/(^|^.*\.)myappearinc.com$/
-/(^|^.*\.)parkerpublic.com$/
-/(^|^.*\.)tumbleproperty.com$/
+/(?:^|\.)sombrat\.com$/
+/(?:^|\.)gororama\.com$/
+/(?:^|\.)softeruplive\.com$/
+/(?:^|\.)altocloudzone].live$/
+/(?:^|\.)ciborkumari\.xyz$/
+/(?:^|\.)myappearinc\.com$/
+/(?:^|\.)parkerpublic\.com$/
+/(?:^|\.)tumbleproperty\.com$/
 
 # https://securelist.ru/trojan-proxy-for-macos/108460/
-/(^|^.*\.)akamaized.ca$/
+/(?:^|\.)akamaized\.ca$/
 
 # https://reasonlabs.com/research/the-cashback-extension-kille
-/(^|^.*\.)t-oapp.ru$/
-/(^|^.*\.)my-panel.ru$/
-/(^|^.*\.)netplus-vpn.ru$/
+/(?:^|\.)t-oapp\.ru$/
+/(?:^|\.)my-panel\.ru$/
+/(?:^|\.)netplus-vpn\.ru$/
 
 # [Lumma Variant] https://www.fortinet.com/blog/threat-research/lumma-variant-on-youtube
-/(^|^.*\.)netovrema.pw$/
-/(^|^.*\.)opposesicknessopw.pw$/
-/(^|^.*\.)politefrightenpowoa.pw$/
-/(^|^.*\.)chincenterblandwka.pw$/
+/(?:^|\.)netovrema\.pw$/
+/(?:^|\.)opposesicknessopw\.pw$/
+/(?:^|\.)politefrightenpowoa\.pw$/
+/(?:^|\.)chincenterblandwka\.pw$/
 
 # KazPost Scam
-/(^|^.*\.)post-serviceskz.top$/
-/(^|^.*\.)postzi.top$/
-/(.*)kz-serve.cfd$/
-/(.*)postkz.lat$/
+/(?:^|\.)post-serviceskz\.top$/
+/(?:^|\.)postzi\.top$/
+/(.*)kz-serve\.cfd$/
+/(.*)postkz\.lat$/
 
 # KazEgov Scam
 # https://t.me/securixy_kz/820
-/(^|^.*\.)oneindia.info$/
-/(^|^.*\.)jretail.co.uk$/
-/(^|^.*\.)egov-kz.online$/
+/(?:^|\.)oneindia\.info$/
+/(?:^|\.)jretail\.co\.uk$/
+/(?:^|\.)egov-kz\.online$/
 
 # Pelmeni wrapper -https://lab52.io/blog/pelmeni-wrapper-new-wrapper-of-kazuar-turla-backdoor/
-/(^|^.*\.)sam-maintenance.com$/
-/(^|^.*\.)bibliotecaunicef.uy$/
-/(^|^.*\.)altavista[.]rs$/
+/(?:^|\.)sam-maintenance\.com$/
+/(?:^|\.)bibliotecaunicef\.uy$/
+/(?:^|\.)altavista\.rs$/
 
 # WogRAT Malware Exploits aNotepad
 # https://asec.ahnlab.com/en/62446/
-/(^|^.*\.)linuxwork.net$/
-/(^|^.*\.)t0rguard.net$/
-/(^|^.*\.)newujs.com$/
-/(^|^.*\.)domaiso.com$/
-/(^|^.*\.)jp.anotepad.com$/
+/(?:^|\.)linuxwork\.net$/
+/(?:^|\.)t0rguard\.net$/
+/(?:^|\.)newujs\.com$/
+/(?:^|\.)domaiso\.com$/
+/(?:^|\.)jp.anotepad\.com$/
 
 # Bing ad for NordVPN leads to SecTopRAT
 # https://www.malwarebytes.com/blog/threat-intelligence/2024/04/bing-ad-for-nordvpn-leads-to-sectoprat
-/(^|^.*\.)nordivpn.xyz$/
-/(^|^.*\.)besthord-vpn.com$/
+/(?:^|\.)nordivpn\.xyz$/
+/(?:^|\.)besthord-vpn\.com$/
 
 # Rhadamanthys Stealer
 # https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta547-targets-german-organizations-rhadamanthys-stealer
-/(^|^.*\.)bolibachan.com$/
-/(^|^.*\.)indscpm.xyz$/
-/(^|^.*\.)metro-delivery.com$/
+/(?:^|\.)bolibachan\.com$/
+/(?:^|\.)indscpm\.xyz$/
+/(?:^|\.)metro-delivery\.com$/
 
 # Trusted Brands and Sponsored Google Ads to Distribute MSIX Payloads
 # https://www.esentire.com/blog/fin7-uses-trusted-brands-and-sponsored-google-ads-to-distribute-msix-payloads
@@ -245,8 +245,8 @@ withclier.com
 # Polyfill supply chain attack
 # https://sansec.io/research/polyfill-supply-chain-attack
 
-/(^|^.*\.)kuurza.com$/
-/(^|^.*\.)googie-anaiytics.com$/
+/(?:^|\.)kuurza\.com$/
+/(?:^|\.)googie-anaiytics\.com$/
 
 # Proofpoint massive phishing. EchoSpoofing campaign.
 # https://labs.guard.io/echospoofing-a-massive-phishing-campaign-exploiting-proofpoints-email-protection-to-dispatch-3dd6b5417db6
@@ -352,7 +352,7 @@ paperpadpen.com
 
 # Phishing Pages Delivered Through Refresh HTTP Response Header
 # https://unit42.paloaltonetworks.com/rare-phishing-page-delivery-header-refresh/
-/(^|^.*\.)8ik8rq.ru$/
+/(?:^|\.)8ik8rq\.ru$/
 
 # Tunneling - https://cybersecuritynews.com/hackers-exploiting-dns-tunneling/
 avtomaty-bcg.online
@@ -541,7 +541,7 @@ yujaverity.info
 
 # New I2PRAT communicates via anonymous peer-to-peer network
 # https://www.gdatasoftware.com/blog/2024/12/38093-ip2rat-malware
-/(^|^.*\.)porn-zoo.sbs$/
+/(?:^|\.)porn-zoo\.sbs$/
 
 # Malicious websites. Examples:
 # ns500213.ns500248.ns500262.ns500248.ns500242.ns500259.ns500202.ns500248.ns500213.ns500195.sweetchicksclub.com
@@ -552,21 +552,21 @@ yujaverity.info
 /(^|^.*\.)brewe.sh$/
 
 # Faked DeepSeek
-/(?:^|\.)deepseek-platform\.com/
-/(?:^|\.)r1deepseek-ai\.com/
-/(?:^|\.)app-updater1\.app/
-/(?:^|\.)app-updater2\.app/
-/(?:^|\.)app-updater\.app/
+/(?:^|\.)deepseek-platform\.com$/
+/(?:^|\.)r1deepseek-ai\.com$/
+/(?:^|\.)app-updater1\.app$/
+/(?:^|\.)app-updater2\.app$/
+/(?:^|\.)app-updater\.app$/
 
 # Phishing
-/(^|^.*\.)vod3um.online$/
-/(^|^.*\.)dostavka.dealp-a.cyou$/
-/(^|^.*\.)auselectrical.com$/
+/(?:^|\.)vod3um\.online$/
+/(?:^|\.)dostavka.dealp-a\.cyou$/
+/(?:^|\.)auselectrical\.com$/
 
 # Telegram Scam
-/(^|^.*\.)cmstcycle.com$/
+/(?:^|\.)cmstcycle\.com$/
 
 # Testing
-/(^|^.*\.)testpanw.com$/
+/(?:^|\.)testpanw\.com$/
 /^blockcheck[1-9][0-9]*\.system-checks\.org$/
 /^blockcheck[1-9][0-9]*\.[a-z0-9-]+\.system-checks\.org$/
