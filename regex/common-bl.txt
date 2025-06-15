@@ -552,11 +552,11 @@ yujaverity.info
 /(^|^.*\.)brewe.sh$/
 
 # Faked DeepSeek
-deepseek-platform.com
-r1deepseek-ai.com
-app-updater1.app
-app-updater2.app
-app-updater.app
+/(?:^|\.)deepseek-platform\.com/
+/(?:^|\.)r1deepseek-ai\.com/
+/(?:^|\.)app-updater1\.app/
+/(?:^|\.)app-updater2\.app/
+/(?:^|\.)app-updater\.app/
 
 # Phishing
 /(^|^.*\.)vod3um.online$/
