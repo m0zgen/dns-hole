@@ -119,6 +119,10 @@ www.appleinsider.ru
 appleinsider.com
 www.appleinsider.com
 
+# [ Apple Tree School ]
+appletreeschool.kz
+www.appletreeschool.kz
+
 # [ AppSecFest ]
 appsecfest.kz
 www.appsecfest.kz
