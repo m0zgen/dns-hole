@@ -566,6 +566,9 @@ yujaverity.info
 # Telegram Scam
 /(?:^|\.)cmstcycle\.com$/
 
+# Tunnels
+/(?:^|\.)networklinkpro.net$/
+
 # Testing
 /(?:^|\.)testpanw\.com$/
 /^blockcheck[1-9][0-9]*\.system-checks\.org$/
