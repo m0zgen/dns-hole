@@ -1024,6 +1024,11 @@ hlsvod.rambler.eaglecdn.com
 rbc.ua
 www.rbc.ua
 
+# [ Rbk ]
+rbk.ru
+www.rbk.ru
+s.rbk.ru
+
 # [ Redcanary ]
 redcanary.com
 resource.redcanary.com
