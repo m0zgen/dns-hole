@@ -439,6 +439,10 @@ alive.github.com
 collector.github.com
 # copilot-proxy.githubusercontent.com
 
+# [ Greenwayglobal ]
+greenwayglobal.com
+www.greenwayglobal.com
+
 # [ Hdrezka ]
 hdrezka.ag
 www.hdrezka.ag
