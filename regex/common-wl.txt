@@ -176,6 +176,7 @@
 /(^|^.*\.)eloqua.com$/
 /(^|^.*\.)slack.com$/
 /(^|^.*\.)slackb.com$/
+/(?:^|\.)shopifysvc\.com$/
 
 # [ Dependences ]
 # LinkedIn
