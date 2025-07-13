@@ -177,8 +177,8 @@
 /(^|^.*\.)slack.com$/
 /(^|^.*\.)slackb.com$/
 
-/(?:^|\.)shopifysvc\.com$/
-/(?:^|\.)clarity\.ms$/
+# /(?:^|\.)shopifysvc\.com$/
+# /(?:^|\.)clarity\.ms$/
 
 # [ Dependences ]
 # LinkedIn

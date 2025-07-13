@@ -1436,3 +1436,6 @@ x20na.appdump.nie.easebar.com
 1616.ro
 i0.1616.ro
 
+# roamic.com
+merchant-center-analytics.goog
+www.merchant-center-analytics.goog
