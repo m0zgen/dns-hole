@@ -682,6 +682,11 @@ thumbs.dfs.ivi.ru
 rocket.ivi.ru
 ivi-region.cdnvideo.ru
 
+# [ On ]
+on.com
+www.on.com
+link.on.com
+
 # [ Open Graph ]
 ogp.me
 www.ogp.me
