@@ -258,14 +258,17 @@ www.ccbill.com
 cisecurity.org
 learn.cisecurity.org
 
-# [ Clicks* ]
-clickhouse.com
-clck.ru
-bit.ly
-clickcease.com
+# [ Collects, Shorteners ]
 # get.inc
-www.clickcease.com
+bit.ly
+clck.ru
+clickcease.com
+clickhouse.com
+is.gd
 monitor.clickcease.com
+okt.to
+www.clickcease.com
+www.okt.to
 
 # [ Cloudflare ]
 cloudflare.com
@@ -1128,10 +1131,6 @@ sdk.split.io
 shodan.io
 www.shodan.io
 api.shodan.io
-
-# [ Shorteners ]
-okt.to
-www.okt.to
 
 # [ Sixt ]
 sixt.lv
