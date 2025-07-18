@@ -1018,6 +1018,9 @@ www.profit.
 profitwell.com
 public.profitwell.com
 
+# [ Px-cdn ]
+captcha.px-cdn.net
+
 # [ Qualtrics ]
 qualtrics.com
 tetrapakglobal.eu.qualtrics.com
