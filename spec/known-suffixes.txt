@@ -1,0 +1,7 @@
+#
+.amazonaws.com
+.on.aws
+#.cloudflare.com
+.ip-api.com
+.appsync-api.*
+
