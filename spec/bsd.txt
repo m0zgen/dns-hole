@@ -2,6 +2,6 @@
 .amazonaws.com
 .appsync-api.*
 .core.windows.net
-goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 .ip-api.com
 .on.aws
