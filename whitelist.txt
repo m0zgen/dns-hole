@@ -1100,6 +1100,10 @@ segment.io
 www.segment.com
 www.segment.io
 
+# [ Seiflombard ]
+seiflombard.kz
+www.seiflombard.kz
+
 # [ Sematext ]
 sematext.com
 www.sematext.com
