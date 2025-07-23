@@ -4,4 +4,4 @@
 #.cloudflare.com
 .ip-api.com
 .appsync-api.*
-
+.core.windows.net
