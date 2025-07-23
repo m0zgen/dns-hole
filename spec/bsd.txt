@@ -6,3 +6,5 @@
 .ip-api.com
 .on.aws
 .svc.cdn.yandex.net
+.music.yandex.net
+.cloudapp.azure.com
