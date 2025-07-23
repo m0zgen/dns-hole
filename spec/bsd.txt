@@ -5,3 +5,4 @@
 .goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 .ip-api.com
 .on.aws
+.svc.cdn.yandex.net
