@@ -22,3 +22,4 @@
 .svc.cdn.yandex.net
 .tbcache.com
 .tha.kz
+.ay.delivery
