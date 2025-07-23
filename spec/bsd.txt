@@ -8,3 +8,4 @@
 .svc.cdn.yandex.net
 .music.yandex.net
 .cloudapp.azure.com
+.flightradar24.com
