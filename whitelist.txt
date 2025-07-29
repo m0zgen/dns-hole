@@ -222,11 +222,6 @@ cts.businesswire.com
 cackle.me
 i.cackle.me
 
-# [ Calltouch ]
-calltouch.ru
-www.calltouch.ru
-operator.calltouch.ru
-
 # [ Cameras ]
 www3.haivision.com
 
