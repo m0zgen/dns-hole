@@ -1,6 +1,8 @@
-#
+# Main for OpenBLD.net 
 .amazonaws.com
 .appsync-api.*
+.ay.delivery
+.binance.cloud
 .cloudapp.azure.com
 .cloudfront.net
 .core.windows.net
@@ -19,8 +21,9 @@
 .oneplus.com
 .online-metrix.net
 .rt.avito.ru
+.sentry.io
 .svc.cdn.yandex.net
 .tbcache.com
 .tha.kz
-.ay.delivery
-.sentry.io
+.ttvnw.net
+.windows.net
