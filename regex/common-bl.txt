@@ -558,6 +558,14 @@ yujaverity.info
 /(?:^|\.)app-updater2\.app$/
 /(?:^|\.)app-updater\.app$/
 
+# Faked Putty and WinSCP
+# https://arcticwolf.com/resources/blog/malvertising-campaign-delivers-oyster-broomstick-backdoor-via-seo-poisoning-trojanized-tools/
+/(?:^|\.)updaterputty\.com$/
+/(?:^|\.)zephyrhype\.com$/
+/(?:^|\.)putty\.run$/
+/(?:^|\.)putty\.bet$/
+/(?:^|\.)puttyy\.org$/
+
 # Phishing
 /(?:^|\.)vod3um\.online$/
 /(?:^|\.)dostavka.dealp-a\.cyou$/
