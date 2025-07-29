@@ -438,6 +438,14 @@ alive.github.com
 collector.github.com
 # copilot-proxy.githubusercontent.com
 
+# [ Goldapple ]
+goldapple.by
+goldapple.kz
+goldapple.ru
+www.goldapple.by
+www.goldapple.kz
+www.goldapple.ru
+
 # [ Greenwayglobal ]
 greenwayglobal.com
 www.greenwayglobal.com
