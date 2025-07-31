@@ -27,6 +27,17 @@
 .tha.kz
 .ttvnw.net
 .windows.net
+# Testing
 .pccc.com
 .snb.it
 .office.com
+.yandex.ru
+.yandex.tr
+.yandex.com
+.yandex.net
+.cmediahub.ru
+.yandexcloud.net
+.siomxity.net
+.guardsquare.com
+.beeline.ru
+.beeline.kz
