@@ -28,3 +28,4 @@
 .ttvnw.net
 .windows.net
 .pccc.com
+.snb.it
