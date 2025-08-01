@@ -570,6 +570,8 @@ yujaverity.info
 /(?:^|\.)vod3um\.online$/
 /(?:^|\.)dostavka.dealp-a\.cyou$/
 /(?:^|\.)auselectrical\.com$/
+# https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/
+/(?:^|\.)pypj.org$/
 
 # Telegram Scam
 /(?:^|\.)cmstcycle\.com$/
