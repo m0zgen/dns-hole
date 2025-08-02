@@ -578,6 +578,9 @@ yujaverity.info
 
 # Tunnels
 /(?:^|\.)networklinkpro.net$/
+/(?:^|\.)poke-mon.xyz$/
+/(?:^|\.)maomao678.com$/
+/(?:^|\.)prometheusnet01.xyz$/
 
 # Testing
 /(?:^|\.)testpanw\.com$/
