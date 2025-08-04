@@ -581,6 +581,8 @@ yujaverity.info
 /(?:^|\.)poke-mon.xyz$/
 /(?:^|\.)maomao678.com$/
 /(?:^|\.)prometheusnet01.xyz$/
+/(?:^|\.)mlk4krt.com$/
+/(?:^|\.)mild4trom.com$/
 
 # Testing
 /(?:^|\.)testpanw\.com$/
