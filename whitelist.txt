@@ -388,6 +388,10 @@ www.electrum.org
 download.electrum.org
 www.download.electrum.org
 
+# [ En25 ]
+en25.com
+www.en25.com
+
 # [ Etoro ]
 etoro.com
 www.etoro.com
