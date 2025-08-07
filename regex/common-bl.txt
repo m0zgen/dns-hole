@@ -566,6 +566,9 @@ yujaverity.info
 /(?:^|\.)putty\.bet$/
 /(?:^|\.)puttyy\.org$/
 
+# Abuse DDoS bot
+/(?:^|\.)mozicloud\.org$/
+
 # Phishing
 /(?:^|\.)vod3um\.online$/
 /(?:^|\.)dostavka.dealp-a\.cyou$/
