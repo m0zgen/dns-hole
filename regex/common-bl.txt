@@ -569,6 +569,9 @@ yujaverity.info
 # Abuse DDoS bot
 /(?:^|\.)mozicloud\.org$/
 
+# Abuse web rat
+/(?:^|\.)salat.cn$/
+
 # Phishing
 /(?:^|\.)vod3um\.online$/
 /(?:^|\.)dostavka.dealp-a\.cyou$/
