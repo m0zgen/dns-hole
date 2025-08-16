@@ -467,6 +467,10 @@ crm.raketa.city
 redhat.com
 app.engage.redhat.com
 
+# [ Reddit static ]
+redditstatic.com
+www.redditstatic.com
+
 # [ Rollbar ]
 rollbar.com
 www.rollbar.com
