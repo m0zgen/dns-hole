@@ -566,6 +566,12 @@ yujaverity.info
 /(?:^|\.)putty\.bet$/
 /(?:^|\.)puttyy\.org$/
 
+# HijackLoader
+# https://www.trellix.com/blogs/research/analysis-of-hijackloader-and-its-infection-chain/
+/(?:^|\.)directsnap\.click$/
+/(?:^|\.)readyf1\.lol$/
+/(?:^|\.)weeklyuploads\.click$/
+
 # Abuse DDoS bot
 /(?:^|\.)mozicloud\.org$/
 
