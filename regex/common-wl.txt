@@ -161,6 +161,7 @@
 
 # [ Markets ]
 /(?:^|\.)taobao\.com$/
+/(?:^|\.)temu\.com$/
 
 # Ad checkers
 /(^|^.*\.)succeedscene.com$/
