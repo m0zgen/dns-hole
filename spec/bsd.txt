@@ -41,3 +41,4 @@
 .guardsquare.com
 .beeline.ru
 .beeline.kz
+.googlesyndication.com
