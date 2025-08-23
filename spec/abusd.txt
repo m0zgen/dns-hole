@@ -11,10 +11,10 @@
 #
 .maomindx.pro
 .zxmvnzmxvnqe.top
-.libp2p.direct
+#.libp2p.direct
 .vegslb.com
-.sealaly.net
-.smtcdns.com
+#.sealaly.net
+#.smtcdns.com
 #
 .interld123456789.com
 .77b29ce2075ffbf5.com
