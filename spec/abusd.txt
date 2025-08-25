@@ -26,4 +26,4 @@
 #.prometheusnet01.xyz
 #.mlina.cn
 #.cdntips.net
-#
+#.jmapiproxy1.cc
