@@ -572,14 +572,14 @@ yujaverity.info
 /(?:^|\.)readyf1\.lol$/
 /(?:^|\.)weeklyuploads\.click$/
 
-# SPIDER’s SHAMOS Delivery on macOS
+# SPIDER SHAMOS Delivery on macOS
 # https://www.crowdstrike.com/en-us/blog/falcon-prevents-cookie-spider-shamos-delivery-macos/
 /(?:^|\.)mac-safer\.com$/
 /(?:^|\.)rescue-mac\.com$/
 /(?:^|\.)icloudservers\.com$/
 /(?:^|\.)macostutorial\.com$/
 
-# Anatsa malware (a.k.a. TeaBot) 
+# Anatsa malware
 # https://www.zscaler.com/blogs/security-research/android-document-readers-and-deception-tracking-latest-updates-anatsa
 /(?:^|\.)saurkanot\.com$/
 /(?:^|\.)docsresearchgroup\.com$/
