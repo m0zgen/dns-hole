@@ -584,6 +584,14 @@ yujaverity.info
 /(?:^|\.)saurkanot\.com$/
 /(?:^|\.)docsresearchgroup\.com$/
 
+# Evil Youtube downloaders
+# https://asec.ahnlab.com/en/89787/
+/(?:^|\.)4tressx\.com$/
+/(?:^|\.)cloudnetpr\.com$/
+/(?:^|\.)connectiondistribute\.com$/
+/(?:^|\.)diskcleanu\.com$/
+/(?:^|\.)fastconnectnetwork\.com$/
+
 # Common
 
 # Abuse DDoS bot
