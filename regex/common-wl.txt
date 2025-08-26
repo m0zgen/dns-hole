@@ -110,7 +110,7 @@
 /^voidboost.net$/
 
 # [ Games ]
-/(?:^|\.)playstation.(com|net)$/
+/(?:^|\.)playstation\.(?:com|net)$/
 /(?:^|\.)roblox\.com$/
 /(?:^|\.)ea\.com$/
 
@@ -118,18 +118,19 @@
 /(?:^|\.)dreame\.tech$/
 /(?:^|\.)dreametech\.com$/
 /(?:^|\.)tuyacn\.com$/
+/(?:^|\.)tuyaeu\.com$/
 
 # [ Programming, Coding ]
 # Visual Studio Code
 # https://code.visualstudio.com/docs/setup/network
-/(^|^.*\.)gallery.vsassets.io$/
-/(^|^.*\.)gallerycdn.vsassets.io$/
-/(^|^.*\.)vscode-unpkg.net$/
+/(?:^|\.)gallery.vsassets.io$/
+/(?:^|\.)gallerycdn.vsassets.io$/
+/(?:^|\.)vscode-unpkg.net$/
 
 # [ Social / Jobs ]
-/(^|^.*\.)hh.([a-z]{2,})$/
-/(^|^.*\.)x\.com$/
-/(^|^.*\.)twimg\.com$/
+/(?:^|\.)hh.([a-z]{2,})$/
+/(?:^|\.)x\.com$/
+/(?:^|\.)twimg\.com$/
 
 # [ MS ]
 /v[1-9\d]{0,2}.events.data.microsoft.com$/
