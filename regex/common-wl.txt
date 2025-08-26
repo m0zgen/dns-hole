@@ -110,9 +110,9 @@
 /^voidboost.net$/
 
 # [ Games ]
-/(^|^.*\.)playstation.(com|net)$/
-/(^|^.*\.)roblox.com$/
-/(^|^.*\.)ea.com$/
+/(?:^|\.)playstation.(com|net)$/
+/(?:^|\.)roblox\.com$/
+/(?:^|\.)ea\.com$/
 
 # [ IoT ]
 /(?:^|\.)dreame\.tech$/
