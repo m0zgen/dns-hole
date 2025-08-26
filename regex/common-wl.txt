@@ -115,8 +115,9 @@
 /(^|^.*\.)ea.com$/
 
 # [ IoT ]
-/(^|^.*\.)dreame.tech$/
-/(^|^.*\.)dreametech.com$/
+/(?:^|\.)dreame\.tech$/
+/(?:^|\.)dreametech\.com$/
+/(?:^|\.)tuyacn\.com$/
 
 # [ Programming, Coding ]
 # Visual Studio Code
