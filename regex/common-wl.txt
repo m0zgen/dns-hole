@@ -36,6 +36,8 @@
 /(^|^.*\.)weather.com$/
 /(^|^.*\.)wialon.com$/
 
+/(?:^|\.)hcaptcha\.com$/
+
 # [ Banks ]
 /(^|^.*\.)kaspi.(kz)$/
 /(^|^.*\.)halykbank.(kz)$/
