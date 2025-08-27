@@ -184,6 +184,7 @@
 /(^|^.*\.)eloqua.com$/
 /(^|^.*\.)slack.com$/
 /(^|^.*\.)slackb.com$/
+/(?:^|\.)onelink\.me$/
 
 # /(?:^|\.)shopifysvc\.com$/
 # /(?:^|\.)clarity\.ms$/
