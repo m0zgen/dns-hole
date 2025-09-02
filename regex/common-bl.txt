@@ -592,6 +592,22 @@ yujaverity.info
 /(?:^|\.)diskcleanu\.com$/
 /(?:^|\.)fastconnectnetwork\.com$/
 
+# Weaponized PuTTY
+# https://levelblue.com/blogs/security-essentials/like-putty-in-admins-hands
+puttyy.org
+puttysystems.com
+updaterputty.com
+putty.bet
+puttyy.com
+putty.run
+putty.lat
+putty.us.com
+heartlandenergy.ai
+putty.network
+ruben.findinit.com
+ekeitoro.siteinwp.com
+danielaurel.tv
+
 # Common
 
 # Abuse DDoS bot
