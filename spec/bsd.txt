@@ -42,3 +42,4 @@
 .beeline.ru
 .beeline.kz
 .googlesyndication.com
+.statuspage.io
