@@ -454,6 +454,10 @@ www.goldapple.ru
 greenwayglobal.com
 www.greenwayglobal.com
 
+# [ Gizmodo ]
+gizmodo.com
+www.gizmodo.com
+
 # [ Hdrezka ]
 hdrezka.ag
 www.hdrezka.ag
