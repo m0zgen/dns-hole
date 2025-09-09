@@ -442,6 +442,11 @@ alive.github.com
 collector.github.com
 # copilot-proxy.githubusercontent.com
 
+# [ Godaddy ]
+godaddy.com
+www.godaddy.com
+api.aws.parking.godaddy.com
+
 # [ Goldapple ]
 goldapple.by
 goldapple.kz
