@@ -463,6 +463,11 @@ www.greenwayglobal.com
 gizmodo.com
 www.gizmodo.com
 
+# [ Harness ]
+harness.io
+www.harness.io
+auth.split.io
+
 # [ Hdrezka ]
 hdrezka.ag
 www.hdrezka.ag
