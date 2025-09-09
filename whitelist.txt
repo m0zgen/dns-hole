@@ -636,6 +636,10 @@ blog.hypr.com
 howtofix.guide
 www.howtofix.guide
 
+# [ Jalebi ]
+jalebi.io
+www.jalebi.io
+
 # [ Jivosite ]
 jivosite.com
 app.jivosite.com
