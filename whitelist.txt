@@ -1471,6 +1471,7 @@ click.e.zoom.us
 # =======================
 # [ Testing ]
 glovo.api.kustomerapp.com
+counter.yadro.ru
 
 # [ Games ]
 telemetry.sgp.pvp.net
