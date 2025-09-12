@@ -72,6 +72,10 @@
 /(^|^.*\.)westernunion.com$/
 /(^|^.*\.)1xbet.(kz|com)$/
 
+# [ Platforms ]
+/(?:^|\.)braze\.eu$/
+/(?:^|\.)miro\.com$/
+
 # [ APIs ]
 /(^|^.*\.)ipify.org$/
 /(^|^.*\.)ipwho.is$/
