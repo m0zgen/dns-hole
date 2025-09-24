@@ -155,6 +155,7 @@
 /^.*.trafficmanager.net$/
 /^.*.vo.msecnd.net$/
 /^r[1-9].res.office365.com$/
+/(?:^|\.)office.net$/
 
 # [ Yandex ]
 /^cloud.yandex\.(ru|com|net)$/
