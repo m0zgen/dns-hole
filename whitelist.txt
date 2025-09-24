@@ -729,6 +729,11 @@ on.com
 www.on.com
 link.on.com
 
+# [ OneTrust ]
+onetrust.com
+www.onetrust.com
+geolocation.onetrust.com
+
 # [ Open Graph ]
 ogp.me
 www.ogp.me
