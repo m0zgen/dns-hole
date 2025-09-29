@@ -75,6 +75,7 @@
 # [ Platforms ]
 /(?:^|\.)braze\.eu$/
 /(?:^|\.)miro\.com$/
+/(?:^|\.)findmykids\.org$/
 
 # [ APIs ]
 /(^|^.*\.)ipify.org$/
