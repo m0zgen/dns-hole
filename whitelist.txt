@@ -408,6 +408,10 @@ b-graph.facebook.com
 fantlab.ru
 www.fantlab.ru
 
+# [ Fast.com ]
+fast.com
+www.fast.com
+
 # [ File Sharing]
 dropmefiles.com
 wetransfer.com
