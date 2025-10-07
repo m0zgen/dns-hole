@@ -1,76 +1,75 @@
 # [ Common ]
-/(^|^.*\.)chatgpt.com$/
-/(^|^.*\.)comagic.ru$/
-/(^|^.*\.)corel.com$/
-/(^|^.*\.)datadoghq.com$/
-/(^|^.*\.)deepl.com$/
-/(^|^.*\.)deepseek.com$/
-/(^|^.*\.)digicert.com$/
-/(^|^.*\.)entrust.net$/
-/(^|^.*\.)gismeteo.(kz|ru)$/
-/(^|^.*\.)gov$/
-/(^|^.*\.)gov.(kz|by|ru|uz|kg|uk|cn|it)$/
-/(^|^.*\.)intercom.io$/
-/(^|^.*\.)jivosite.com$/
-/(^|^.*\.)lastpass.com$/
-/(^|^.*\.)licdn.com$/
-/(^|^.*\.)linkedin.com$/
-/(^|^.*\.)nessus.org$/
-/(^|^.*\.)oaistatic.com$/
-/(^|^.*\.)openai.com$/
-/(^|^.*\.)openbld.net$/
-/(^|^.*\.)pikabu.ru$/
-/(^|^.*\.)qualtrics.com$/
-/(^|^.*\.)raiffeisen\.(ru|ua)$/
-/(^|^.*\.)sendpulse.com$/
-/(^|^.*\.)sentry.io$/
-/(^|^.*\.)shodan.io$/
-/(^|^.*\.)smoot.apple.com$/
-/(^|^.*\.)symcb.com$/
-/(^|^.*\.)symcd.com$/
-/(^|^.*\.)sys-adm.in$/
-/(^|^.*\.)uptimerobot.com$/
-/(^|^.*\.)verisign.com/
-/(^|^.*\.)vmware.com$/
-/(^|^.*\.)voidboost.cc$/
-/(^|^.*\.)weather.com$/
-/(^|^.*\.)wialon.com$/
-
+/(?:^|\.)chatgpt\.com$/
+/(?:^|\.)comagic\.ru$/
+/(?:^|\.)corel\.com$/
+/(?:^|\.)datadoghq\.com$/
+/(?:^|\.)deepl\.com$/
+/(?:^|\.)deepseek\.com$/
+/(?:^|\.)digicert\.com$/
+/(?:^|\.)entrust\.net$/
+/(?:^|\.)gismeteo\.(?:kz|ru)$/
+/(?:^|\.)intercom\.io$/
+/(?:^|\.)jivosite\.com$/
+/(?:^|\.)lastpass\.com$/
+/(?:^|\.)licdn\.com$/
+/(?:^|\.)linkedin\.com$/
+/(?:^|\.)nessus\.org$/
+/(?:^|\.)oaistatic\.com$/
+/(?:^|\.)openai\.com$/
+/(?:^|\.)openbld\.net$/
+/(?:^|\.)pikabu\.ru$/
+/(?:^|\.)qualtrics\.com$/
+/(?:^|\.)raiffeisen\.(?:ru|ua)$/
+/(?:^|\.)sendpulse\.com$/
+/(?:^|\.)sentry\.io$/
+/(?:^|\.)shodan\.io$/
+/(?:^|\.)smoot\.apple\.com$/
+/(?:^|\.)symcd\.com$/
+/(?:^|\.)sys-adm\.in$/
+/(?:^|\.)uptimerobot\.com$/
+/(?:^|\.)verisign\.com$/
+/(?:^|\.)vmware\.com$/
+/(?:^|\.)voidboost\.cc$/
+/(?:^|\.)weather\.com$/
+/(?:^|\.)wialon\.com$/
 /(?:^|\.)hcaptcha\.com$/
 
+# [ Gov ]
+/(?:^|\.)[^.]+\.gov$/
+/(?:^|\.)gov\.(?:kz|by|ru|uz|kg|uk|cn|it)$/
+
 # [ Banks ]
-/(^|^.*\.)kaspi.(kz)$/
-/(^|^.*\.)halykbank.(kz)$/
-/(^|^.*\.)bankrbk.(kz)$/
-/(^|^.*\.)bcc.(kz)$/
-/(^|^.*\.)forte.(kz)$/
-/(^|^.*\.)bankffin.(kz)$/
-/(^|^.*\.)mykassa.(kz)$/
-/(^|^.*\.)nurbank.(kz)$/
-/(^|^.*\.)nurbank24.(kz)$/
-/(^|^.*\.)hcsbk.(kz)$/
-/(^|^.*\.)nurbank24.(kz)$/
-/(^|^.*\.)nationalbank.(kz)$/
-/(^|^.*\.)kazincombank.(kz)$/
-/(^|^.*\.)vtb.ru(kz)$/
+/(?:^|\.)kaspi\.kz$/
+/(?:^|\.)halykbank\.kz$/
+/(?:^|\.)bankrbk\.kz$/
+/(?:^|\.)bcc\.kz$/
+/(?:^|\.)forte\.kz$/
+/(?:^|\.)bankffin\.kz$/
+/(?:^|\.)mykassa\.kz$/
+/(?:^|\.)nurbank\.kz$/
+/(?:^|\.)nurbank24\.kz$/
+/(?:^|\.)hcsbk\.kz$/
+/(?:^|\.)nationalbank\.kz$/
+/(?:^|\.)kazincombank\.kz$/
+/(?:^|\.)vtb\.(?:ru|kz)$/
 
 # [ Mobile banking]
-/(^|^.*\.)aaplimg.com$/
-/(^|^.*\.)appsflyersdk.com$/
-/(^|^.*\.)appsflyer.com$/
-/(^|^.*\.)sustainalytics.com$/
-/(^|^.*\.)acfcs.org$/
-/^firebase.*.googleapis.com$/
-/^firebase.*.crashlytics.com$/
+/(?:^|\.)aaplimg\.com$/
+/(?:^|\.)appsflyersdk\.com$/
+/(?:^|\.)appsflyer\.com$/
+/(?:^|\.)sustainalytics\.com$/
+/(?:^|\.)acfcs\.org$/
+/(?:^|\.)firebase[^.]*\.googleapis\.com$/
+/(?:^|\.)firebase[^.]*\.crashlytics\.com$/
 
 # [ Payments]
-/(^|^.*\.)swift.com$/
-/(^|^.*\.)visa.com$/
-/(^|^.*\.)visabusinessschool.com$/
-/(^|^.*\.)mastercard.com$/
-/(^|^.*\.)dynatrace.com$/
-/(^|^.*\.)westernunion.com$/
-/(^|^.*\.)1xbet.(kz|com)$/
+/(?:^|\.)swift\.com$/
+/(?:^|\.)visa\.com$/
+/(?:^|\.)visabusinessschool\.com$/
+/(?:^|\.)mastercard\.com$/
+/(?:^|\.)dynatrace\.com$/
+/(?:^|\.)westernunion\.com$/
+/(?:^|\.)1xbet\.(?:kz|com)$/
 
 # [ Platforms ]
 /(?:^|\.)braze\.eu$/
@@ -78,12 +77,12 @@
 /(?:^|\.)findmykids\.org$/
 
 # [ APIs ]
-/(^|^.*\.)ipify.org$/
-/(^|^.*\.)ipwho.is$/
-/(^|^.*\.)ipwhois.io$/
+/(?:^|\.)ipify\.org$/
+/(?:^|\.)ipwho\.is$/
+/(?:^|\.)ipwhois\.io$/
 
 # [ Filters ]
-/(^|^.*\.)oisd.nl$/
+/(?:^|\.)oisd\.nl$/
 
 # [ Clouds / Nets ]
 /^.*-cdn.tinkoffjournal.ru$/
