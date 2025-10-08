@@ -133,6 +133,7 @@
 /(?:^|\.)gallerycdn.vsassets\.io$/
 /(?:^|\.)vscode-unpkg\.net$/
 /(?:^|\.)kameleoon\.net$/
+/(?:^|\.)grafana\.org$/
 
 # [ Social / Jobs ]
 /(?:^|\.)hh.([a-z]{2,})$/
