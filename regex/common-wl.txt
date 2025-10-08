@@ -134,6 +134,8 @@
 /(?:^|\.)vscode-unpkg\.net$/
 /(?:^|\.)kameleoon\.net$/
 /(?:^|\.)kameleoon\.com$/
+/(?:^|\.)kameleoon\.io$/
+/(?:^|\.)kameleoon\.eu$/
 /(?:^|\.)grafana\.org$/
 /(?:^|\.)posthog\.com$/
 
