@@ -822,6 +822,11 @@ www.mackeeper.com
 macsecurity.net
 www.macsecurity.net
 
+# [ Maxmind ]
+maxmind.com
+www.maxmind.com
+download.maxmind.com
+
 # [ Mail.ru ]
 # top-fwz1.mail.ru
 m.vk.com
@@ -992,6 +997,14 @@ ofa-sub.osp.opera.software
 oshi.at
 www.oshi.at
 
+# [ Inbenta ]
+inbenta.io
+www.inbenta.io
+sdk.inbenta.io
+inbenta.com
+www.inbenta.com
+sdk.inbenta.com
+
 # [ ip-api.com ]
 ip-api.com
 www.ip-api.com
@@ -1035,6 +1048,14 @@ s.pinimg.com
 sm.pinimg.com
 #log.pinterest.com
 #trk.pinterest.com
+
+# [ Place Holders ]
+placehold.co
+www.placehold.co
+place-hold.it
+www.place-hold.it
+images.placeholders.dev
+dummyimage.com
 
 # [ PQ Hosting ]
 pq.hosting
