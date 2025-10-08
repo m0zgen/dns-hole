@@ -135,6 +135,7 @@
 /(?:^|\.)kameleoon\.net$/
 /(?:^|\.)kameleoon\.com$/
 /(?:^|\.)grafana\.org$/
+/(?:^|\.)posthog\.com$/
 
 # [ Social / Jobs ]
 /(?:^|\.)hh.([a-z]{2,})$/
