@@ -3,6 +3,7 @@ static.cloudflareinsights.com
 region1.google-analytics.com
 pagead1.googlesyndication.com
 pagead2.googlesyndication.com
+ads.adfox.ru
 
 # [ Sfx ]
 *.doubleclick.net
