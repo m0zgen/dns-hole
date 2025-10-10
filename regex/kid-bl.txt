@@ -53,6 +53,7 @@
 /(?:^|.*\.)huyamba.*$/
 /(?:^|.*\.)kizdar.*$/
 /(?:^|.*\.)masturbat.*$/
+# /(?:^|.*\.)hdrezka.*$/
 
 # [ Domain rules ] #
 # simple domain
