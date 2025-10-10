@@ -746,6 +746,10 @@ www.ogp.me
 opentext.com
 www.opentext.com
 
+# [ Oplata ]
+oplata.info
+www.oplata.info
+
 # [ Oszone ]
 oszone.net
 www.oszone.net
