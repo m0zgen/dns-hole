@@ -53,7 +53,10 @@
 /(?:^|.*\.)huyamba.*$/
 /(?:^|.*\.)kizdar.*$/
 /(?:^|.*\.)masturbat.*$/
-# /(?:^|.*\.)hdrezka.*$/
+
+# Testing
+/(?:^|.*\.)hdrezka.*$/
+/(?:^|\.)rezka(?:\.[a-z]{2,}|$)/
 
 # [ Domain rules ] #
 # simple domain
