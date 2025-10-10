@@ -4,7 +4,10 @@ region1.google-analytics.com
 pagead1.googlesyndication.com
 pagead2.googlesyndication.com
 ads.adfox.ru
+static.ads-twitter.com
+html-load.com
 
 # [ Sfx ]
 *.doubleclick.net
 .googletagservices.com
+*.html-load.com
