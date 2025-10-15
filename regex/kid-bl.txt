@@ -55,8 +55,8 @@
 /(?:^|.*\.)masturbat.*$/
 
 # Testing
-/(?:^|.*\.)hdrezka.*$/
-/(?:^|\.)rezka(?:\.[a-z]{2,}|$)/
+# /(?:^|.*\.)hdrezka.*$/
+# /(?:^|\.)rezka(?:\.[a-z]{2,}|$)/
 
 # [ Domain rules ] #
 # simple domain

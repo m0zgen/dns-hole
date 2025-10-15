@@ -1363,6 +1363,11 @@ t.co
 # [ Vtb ]
 sso-app4.vtb.ru
 
+# [ Vmray ]
+vmray.com
+www.vmray.com
+go.vmray.com
+
 # [ Uber ]
 uber.com
 www.uber.com
@@ -1510,6 +1515,8 @@ click.e.zoom.us
 # [ Testing ]
 glovo.api.kustomerapp.com
 counter.yadro.ru
+
+cdn.prod.website-files.com
 
 # [ Games ]
 telemetry.sgp.pvp.net
