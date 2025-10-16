@@ -608,6 +608,12 @@ ruben.findinit.com
 ekeitoro.siteinwp.com
 danielaurel.tv
 
+# Lastpass Phish
+lastpassdesktop.com
+lastpassdesktop.app
+lastpassgazette.blog
+lastpasspulse.blog
+
 # Common
 
 # Abuse DDoS bot
