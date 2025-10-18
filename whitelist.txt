@@ -110,6 +110,7 @@ api.apple-cloudkit.com
 token.safebrowsing.apple
 appldnld.apple.com.edgesuite.net
 appleid.cdn-apple.com
+apple-relay.fastly-edge.com
 # iadsdk.apple.com
 # notes-analytics-events.apple.com
 
