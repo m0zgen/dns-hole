@@ -468,32 +468,6 @@ www.greenwayglobal.com
 gizmodo.com
 www.gizmodo.com
 
-# [ Harness ]
-harness.io
-www.harness.io
-auth.split.io
-
-# [ Hdrezka ]
-hdrezka.ag
-www.hdrezka.ag
-rezka.ag
-
-# [ Raketa ]
-raketa.city
-crm.raketa.city
-
-# [ Red Hat]
-redhat.com
-app.engage.redhat.com
-
-# [ Reddit static ]
-redditstatic.com
-www.redditstatic.com
-
-# [ Rollbar ]
-rollbar.com
-www.rollbar.com
-
 # [ GitHub ]
 raw.githubusercontent.com
 # https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/whitelist/github.txt
@@ -568,6 +542,16 @@ www.googletagmanager.com
 # [ Goldapple ]
 goldapple.kz
 www.goldapple.kz
+
+# [ Harness ]
+harness.io
+www.harness.io
+auth.split.io
+
+# [ Hdrezka ]
+hdrezka.ag
+www.hdrezka.ag
+rezka.ag
 
 # [ Hetzner ]
 hetzner.com
@@ -1100,6 +1084,10 @@ qualtrics.com
 tetrapakglobal.eu.qualtrics.com
 uopeople.qualtrics.com
 
+# [ Raketa ]
+raketa.city
+crm.raketa.city
+
 # [ Rambler ]
 rambler.ru
 www.rambler.ru
@@ -1122,9 +1110,21 @@ s.rbk.ru
 redcanary.com
 resource.redcanary.com
 
+# [ Red Hat]
+redhat.com
+app.engage.redhat.com
+
 # [ Reddit ]
 reddit.com
+www.reddit.com
 alb.reddit.com
+redditstatic.com
+www.redditstatic.com
+click.redditmail.com
+
+# [ Rollbar ]
+rollbar.com
+www.rollbar.com
 
 # [ Redhead ]
 redthread.studio
