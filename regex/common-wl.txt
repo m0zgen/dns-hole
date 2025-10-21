@@ -75,6 +75,7 @@
 /(?:^|\.)braze\.eu$/
 /(?:^|\.)miro\.com$/
 /(?:^|\.)findmykids\.org$/
+/(?:^|\.)adj\.st$/
 
 # [ APIs ]
 /(?:^|\.)ipify\.org$/
