@@ -43,3 +43,7 @@
 .beeline.kz
 .googlesyndication.com
 .statuspage.io
+# test
+.nextlgsdp.com
+.iptv2022.com
+.appsflyersdk.com
