@@ -931,6 +931,10 @@ applicationinsights.io
 moon.market
 www.moon.market
 
+# [ Myqrcode ]
+myqrcode.mobi
+www.myqrcode.mobi
+
 # [ Mozilla ]
 www.mozilla.org
 
