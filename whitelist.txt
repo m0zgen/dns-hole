@@ -23,6 +23,10 @@ www.2ip.io
 2gis.kz
 www.2gis.kz
 
+# [ 24smi ]
+24smi.org
+www.24smi.org
+
 # [ 3dvf ]
 3dvf.com
 www.3dvf.com
@@ -1522,6 +1526,10 @@ glovo.api.kustomerapp.com
 counter.yadro.ru
 
 cdn.prod.website-files.com
+
+cdn-pci.optimizely.com
+cdn.co-buying.com
+abc.appdynamics.com
 
 # [ Games ]
 telemetry.sgp.pvp.net
