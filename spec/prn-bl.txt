@@ -51,7 +51,6 @@
 
 # [ Domain rules ] #
 bewitchedhimself.com
-example.com
 fap-guru.pro
 managevan.com
 pixabay.com
