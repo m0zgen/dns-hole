@@ -53,6 +53,7 @@
 /(?:^|\.)kazincombank\.kz$/
 /(?:^|\.)vtb\.(?:ru|kz)$/
 /(?:^|\.)lloydsbank.co.uk$/
+/(?:^|\.)lloydsbank.com$/
 
 # [ Mobile banking]
 /(?:^|\.)aaplimg\.com$/
