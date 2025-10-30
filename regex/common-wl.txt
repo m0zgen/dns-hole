@@ -187,22 +187,22 @@
 /(?:^|\.)temu\.com$/
 
 # Ad checkers
-/(^|^.*\.)succeedscene.com$/
+/(^|^.*\.)succeedscene\.com$/
 
 # [ Roots ]
-/^[a-m].root-servers.net$/
+/^[a-m].root-servers\.net$/
 
 # [ Other ]
-/(^|^v[n-p]{2,}\.)bespoyasko.kz$/
+/(^|^v[n-p]{2,}\.)bespoyasko\.kz$/
 
 # [ Tests ]
-/(^|^.*\.)cloudfront.net$/
-/(^|^.*\.)mozilla.(com|org)$/
-/(^|^.*\.)firefox.com$/
-/(^|^.*\.)opera.com$/
-/(^|^.*\.)eloqua.com$/
-/(^|^.*\.)slack.com$/
-/(^|^.*\.)slackb.com$/
+/(?:^|\.)cloudfront\.net$/
+/(?:^|\.)mozilla\.(?:com|org)$/
+/(?:^|\.)firefox\.com$/
+/(?:^|\.)opera\.com$/
+/(?:^|\.)eloqua\.com$/
+/(?:^|\.)slack\.com$/
+/(?:^|\.)slackb\.com$/
 /(?:^|\.)onelink\.me$/
 
 /(?:^|\.)example\.(?:com|net)$/
@@ -212,7 +212,7 @@
 
 # [ Dependences ]
 # LinkedIn
-/(^|^.*\.)xlgmedia.com$/
-/(^|^.*\.)protechts.net$/
+/(?:^|\.)xlgmedia\.com$/
+/(?:^|\.)protechts\.net$/
 # VK
-/(^|^.*\.)userapi.com$/
+/(?:^|\.)userapi\.com$/
