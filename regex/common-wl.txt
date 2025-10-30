@@ -52,8 +52,10 @@
 /(?:^|\.)nationalbank\.kz$/
 /(?:^|\.)kazincombank\.kz$/
 /(?:^|\.)vtb\.(?:ru|kz)$/
+
 /(?:^|\.)lloydsbank.co.uk$/
 /(?:^|\.)lloydsbank.com$/
+/(?:^|\.)ttxm.co.uk$/
 
 # [ Mobile banking]
 /(?:^|\.)aaplimg\.com$/
@@ -78,6 +80,7 @@
 /(?:^|\.)miro\.com$/
 /(?:^|\.)findmykids\.org$/
 /(?:^|\.)adj\.st$/
+/(?:^|\.)strava.com$/
 
 # [ APIs ]
 /(?:^|\.)ipify\.org$/
