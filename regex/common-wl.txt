@@ -205,6 +205,8 @@
 /(^|^.*\.)slackb.com$/
 /(?:^|\.)onelink\.me$/
 
+/(?:^|\.)example\.(?:com|net)$/
+
 # /(?:^|\.)shopifysvc\.com$/
 # /(?:^|\.)clarity\.ms$/
 
