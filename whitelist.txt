@@ -547,6 +547,11 @@ www.googletagmanager.com
 goldapple.kz
 www.goldapple.kz
 
+# [ Gnome ]
+gnome.org
+www.gnome.org
+odrs.gnome.org
+
 # [ Harness ]
 harness.io
 www.harness.io
