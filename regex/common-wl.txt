@@ -81,6 +81,9 @@
 /(?:^|\.)findmykids\.org$/
 /(?:^|\.)adj\.st$/
 /(?:^|\.)strava.com$/
+# one plus, oppo
+/(?:^|\.)allawnos\.com$/
+/(?:^|\.)heytapmobile\.com$/
 
 # [ APIs ]
 /(?:^|\.)ipify\.org$/
