@@ -259,6 +259,10 @@ www.ccbill.com
 cisecurity.org
 learn.cisecurity.org
 
+# [ Claude ]
+claude.com
+www.claude.com
+
 # [ Collects, Shorteners ]
 # get.inc
 bit.ly
