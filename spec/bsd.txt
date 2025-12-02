@@ -43,6 +43,7 @@
 .beeline.kz
 .googlesyndication.com
 .statuspage.io
+.mts.ru
 # test
 .nextlgsdp.com
 .iptv2022.com
