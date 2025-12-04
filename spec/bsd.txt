@@ -24,6 +24,7 @@
 
 # --- Microsoft / Azure ---
 .azureedge.net
+.azureedge.us
 .azurewebsites.net
 .cloudapp.azure.com
 .core.windows.net
@@ -39,6 +40,7 @@
 # --- CDN / Clouds (Akamai & Others) ---
 .akamaiedge.net
 .akamaihd.net
+.aliyuncs.com
 .amazonaws.com
 .cdninstagram.com
 .cloudfront.net
@@ -104,6 +106,7 @@
 .tbcache.com
 .tha.kz
 .ttvnw.net
+.wb.ru
 
 # -- Testing ---
 .awswaf.com
