@@ -130,6 +130,8 @@
 .mwscdn.ru
 .nayada.ru
 .megapbx.ru
+.samsungdms.net
+.kolesa-team.org
 # p2p project
 .syncthing.net
 # anime, manga
