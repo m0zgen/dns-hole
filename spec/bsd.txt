@@ -30,8 +30,8 @@
 .msecnd.net
 .office.com
 .office.net
-#.t-msedge.net
-#.ax-msedge.net
+.t-msedge.net
+.ax-msedge.net
 .msedge.net
 .trafficmanager.net
 .windows.net
