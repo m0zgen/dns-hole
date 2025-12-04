@@ -36,6 +36,8 @@
 .msedge.net
 .trafficmanager.net
 .windows.net
+.msftconnecttest.com
+.msftncsi.com
 
 # --- CDN / Clouds (Akamai & Others) ---
 .akamaiedge.net
@@ -52,6 +54,8 @@
 .on.aws
 .twimg.com
 .whatsapp.net
+.whatsapp.com
+.nflxvideo.net
 
 .discord.gg
 .discordapp.com
@@ -83,6 +87,7 @@
 .websense.net
 .telecid.ru
 .mhverifier.ru
+.kaspersky-labs.com
 
 # --- Yandex ----
 .yandex.com
@@ -118,6 +123,15 @@
 .figma.com
 .met.no
 .ea.com
+.adobess.com
+.grafana.net
+.grafana-ops.net
+.nnmclub.to
+.mwscdn.ru
+# anime, manga
+.acgnxtracker.com
+# china manufacturer
+.jlcpcb.com
 
 # -- Testing ---
 .awswaf.com
