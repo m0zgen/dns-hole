@@ -131,6 +131,7 @@
 .mwscdn.ru
 .nayada.ru
 .megapbx.ru
+.openhd.ru
 .samsungdms.net
 .kolesa-team.org
 .placeapi.org
@@ -138,6 +139,7 @@
 .run.app
 .ubuntu.com
 .docker.com
+.3gppnetwork.org
 # p2p project
 .syncthing.net
 # anime, manga
