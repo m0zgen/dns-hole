@@ -132,6 +132,7 @@
 .megapbx.ru
 .samsungdms.net
 .kolesa-team.org
+.placeapi.org
 # p2p project
 .syncthing.net
 # anime, manga
