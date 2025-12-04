@@ -110,6 +110,7 @@
 .wb.ru
 .mail.ru
 .rtbcdn.ru
+.dzen.ru
 
 # -- Testing ---
 .awswaf.com
