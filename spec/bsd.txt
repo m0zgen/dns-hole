@@ -135,6 +135,8 @@
 .placeapi.org
 .arbina.com
 .run.app
+.ubuntu.com
+.docker.com
 # p2p project
 .syncthing.net
 # anime, manga
