@@ -117,6 +117,7 @@
 .dzen.ru
 .figma.com
 .met.no
+.ea.com
 
 # -- Testing ---
 .awswaf.com
