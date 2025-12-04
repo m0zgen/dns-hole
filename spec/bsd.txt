@@ -28,6 +28,7 @@
 .ttvnw.net
 .windows.net
 # Testing
+.footprintdns.com
 .pccc.com
 .snb.it
 .office.com
