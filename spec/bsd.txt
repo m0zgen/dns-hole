@@ -28,7 +28,19 @@
 .ttvnw.net
 .windows.net
 # Testing
+.awswaf.com
 .footprintdns.com
+.csper.io
+.ubembed.com
+.plex.direct
+.fusionauth.io
+.surbl.org
+.spamhaus.org
+.queniuck.com
+.found.io
+.musvc2.net
+.bash.ws
+.btcblack.it
 .pccc.com
 .snb.it
 .office.com
