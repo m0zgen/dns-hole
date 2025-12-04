@@ -111,6 +111,7 @@
 .mail.ru
 .rtbcdn.ru
 .dzen.ru
+.figma.com
 
 # -- Testing ---
 .awswaf.com
