@@ -61,6 +61,8 @@
 .cdn-telegram.org
 .tiktokcdn.com
 .tiktokv.com
+.tiktokrow-cdn.com
+.ttlivecdn.com
 
 # --- Apple ---
 .apple-dns.net
@@ -79,6 +81,8 @@
 .spamhaus.org
 .surbl.org
 .websense.net
+.telecid.ru
+.mhverifier.ru
 
 # --- Yandex ----
 .yandex.com
@@ -112,6 +116,7 @@
 .rtbcdn.ru
 .dzen.ru
 .figma.com
+.met.no
 
 # -- Testing ---
 .awswaf.com
