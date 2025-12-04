@@ -129,6 +129,7 @@
 .nnmclub.to
 .mwscdn.ru
 .nayada.ru
+.megapbx.ru
 # p2p project
 .syncthing.net
 # anime, manga
