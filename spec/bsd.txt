@@ -36,6 +36,7 @@
 .fusionauth.io
 .surbl.org
 .spamhaus.org
+.barracudacentral.org
 .queniuck.com
 .found.io
 .musvc2.net
