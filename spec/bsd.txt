@@ -13,6 +13,7 @@
 .android.com
 .googlesyndication.com
 .googleapis.com
+.firebasedatabase.app
 
 # --- VK / Mail ---
 .imgsmail.ru
