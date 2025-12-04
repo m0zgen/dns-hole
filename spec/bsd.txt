@@ -60,6 +60,7 @@
 .telegram.org
 .cdn-telegram.org
 .tiktokcdn.com
+.tiktokv.com
 
 # --- Apple ---
 .apple-dns.net
@@ -107,6 +108,8 @@
 .tha.kz
 .ttvnw.net
 .wb.ru
+.mail.ru
+.rtbcdn.ru
 
 # -- Testing ---
 .awswaf.com
