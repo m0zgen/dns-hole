@@ -100,7 +100,7 @@
 .live.cdn.chinamobile.com
 .oneplus.com
 .online-metrix.net
-.rt.avito.ru
+.avito.ru
 .sentry.io
 .svc.cdn.yandex.net
 .tbcache.com
