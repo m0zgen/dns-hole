@@ -58,6 +58,7 @@
 .nflxvideo.net
 
 .discord.gg
+.discord.media
 .discordapp.com
 .discordapp.net
 .githubusercontent.com
