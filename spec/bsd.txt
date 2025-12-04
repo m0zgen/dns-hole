@@ -141,6 +141,7 @@
 .ubuntu.com
 .docker.com
 .3gppnetwork.org
+.nodr.app
 # p2p project
 .syncthing.net
 # anime, manga
