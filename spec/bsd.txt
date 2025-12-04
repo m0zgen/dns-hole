@@ -133,6 +133,8 @@
 .samsungdms.net
 .kolesa-team.org
 .placeapi.org
+.arbina.com
+.run.app
 # p2p project
 .syncthing.net
 # anime, manga
