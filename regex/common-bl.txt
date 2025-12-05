@@ -1,8 +1,9 @@
 # [ Noise ]
 
-# #
+# Ads
 ads.linkedin.com
 analytics.pointdrive.linkedin.com
+mediation.goog
 
 #
 avatars.mds.yandex.net
