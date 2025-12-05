@@ -60,6 +60,7 @@
 .cloudflarestorage.com
 .smtcdns.com
 .cdn5th.com
+.jsdelivr.com
 
 .discord.gg
 .discord.media
