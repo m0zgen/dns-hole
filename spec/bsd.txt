@@ -189,6 +189,7 @@
 .trbcdn.net
 .trbcdn.ru
 .dbankcdn.ru
+.dbankcdn.com
 .tcsgroup.io
 .wowscale.com
 .idouyinvod.com
