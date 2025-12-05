@@ -639,6 +639,7 @@ lastpasspulse.blog
 /(?:^|\.)prometheusnet01.xyz$/
 /(?:^|\.)mlk4krt.com$/
 /(?:^|\.)mild4trom.com$/
+/(?:^|\.)mlcrosoft\.me$/
 
 # Testing
 /(?:^|\.)testpanw\.com$/

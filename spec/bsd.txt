@@ -62,6 +62,14 @@
 .cdn5th.com
 .jsdelivr.com
 
+.gcdn.co
+.gcdn.me
+.selcdn.ru
+.cdn-tinkoff.ru
+.ozone.ru
+.wildberries.ru
+.trbcdn.net
+
 .discord.gg
 .discord.media
 .discordapp.com
