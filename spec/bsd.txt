@@ -44,6 +44,8 @@
 .windows.net
 .msftconnecttest.com
 .msftncsi.com
+.microsoft.com
+.msftstatic.com
 
 # --- CDN / Clouds (Akamai & Others) ---
 .akamaiedge.net
@@ -95,6 +97,7 @@
 .tiktokv.com
 .tiktokrow-cdn.com
 .ttlivecdn.com
+.ttwstatic.com
 .ext-twitch.tv
 
 .steamcontent.com
@@ -171,6 +174,7 @@
 .megapbx.ru
 .openhd.ru
 .samsungdms.net
+.samsungcloudsolution.net
 .kolesa-team.org
 .placeapi.org
 .arbina.com
@@ -194,6 +198,8 @@
 .pkoplink.com
 .luxion.com
 .bugsnag.com
+.grapheneos.org
+.shopeemobile.com
 # p2p project
 .syncthing.net
 # anime, manga
