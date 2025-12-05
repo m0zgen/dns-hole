@@ -46,6 +46,7 @@
 .msftncsi.com
 .microsoft.com
 .msftstatic.com
+.skype.com
 
 # --- CDN / Clouds (Akamai & Others) ---
 .akamaiedge.net
@@ -98,6 +99,7 @@
 .tiktokrow-cdn.com
 .ttlivecdn.com
 .ttwstatic.com
+.byteglb.com
 .ext-twitch.tv
 
 .steamcontent.com
@@ -201,6 +203,9 @@
 .grapheneos.org
 .shopeemobile.com
 .fastdns24.org
+.exitlag.net
+.litix.io
+.brightvpn.com
 # p2p project
 .syncthing.net
 # anime, manga
