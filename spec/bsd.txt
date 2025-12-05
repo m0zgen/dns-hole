@@ -147,6 +147,7 @@
 .trbcdn.net
 .trbcdn.ru
 .dbankcdn.ru
+.tcsgroup.io
 # p2p project
 .syncthing.net
 # anime, manga
