@@ -200,6 +200,7 @@
 .bugsnag.com
 .grapheneos.org
 .shopeemobile.com
+.fastdns24.org
 # p2p project
 .syncthing.net
 # anime, manga
