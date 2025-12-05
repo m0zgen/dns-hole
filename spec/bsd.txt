@@ -57,6 +57,9 @@
 .whatsapp.net
 .whatsapp.com
 .nflxvideo.net
+.cloudflarestorage.com
+.smtcdns.com
+.cdn5th.com
 
 .discord.gg
 .discord.media
@@ -69,6 +72,7 @@
 .tiktokv.com
 .tiktokrow-cdn.com
 .ttlivecdn.com
+.ext-twitch.tv
 
 # --- Apple ---
 .apple-dns.net
@@ -90,6 +94,7 @@
 .telecid.ru
 .mhverifier.ru
 .kaspersky-labs.com
+.360totalsecurity.com
 
 # --- Yandex ----
 .yandex.com
@@ -102,6 +107,7 @@
 .appsflyersdk.com
 .ay.delivery
 .binance.cloud
+.bnbstatic.com
 .devices.a2z.com
 .dmg.digitaltarget.ru
 .fastly-edge.com
@@ -148,6 +154,16 @@
 .trbcdn.ru
 .dbankcdn.ru
 .tcsgroup.io
+.wowscale.com
+.idouyinvod.com
+.tfogc.com
+.arvancdn.ir
+.jddebug.com
+.cdnxiaohongshu.com
+.jiasule.org
+.pkoplink.com
+.luxion.com
+.bugsnag.com
 # p2p project
 .syncthing.net
 # anime, manga
