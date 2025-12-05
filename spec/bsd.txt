@@ -23,6 +23,11 @@
 .vk.com
 .vkuser.net
 
+.okcdn.ru
+.mycdn.me
+.userapi.com
+.mradx.net
+
 # --- Microsoft / Azure ---
 .azureedge.net
 .azureedge.us
@@ -61,6 +66,7 @@
 .smtcdns.com
 .cdn5th.com
 .jsdelivr.com
+.fastly-edge.com
 
 .gcdn.co
 .gcdn.me
@@ -69,6 +75,14 @@
 .ozone.ru
 .wildberries.ru
 .trbcdn.net
+
+.herokuapp.com
+.github.io
+.githubusercontent.com
+.kxcdn.com
+.cdngp.net
+.cdn77.org
+.b-cdn.net
 
 .discord.gg
 .discord.media
@@ -82,6 +96,15 @@
 .tiktokrow-cdn.com
 .ttlivecdn.com
 .ext-twitch.tv
+
+.steamcontent.com
+.akamaiedge.net
+.hwcdn.net
+
+.twitch.tv
+.ttvnw.net
+.netflix.com
+.nflxvideo.net
 
 # --- Apple ---
 .apple-dns.net
@@ -119,7 +142,6 @@
 .bnbstatic.com
 .devices.a2z.com
 .dmg.digitaltarget.ru
-.fastly-edge.com
 .flightradar24.com
 .goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 .internet-measurement.com
@@ -157,7 +179,6 @@
 .docker.com
 .3gppnetwork.org
 .nodr.app
-.okcdn.ru
 .linkssp.ru
 .trbcdn.net
 .trbcdn.ru
