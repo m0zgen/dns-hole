@@ -159,6 +159,7 @@ crl4.digicert.com
 dc.services.visualstudio.com
 ecn.dev.virtualearth.net
 firstpartyapps.oaspapps.com
+c.live.com
 g.live.com
 informationprotection.hosting.portal.azure.net
 isrg.trustid.ocsp.identrust.com
@@ -200,7 +201,7 @@ www.acompli.com
 www.bing.com
 www.digicert.com
 www.microsoft.com
-www.onedrive.com c.live.com
+www.onedrive.com
 www.outlook.com
 www.sway.com
 

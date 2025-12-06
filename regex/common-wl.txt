@@ -8,6 +8,7 @@
 /(?:^|\.)digicert\.com$/
 /(?:^|\.)entrust\.net$/
 /(?:^|\.)gismeteo\.(?:kz|ru)$/
+/(?:^|\.)hcaptcha\.com$/
 /(?:^|\.)intercom\.io$/
 /(?:^|\.)jivosite\.com$/
 /(?:^|\.)lastpass\.com$/
@@ -32,7 +33,6 @@
 /(?:^|\.)voidboost\.cc$/
 /(?:^|\.)weather\.com$/
 /(?:^|\.)wialon\.com$/
-/(?:^|\.)hcaptcha\.com$/
 
 # [ Gov ]
 /(?:^|\.)[^.]+\.gov$/
