@@ -76,6 +76,7 @@
 .cdn5th.com
 .jsdelivr.com
 .fastly-edge.com
+.cloudflare.com
 
 .gcdn.co
 .gcdn.me
@@ -118,11 +119,19 @@
 .nflxvideo.net
 
 # --- Apple ---
+# https://support.apple.com/en-us/101555
 .apple-dns.net
 .apple.com
 .cdn-apple.com
 .icloud-content.com
 .icloud.com
+.appleschoolcontent.com
+.mzstatic.com
+.apple-cloudkit.com
+.digicert.com
+.apple-livephotoskit.com
+.apzones.com
+.networking.apple
 
 # --- Security / Tech ---
 .akadns.net
