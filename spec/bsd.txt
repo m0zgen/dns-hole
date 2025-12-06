@@ -223,6 +223,7 @@
 .exitlag.net
 .litix.io
 .brightvpn.com
+.smallpdf.com
 # p2p project
 .syncthing.net
 # anime, manga
