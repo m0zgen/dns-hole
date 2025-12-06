@@ -95,6 +95,10 @@ users.storage.live.com
 web.microsoftstream.com
 www.office.com
 
+msftconnecttest.com
+msftncsi.com
+time.windows.com
+
 # https://docs.microsoft.com/en-us/azure/azure-monitor/app/ip-addresses
 api.nuget.org
 auth.gfx.ms
