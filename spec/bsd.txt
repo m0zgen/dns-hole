@@ -65,6 +65,7 @@
 .edgesuite.net
 .facebook.com
 .fbcdn.net
+.bytefcdnrd.com
 .licdn.com
 .on.aws
 .twimg.com
@@ -207,6 +208,7 @@
 .trbcdn.ru
 .dbankcdn.ru
 .dbankcdn.com
+.dbankcdn.cn
 .tcsgroup.io
 .wowscale.com
 .idouyinvod.com
@@ -225,12 +227,18 @@
 .litix.io
 .brightvpn.com
 .smallpdf.com
+.pdfdrive.com
+.wisprflow.ai
+.allfree2.me
 # p2p project
 .syncthing.net
 # anime, manga
 .acgnxtracker.com
 # china manufacturer
 .jlcpcb.com
+# china
+.kkgmgdmg.com
+.cmbchina.com
 
 # -- Testing ---
 .awswaf.com
