@@ -103,6 +103,7 @@
 .telegram.org
 .cdn-telegram.org
 .tiktokcdn.com
+.ttcdn-us.com
 .tiktokv.com
 .tiktokrow-cdn.com
 .ttlivecdn.com
