@@ -99,6 +99,11 @@ msftconnecttest.com
 msftncsi.com
 time.windows.com
 
+# ca
+crl.microsoft.com
+mscrl.microsoft.com
+ocsp.msocsp.com
+
 # https://docs.microsoft.com/en-us/azure/azure-monitor/app/ip-addresses
 api.nuget.org
 auth.gfx.ms

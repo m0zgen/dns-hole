@@ -1532,6 +1532,84 @@ www.zoom.us
 click.e.zoom.us
 
 # =======================
+# [ Certificate Authorities (OCSP, CRL, AIA) ]
+
+# DigiCert (Major CA)
+digicert.com
+ocsp.digicert.com
+crl3.digicert.com
+crl4.digicert.com
+cacerts.digicert.com
+
+# Let's Encrypt
+letsencrypt.org
+lencr.org
+r3.o.lencr.org
+
+# ZeroSSL
+zerossl.com
+ocsp.zerossl.com
+crl.zerossl.com
+
+# Services
+comodoca.com
+crl.entrust.net
+crl.globalsign.com
+crl.godaddy.com
+entrust.net
+globalsign.com
+godaddy.com
+identrust.com
+ocsp.comodoca.com
+ocsp.entrust.net
+ocsp.globalsign.com
+ocsp.godaddy.com
+ocsp.identrust.com
+ocsp.sectigo.com
+ocsp.usertrust.com
+sectigo.com
+usertrust.com
+
+# Google Trust Services (Android, Gmail, etc)
+pki.goog
+ocsp.pki.goog
+crl.pki.goog
+
+# Connectivity Checks (NCSI)
+# Android & Google
+connectivitycheck.gstatic.com
+clients3.google.com
+accounts.google.com
+
+# Microsoft PKI (Windows Updates security)
+crl.microsoft.com
+mscrl.microsoft.com
+ocsp.msocsp.com
+
+# Apple PKI
+ocsp.apple.com
+crl.apple.com
+valid.apple.com
+
+# Apple (iOS / macOS)
+captive.apple.com
+airport.us
+ibook.info
+itools.info
+thinkdifferent.us
+
+# Windows
+msftconnecttest.com
+msftncsi.com
+ipv6.msftconnecttest.com
+
+# NTP
+pool.ntp.org
+time.windows.com
+time.apple.com
+time.google.com
+
+# =======================
 # [ Testing ]
 glovo.api.kustomerapp.com
 counter.yadro.ru

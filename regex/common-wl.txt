@@ -5,7 +5,6 @@
 /(?:^|\.)datadoghq\.com$/
 /(?:^|\.)deepl\.com$/
 /(?:^|\.)deepseek\.com$/
-/(?:^|\.)digicert\.com$/
 /(?:^|\.)entrust\.net$/
 /(?:^|\.)gismeteo\.(?:kz|ru)$/
 /(?:^|\.)hcaptcha\.com$/
@@ -33,6 +32,18 @@
 /(?:^|\.)voidboost\.cc$/
 /(?:^|\.)weather\.com$/
 /(?:^|\.)wialon\.com$/
+/(?:^|\.)ntp\.org$/
+
+# [ CA / Auth ]
+/(?:^|\.)comodoca\.com$/
+/(?:^|\.)digicert\.com$/
+/(?:^|\.)entrust\.net$/
+/(?:^|\.)globalsign\.com$/
+/(?:^|\.)lencr\.org$/
+/(?:^|\.)letsencrypt\.org$/
+/(?:^|\.)sectigo\.com$/
+/(?:^|\.)usertrust\.com$/
+/(?:^|\.)zerossl\.com$/
 
 # [ Gov ]
 /(?:^|\.)[^.]+\.gov$/
