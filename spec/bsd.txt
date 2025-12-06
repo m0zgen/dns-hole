@@ -49,8 +49,14 @@
 .skype.com
 
 # --- CDN / Clouds (Akamai & Others) ---
+.akamai.net
 .akamaiedge.net
 .akamaihd.net
+.akamaized.net
+.edgesuite.net
+.edgekey.net
+.srip.net
+.akamaitechnologies.com
 .aliyuncs.com
 .amazonaws.com
 .cdninstagram.com
