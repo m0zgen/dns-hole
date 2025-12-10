@@ -588,6 +588,10 @@ hubspot.com
 www.hubspot.com
 cta-redirect.hubspot.com
 
+# [ Huggingface ]
+huggingface.co
+www.huggingface.co
+
 # [ Kaspersky ]
 kaspersky-labs.com
 www.kaspersky-labs.com

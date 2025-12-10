@@ -111,6 +111,7 @@
 .ttwstatic.com
 .byteglb.com
 .ext-twitch.tv
+.twitchcdn.net
 
 .steamcontent.com
 .akamaiedge.net
@@ -230,6 +231,8 @@
 .pdfdrive.com
 .wisprflow.ai
 .allfree2.me
+.lfstrm.kz
+.logisticsmgmt.com
 # p2p project
 .syncthing.net
 # anime, manga
@@ -239,6 +242,8 @@
 # china
 .kkgmgdmg.com
 .cmbchina.com
+.chatcrms.com
+.9dmsgame.com
 
 # -- Testing ---
 .awswaf.com
