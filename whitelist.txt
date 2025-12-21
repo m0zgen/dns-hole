@@ -328,6 +328,10 @@ db-ip.com
 www.db-ip.com
 api.db-ip.com
 
+# [ Debugbear ]
+debugbear.com
+www.debugbear.com
+
 # [ DevOpsDays ]
 devopsdays.kz
 www.devopsdays.kz
