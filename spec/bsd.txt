@@ -79,6 +79,7 @@
 .fastly-edge.com
 .cloudflare.com
 .xhpingcdn.com
+.aliyuncsslb.com
 
 .gcdn.co
 .gcdn.me
