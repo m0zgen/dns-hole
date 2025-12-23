@@ -80,6 +80,8 @@
 .cloudflare.com
 .xhpingcdn.com
 .aliyuncsslb.com
+.cdnframe.com
+.cloudscdn.net
 
 .gcdn.co
 .gcdn.me
