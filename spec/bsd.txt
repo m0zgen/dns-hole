@@ -255,6 +255,7 @@
 .skillsmp.com
 .btschool.org
 .bnbchain.org
+.lspdfrcn.net
 
 # -- Testing ---
 .awswaf.com
