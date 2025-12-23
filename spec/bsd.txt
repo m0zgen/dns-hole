@@ -80,6 +80,7 @@
 .cloudflare.com
 .xhpingcdn.com
 .aliyuncsslb.com
+.aliyuncsslbintl.com
 .cdnframe.com
 .cloudscdn.net
 
@@ -117,6 +118,7 @@
 .twitchcdn.net
 
 .steamcontent.com
+.steamliveonline.com
 .akamaiedge.net
 .hwcdn.net
 
