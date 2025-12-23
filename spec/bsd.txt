@@ -254,6 +254,7 @@
 .1clickvpn.com
 .skillsmp.com
 .btschool.org
+.bnbchain.org
 
 # -- Testing ---
 .awswaf.com
