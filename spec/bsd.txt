@@ -247,6 +247,7 @@
 .cmbchina.com
 .chatcrms.com
 .9dmsgame.com
+.effectssdk.ai
 
 # -- Testing ---
 .awswaf.com
