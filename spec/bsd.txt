@@ -200,6 +200,7 @@
 .megapbx.ru
 .openhd.ru
 .samsungdms.net
+.samsungtvplus.com.
 .samsungcloudsolution.net
 .kolesa-team.org
 .placeapi.org
