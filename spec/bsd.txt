@@ -248,6 +248,7 @@
 .chatcrms.com
 .9dmsgame.com
 .effectssdk.ai
+.1clickvpn.com
 
 # -- Testing ---
 .awswaf.com
