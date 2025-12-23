@@ -249,6 +249,7 @@
 .9dmsgame.com
 .effectssdk.ai
 .1clickvpn.com
+.skillsmp.com
 
 # -- Testing ---
 .awswaf.com
