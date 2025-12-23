@@ -253,6 +253,7 @@
 .effectssdk.ai
 .1clickvpn.com
 .skillsmp.com
+.btschool.org
 
 # -- Testing ---
 .awswaf.com
