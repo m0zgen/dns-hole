@@ -16,6 +16,7 @@
 .firebasedatabase.app
 
 .chatgpt.com
+.guance.com
 
 # --- VK / Mail ---
 .imgsmail.ru
@@ -85,6 +86,19 @@
 .aliyuncsslbintl.com
 .cdnframe.com
 .cloudscdn.net
+.aliyuncsslb.com
+.aliyuncsslbintl.com
+.dbankcdn.com
+.dbankcdn.cn
+.volcgslb.com
+.volcfcdndvs.com
+.volcfcdndvs1.com
+.volcmcdn3.com
+.twitchcdn.net
+.openxcdn.net
+.cdnhwcoem01.com
+.cdnhwczba04.com
+.zdxcloud.net
 
 .gcdn.co
 .gcdn.me
@@ -143,6 +157,22 @@
 .apple-livephotoskit.com
 .apzones.com
 .networking.apple
+
+# --- Mobile SDK, Analytics ---
+.ctobsnssdk.com
+.sgsnssdk.com
+.tobsnssdk.com
+.tdnsstic1.cn
+.tdnsvod1.cn
+.trackcmp.net
+.crwdcntrl.net
+.searchspring.io
+.ketchcdn.com
+.openfpcdn.io
+.clmbtech.com
+.mfadsrvr.com
+.tagsrvcs.com
+.wpadmngr.com
 
 # --- Security / Tech ---
 .akadns.net
@@ -259,6 +289,15 @@
 .bnbchain.org
 .lspdfrcn.net
 .1clickvpn.net
+.msftncsi.com
+.msftstatic.com
+.3gppnetwork.org
+.flightradar24.com
+.bmwgroup.com
+.backblazeb2.com
+.lgappstv.com
+.nextlgsdp.com
+.palmst0re.com
 
 # -- Testing ---
 .awswaf.com
