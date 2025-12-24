@@ -153,6 +153,8 @@
 .xhpingcdn.com
 .zdxcloud.net
 
+.vedcdnlb.com
+
 # --- Mobile SDK, Analytics ---
 .ctobsnssdk.com
 .sgsnssdk.com
