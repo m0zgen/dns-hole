@@ -299,6 +299,11 @@
 .wisprflow.ai
 .wowscale.com
 
+.cmbchina.com
+.hdfcbank.com
+.jpmchase.com
+.gslbjpmchase.com
+
 # -- Testing ---
 .awswaf.com
 .bash.ws
