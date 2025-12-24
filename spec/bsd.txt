@@ -154,6 +154,13 @@
 .zdxcloud.net
 
 .vedcdnlb.com
+.bnbchain.org
+.dpdgroup.com
+.wbmdstatic.com
+.samsungtvplus.com
+.swanndvr.net
+.namebrightdns.com
+.1worldsync.com
 
 # --- Mobile SDK, Analytics ---
 .ctobsnssdk.com
