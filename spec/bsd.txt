@@ -162,6 +162,13 @@
 .namebrightdns.com
 .1worldsync.com
 
+.fliphtml5.com
+.smallpdf.com
+.htmlcsscolor.com
+.elfsightcdn.com
+.smushcdn.com
+.cdnstream.com
+
 # --- Mobile SDK, Analytics ---
 .ctobsnssdk.com
 .sgsnssdk.com
