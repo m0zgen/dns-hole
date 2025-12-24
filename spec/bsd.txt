@@ -256,7 +256,6 @@
 .btschool.org
 .bnbchain.org
 .lspdfrcn.net
-.hst.sh
 
 # -- Testing ---
 .awswaf.com
