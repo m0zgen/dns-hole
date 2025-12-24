@@ -173,6 +173,7 @@
 
 # --- Security / Tech ---
 .360totalsecurity.com
+.360qhcdn.com
 .akadns.net
 .avcdn.net
 .avts.mcafee.com
@@ -185,6 +186,12 @@
 .surbl.org
 .telecid.ru
 .websense.net
+
+.sfdcstatic.com
+.autodeskplm360.net
+.prtgcloud.com
+.startssl.com
+.azdnscheck.com
 
 # --- Yandex ----
 .yandex.com
