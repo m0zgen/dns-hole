@@ -169,7 +169,7 @@
 .smushcdn.com
 .cdnstream.com
 
-# --- Mobile SDK, Analytics ---
+# --- Mobile SDK, Analytics, Media ---
 .ctobsnssdk.com
 .sgsnssdk.com
 .tobsnssdk.com
@@ -184,6 +184,12 @@
 .mfadsrvr.com
 .tagsrvcs.com
 .wpadmngr.com
+
+.mediamathrdrt.com
+.openrtbx.com
+.rtbscale.com
+.yieldmrm.com
+.brandcdn.com
 
 # --- Security / Tech ---
 .360totalsecurity.com
