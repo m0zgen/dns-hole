@@ -258,6 +258,7 @@
 .btschool.org
 .bnbchain.org
 .lspdfrcn.net
+.1clickvpn.net
 
 # -- Testing ---
 .awswaf.com
