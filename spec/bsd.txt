@@ -161,9 +161,7 @@
 .kameleoon.io
 .kameleoon.com
 .launchdarkly.com
-.split.io
 .optimizely.com
-.vwo.com
 .flagsmith.com
 .getunleash.io
 
@@ -287,7 +285,6 @@
 .exitlag.net
 .fastdns24.org
 .figma.com
-.flightradar24.com
 .flightradar24.com
 .goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 .grafana-ops.net
