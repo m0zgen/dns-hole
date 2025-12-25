@@ -354,6 +354,7 @@
 .chnprice.com
 .fctglobe.com
 .xrplcluster.com
+.cstcorp.net
 
 # -- Testing ---
 .awswaf.com
