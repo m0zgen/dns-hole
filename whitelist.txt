@@ -756,6 +756,10 @@ www.opentext.com
 oplata.info
 www.oplata.info
 
+# [ Optimizely ]
+optimizely.com
+www..optimizely.com
+
 # [ Oszone ]
 oszone.net
 www.oszone.net
