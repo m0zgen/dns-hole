@@ -352,7 +352,8 @@
 .jpmchase.com
 .gslbjpmchase.com
 .chnprice.com
-.fctglobe.com.
+.fctglobe.com
+.xrplcluster.com
 
 # -- Testing ---
 .awswaf.com
