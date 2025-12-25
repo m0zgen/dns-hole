@@ -34,18 +34,6 @@
 .chatgpt.com
 .guance.com
 
-# --- VK / Mail ---
-.imgsmail.ru
-.mradx.net
-.mycdn.me
-.mycdn.me
-.okcdn.ru
-.userapi.com
-.userapi.com
-.vk-portal.net
-.vk.com
-.vkuser.net
-
 # --- Microsoft / Azure ---
 .ax-msedge.net
 .azureedge.net
@@ -169,6 +157,37 @@
 .smushcdn.com
 .cdnstream.com
 
+# --- Experimentation & Feature Flags ---
+.kameleoon.io
+.kameleoon.com
+.launchdarkly.com
+.ld.com
+.split.io
+.optimizely.com
+.vwo.com
+.flagsmith.com
+.getunleash.io
+
+# --- CI/CD & Git Platforms ---
+.github.com
+.githubusercontent.com
+.githubapp.com
+.gitlab.com
+.gitlab.io
+.bitbucket.org
+.circleci.com
+.travis-ci.com
+.appveyor.com
+.visualstudio.com
+.dev.azure.com
+
+# --- Error Tracking & Ingest ---
+.sentry.io
+.nr-data.net
+.loggly.com
+.rollbar.com
+.honeycomb.io
+
 # --- Mobile SDK, Analytics, Media ---
 .ctobsnssdk.com
 .sgsnssdk.com
@@ -212,6 +231,18 @@
 .prtgcloud.com
 .startssl.com
 .azdnscheck.com
+
+# --- VK / Mail ---
+.imgsmail.ru
+.mradx.net
+.mycdn.me
+.mycdn.me
+.okcdn.ru
+.userapi.com
+.userapi.com
+.vk-portal.net
+.vk.com
+.vkuser.net
 
 # --- Yandex ----
 .yandex.com
