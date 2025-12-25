@@ -161,7 +161,6 @@
 .kameleoon.io
 .kameleoon.com
 .launchdarkly.com
-.ld.com
 .split.io
 .optimizely.com
 .vwo.com
