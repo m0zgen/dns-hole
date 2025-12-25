@@ -156,6 +156,7 @@
 .elfsightcdn.com
 .smushcdn.com
 .cdnstream.com
+.oecsccdn.com
 
 # --- Experimentation & Feature Flags ---
 .kameleoon.io
@@ -350,6 +351,7 @@
 .hdfcbank.com
 .jpmchase.com
 .gslbjpmchase.com
+.chnprice.com.
 
 # -- Testing ---
 .awswaf.com
