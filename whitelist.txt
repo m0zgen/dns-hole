@@ -1006,6 +1006,10 @@ e.customeriomail.com
 notion.com
 www.notion.com
 
+# [ Nr-data ]
+nr-data.net
+www.nr-data.net
+
 # [ Opera ]
 opera.com
 www.opera.com
