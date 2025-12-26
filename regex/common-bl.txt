@@ -1213,6 +1213,10 @@ zrziqezrizrizzf.ru
 zrziqezrizrizzf.su
 zzruuoooshfrohu.su
 
+# Mac Stealer
+# https://www.jamf.com/blog/macsync-stealer-evolution-code-signed-swift-malware-analysis/
+focusgroovy.com
+
 
 # Common
 
