@@ -1246,7 +1246,7 @@ focusgroovy.com
 /(?:^|\.)mlcrosoft\.me$/
 
 /(?:^|\.)80-25-lyy\.com$/
-/(?:^|\.)rarbg\.com$/
+/(?:^|\.)rarbg\.(?:com|me)$/
 /(?:^|\.)drivergenius\.com$/
 /(?:^|\.)thaose\.com$/
 /(?:^|\.)acgnxtracker\.com$/
