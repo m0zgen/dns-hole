@@ -1247,6 +1247,12 @@ focusgroovy.com
 
 /(?:^|\.)80-25-lyy\.com$/
 /(?:^|\.)rarbg\.com$/
+/(?:^|\.)drivergenius\.com$/
+/(?:^|\.)thaose\.com$/
+/(?:^|\.)acgnxtracker\.com$/
+/(?:^|\.)nyaatorrents\.info$/
+/(?:^|\.)rixtelecom\.se$/
+/(?:^|\.)publicbt\.com$/
 
 # Testing
 /(?:^|\.)testpanw\.com$/
