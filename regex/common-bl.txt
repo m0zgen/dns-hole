@@ -1237,13 +1237,16 @@ focusgroovy.com
 /(?:^|\.)cmstcycle\.com$/
 
 # Tunnels
-/(?:^|\.)networklinkpro.net$/
-/(?:^|\.)poke-mon.xyz$/
-/(?:^|\.)maomao678.com$/
-/(?:^|\.)prometheusnet01.xyz$/
-/(?:^|\.)mlk4krt.com$/
-/(?:^|\.)mild4trom.com$/
+/(?:^|\.)networklinkpro\.net$/
+/(?:^|\.)poke-mon\.xyz$/
+/(?:^|\.)maomao678\.com$/
+/(?:^|\.)prometheusnet01\.xyz$/
+/(?:^|\.)mlk4krt\.com$/
+/(?:^|\.)mild4trom\.com$/
 /(?:^|\.)mlcrosoft\.me$/
+
+/(?:^|\.)80-25-lyy\.com$/
+/(?:^|\.)rarbg\.com$/
 
 # Testing
 /(?:^|\.)testpanw\.com$/
