@@ -355,6 +355,10 @@ discord.com
 www.discord.com
 click.discord.com
 
+# [ Dnscheck ]
+dnscheck.tools
+www.dnscheck.tools
+
 # [ Dnsfilter ]
 dnsfilter.com
 engage.dnsfilter.com
