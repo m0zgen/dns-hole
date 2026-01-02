@@ -346,6 +346,7 @@
 .wb.ru
 .wisprflow.ai
 .wowscale.com
+.dnscheck.tools
 
 .cmbchina.com
 .hdfcbank.com
