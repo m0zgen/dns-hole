@@ -180,6 +180,10 @@ app.adjust.world
 api2.amplitude.com
 app-measurement.com
 
+# [ Bilimclass ]
+bilimclass.kz
+www.bilimclass.kz
+
 # [ Binance ]
 binance.com
 www.binance.com
