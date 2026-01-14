@@ -347,6 +347,7 @@
 .wisprflow.ai
 .wowscale.com
 .dnscheck.tools
+.whatsgps.com
 
 .cmbchina.com
 .hdfcbank.com
