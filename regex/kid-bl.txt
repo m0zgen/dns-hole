@@ -13,6 +13,7 @@
 /(?:^|\.)soski\.org$/
 /(?:^|\.)vuajerizm\.com$/
 /(?:^|\.)xguru\.info$/
+/(?:^|\.)pornoakt\.club$/
 
 # [ Mass ]
 /(?:^|.*\.)[qk][iy]z[0-9]dar.*$/
@@ -53,6 +54,10 @@
 /(?:^|.*\.)huyamba.*$/
 /(?:^|.*\.)kizdar.*$/
 /(?:^|.*\.)masturbat.*$/
+
+# Sample domains
+soski.tv
+www.soski.tv
 
 # Testing
 # /(?:^|.*\.)hdrezka.*$/
