@@ -375,6 +375,10 @@ css.createsend1.com
 js.createsend1.com
 img.createsend1.com
 
+# [ Dtf ]
+dtf.ru
+www.dtf.ru
+
 # [ DuckDuck ]
 duckduckgo.com
 www.duckduckgo.com
