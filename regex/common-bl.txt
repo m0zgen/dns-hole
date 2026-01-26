@@ -1253,6 +1253,7 @@ focusgroovy.com
 /(?:^|\.)nyaatorrents\.info$/
 /(?:^|\.)rixtelecom\.se$/
 /(?:^|\.)publicbt\.com$/
+/(?:^|\.)kbz0pwvxmv\.com$/
 
 # Testing
 /(?:^|\.)testpanw\.com$/
