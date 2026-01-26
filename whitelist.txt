@@ -1420,6 +1420,10 @@ twitter.com
 www.twitter.com
 t.co
 
+# [ Vimeo ]
+vimeo.com
+www.vimeo.com
+
 # [ Vtb ]
 sso-app4.vtb.ru
 
