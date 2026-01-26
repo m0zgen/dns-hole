@@ -816,6 +816,8 @@ kcell.kz
 www.kcell.kz
 kazlenta.kz
 www.kazlenta.kz
+zakazbuketov.kz
+www.zakazbuketov.kz
 
 # [ Kundelik ]
 kundelik.kz
