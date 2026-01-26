@@ -1404,6 +1404,10 @@ trendmicro.com
 www.trendmicro.com
 resources.trendmicro.com
 
+# [ Tria ]
+tria.ge
+www.tria.ge
+
 # [ Twitter ]
 twitter.com
 www.twitter.com
