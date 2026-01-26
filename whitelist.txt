@@ -56,6 +56,11 @@ www.alphavps.com
 akab.kz
 www.akab.kz
 
+# [ Alienvault ]
+alienvault.com
+www.alienvault.com
+otx.alienvault.com
+
 # [ Amazon]
 amazonaws.com
 s3.amazonaws.com
