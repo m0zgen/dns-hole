@@ -4,6 +4,10 @@
 ads.linkedin.com
 analytics.pointdrive.linkedin.com
 mediation.goog
+adservice.google.com
+an.facebook.com
+api.rstprgapipt.com
+/(?:^|\.)agl008\.shop$/
 
 #
 avatars.mds.yandex.net
