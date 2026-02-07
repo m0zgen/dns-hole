@@ -348,6 +348,7 @@
 .wowscale.com
 .dnscheck.tools
 .whatsgps.com
+.prmtheus.su
 
 .cmbchina.com
 .hdfcbank.com
