@@ -345,6 +345,10 @@ www.debugbear.com
 devopsdays.kz
 www.devopsdays.kz
 
+# [ Deti Online ]
+deti-online.com
+www.deti-online.com
+
 # [ Submitted gov resources ]
 sister.agenziaentrate.gov.it
 
@@ -1029,6 +1033,10 @@ www.notion.com
 # [ Nr-data ]
 nr-data.net
 www.nr-data.net
+
+# [ Nukadeti ]
+nukadeti.ru
+www.nukadeti.ru
 
 # [ Opera ]
 opera.com
