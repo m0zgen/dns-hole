@@ -1572,6 +1572,7 @@ api.accuweather.com
 www.accuweather.com
 www.api.accuweather.com
 weather-server.allawnos.com
+s.w-x.co
 
 # [ w3 ]
 w3.org
