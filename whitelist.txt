@@ -1504,6 +1504,7 @@ web.watchit.
 # [ Wccftech ]
 wccftech.com
 www.wccftech.com
+cdn.wccftech.com
 
 # [ Wialon ]
 wialon.com
