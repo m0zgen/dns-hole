@@ -1499,7 +1499,11 @@ www.urbanculture.pro
 
 # [ Watchit ]
 watchit.ru
-web.watchit.ru
+web.watchit.
+
+# [ Wccftech ]
+wccftech.com
+www.wccftech.com
 
 # [ Wialon ]
 wialon.com
