@@ -468,6 +468,10 @@ api.findmykids.org
 flutter.dev
 docs.flutter.dev
 
+# [ Financial time ]
+ft.com
+www.ft.com
+
 # [ G2crowd ]
 g2crowd.com
 images.g2crowd.com
