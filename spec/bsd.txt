@@ -14,7 +14,6 @@
 .apple-livephotoskit.com
 .apzones.com
 .networking.apple
-
 # --- Google / YouTube ---
 .googlevideo.com
 .googleusercontent.com
@@ -29,11 +28,9 @@
 .googlesyndication.com
 .googleapis.com
 .firebasedatabase.app
-
 # --- GPT ---
 .chatgpt.com
 .guance.com
-
 # --- Microsoft / Azure ---
 .ax-msedge.net
 .azureedge.net
@@ -53,18 +50,14 @@
 .t-msedge.net
 .trafficmanager.net
 .windows.net
-
 # --- CDN / Clouds (Akamai & Others) ---
 .akamai.net
-.akamaiedge.net
 .akamaiedge.net
 .akamaihd.net
 .akamaitechnologies.com
 .akamaized.net
 .aliyuncs.com
 .aliyuncsslb.com
-.aliyuncsslb.com
-.aliyuncsslbintl.com
 .aliyuncsslbintl.com
 .amazonaws.com
 .b-cdn.net
@@ -90,8 +83,6 @@
 .discordapp.com
 .discordapp.net
 .edgekey.net
-.edgekey.net
-.edgesuite.net
 .edgesuite.net
 .ext-twitch.tv
 .facebook.com
@@ -101,14 +92,12 @@
 .gcdn.me
 .github.io
 .githubusercontent.com
-.githubusercontent.com
 .herokuapp.com
 .hwcdn.net
 .jsdelivr.com
 .kxcdn.com
 .licdn.com
 .netflix.com
-.nflxvideo.net
 .nflxvideo.net
 .on.aws
 .openxcdn.net
@@ -130,7 +119,6 @@
 .twimg.com
 .twitch.tv
 .twitchcdn.net
-.twitchcdn.net
 .volcfcdndvs.com
 .volcfcdndvs1.com
 .volcgslb.com
@@ -140,7 +128,6 @@
 .wildberries.ru
 .xhpingcdn.com
 .zdxcloud.net
-
 .vedcdnlb.com
 .bnbchain.org
 .dpdgroup.com
@@ -149,7 +136,6 @@
 .swanndvr.net
 .namebrightdns.com
 .1worldsync.com
-
 .fliphtml5.com
 .smallpdf.com
 .htmlcsscolor.com
@@ -157,7 +143,6 @@
 .smushcdn.com
 .cdnstream.com
 .oecsccdn.com
-
 # --- Experimentation & Feature Flags ---
 .kameleoon.io
 .kameleoon.com
@@ -165,10 +150,8 @@
 .optimizely.com
 .flagsmith.com
 .getunleash.io
-
 # --- CI/CD & Git Platforms ---
 .github.com
-.githubusercontent.com
 .githubapp.com
 .gitlab.com
 .gitlab.io
@@ -178,14 +161,12 @@
 .appveyor.com
 .visualstudio.com
 .dev.azure.com
-
 # --- Error Tracking & Ingest ---
 .sentry.io
 .nr-data.net
 .loggly.com
 .rollbar.com
 .honeycomb.io
-
 # --- Mobile SDK, Analytics, Media ---
 .ctobsnssdk.com
 .sgsnssdk.com
@@ -201,13 +182,11 @@
 .mfadsrvr.com
 .tagsrvcs.com
 .wpadmngr.com
-
 .mediamathrdrt.com
 .openrtbx.com
 .rtbscale.com
 .yieldmrm.com
 .brandcdn.com
-
 # --- Security / Tech ---
 .360totalsecurity.com
 .360qhcdn.com
@@ -223,36 +202,29 @@
 .surbl.org
 .telecid.ru
 .websense.net
-
 .sfdcstatic.com
 .autodeskplm360.net
 .prtgcloud.com
 .startssl.com
 .azdnscheck.com
-
 # --- VK / Mail ---
 .imgsmail.ru
 .mradx.net
 .mycdn.me
-.mycdn.me
 .okcdn.ru
-.userapi.com
 .userapi.com
 .vk-portal.net
 .vk.com
 .vkuser.net
-
 # --- Yandex ----
 .yandex.com
 .yandex.net
 .yandex.ru
 .yandex.tr
 .yandexcloud.net
-
 # -- Common List ---
 .1clickvpn.com
 .1clickvpn.net
-.3gppnetwork.org
 .3gppnetwork.org
 .9dmsgame.com
 .acgnxtracker.com
@@ -266,7 +238,6 @@
 .backblazeb2.com
 .binance.cloud
 .bmwgroup.com
-.bnbchain.org
 .bnbstatic.com
 .brightvpn.com
 .btschool.org
@@ -274,8 +245,6 @@
 .cdnxiaohongshu.com
 .chatcrms.com
 .cmbchina.com
-.dbankcdn.cn
-.dbankcdn.com
 .dbankcdn.ru
 .devices.a2z.com
 .dmg.digitaltarget.ru
@@ -310,8 +279,6 @@
 .mail.ru
 .megapbx.ru
 .met.no
-.msftncsi.com
-.msftstatic.com
 .mwscdn.ru
 .nayada.ru
 .nextlgsdp.com
@@ -329,19 +296,15 @@
 .samsungcloudsolution.net
 .samsungdms.net
 .samsungtvplus.com.
-.sentry.io
 .shopeemobile.com
 .skillsmp.com
-.smallpdf.com
 .svc.cdn.yandex.net
 .syncthing.net
 .tbcache.com
 .tcsgroup.io
 .tfogc.com
 .tha.kz
-.trbcdn.net
 .trbcdn.ru
-.ttvnw.net
 .ubuntu.com
 .wb.ru
 .wisprflow.ai
@@ -349,8 +312,6 @@
 .dnscheck.tools
 .whatsgps.com
 .prmtheus.su
-
-.cmbchina.com
 .hdfcbank.com
 .jpmchase.com
 .gslbjpmchase.com
@@ -358,7 +319,6 @@
 .fctglobe.com
 .xrplcluster.com
 .cstcorp.net
-
 # -- Testing ---
 .awswaf.com
 .bash.ws
@@ -373,7 +333,6 @@
 .iptv2022.com
 .mts.ru
 .musvc2.net
-.nextlgsdp.com
 .pccc.com
 .plex.direct
 .queniuck.com
@@ -381,5 +340,4 @@
 .snb.it
 .statuspage.io
 .ubembed.com
-
 # .appsync-api.*
