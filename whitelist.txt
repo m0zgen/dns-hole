@@ -1480,6 +1480,10 @@ unisender.com
 www.unisender.com
 cp.unisender.com
 
+# [ Upload ]
+upload.ee
+www.upload.ee
+
 # [ Veam ]
 veeam.com
 go.veeam.com
