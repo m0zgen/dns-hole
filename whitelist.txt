@@ -208,6 +208,12 @@ www.bitpay.com
 bk.ru
 www.bk.ru
 
+# [ Blogging ]
+blogspot.com
+www.blogspot.com
+blogger.com
+www.blogger.com
+
 # [ Branch ]
 branch.io
 www.branch.io
