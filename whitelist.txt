@@ -1396,6 +1396,10 @@ telesco.pe
 tg.dev
 t.me
 
+# [ Teletype ]
+teletype.in
+www.teletype.in
+
 # [ Testter ]
 testter.kz
 www.testter.kz
