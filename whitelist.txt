@@ -1215,6 +1215,10 @@ www.rmansys.ru
 rutor.is
 www.rutor.is
 
+# [ Rutracker ]
+rutracker.org
+www.rutracker.org
+
 # [ Samsclass ]
 samsclass.info
 www.samsclass.info
