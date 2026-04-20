@@ -238,6 +238,10 @@ businesswire.com
 www.businesswire.com
 cts.businesswire.com
 
+# [ Cambridge dictionary ]
+# /(?:^|\.)html-load\.com$/ 
+report.error-report.com
+
 # [ Cacle (comment system 3dnews) ]
 cackle.me
 i.cackle.me
