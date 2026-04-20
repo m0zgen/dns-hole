@@ -616,6 +616,7 @@ www.hm.ru
 hubspot.com
 www.hubspot.com
 cta-redirect.hubspot.com
+js.hsforms.net
 
 # [ Huggingface ]
 huggingface.co
