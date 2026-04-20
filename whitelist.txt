@@ -1600,6 +1600,11 @@ x-rdp.co
 clients.x-rdp.co
 billing.x-rdp.co
 
+# [ z ai ]
+z.ai
+www.z.ai
+chat.z.ai
+
 # [ Zoom ]
 zoom.us
 www.zoom.us
