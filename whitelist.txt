@@ -654,6 +654,12 @@ lunio.ai
 www.lunio.ai
 monitor.lunio.ai
 
+# [ Lzt ]
+lolz.live
+www.lolz.live
+lzt.market
+www.lzt.market
+
 # [ Hashes ]
 hashes.com
 onlinehashcrack.com
