@@ -185,6 +185,14 @@ app.adjust.world
 api2.amplitude.com
 app-measurement.com
 
+# [ Base44 ]
+base44.com
+www.base44.com
+base44.app
+www.base44.app
+base44-apps.com
+media.base44.com
+
 # [ Bilimclass ]
 bilimclass.kz
 www.bilimclass.kz
