@@ -482,6 +482,10 @@ findmykids.org
 www.findmykids.org
 api.findmykids.org
 
+# [ Firstvds ]
+firstvds.ru
+www.firstvds.ru
+
 # [ Flutter ]
 flutter.dev
 docs.flutter.dev
