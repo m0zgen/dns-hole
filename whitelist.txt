@@ -792,6 +792,10 @@ thumbs.dfs.ivi.ru
 rocket.ivi.ru
 ivi-region.cdnvideo.ru
 
+# [ Izap24 ]
+izap24.kz
+www.izap24.kz
+
 # [ On ]
 on.com
 www.on.com
