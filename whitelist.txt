@@ -23,6 +23,10 @@ www.2ip.io
 2gis.kz
 www.2gis.kz
 
+# [ 24brost ]
+24brost.kz
+www.24brost.kz
+
 # [ 24smi ]
 24smi.org
 www.24smi.org
