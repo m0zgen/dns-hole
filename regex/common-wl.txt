@@ -126,6 +126,9 @@
 # /(^|^.*\.)akadns\.net$/
 # /(^|^.*\.)fastly\.net$/
 
+# [ Kz ]
+/(?:^|\.)cloud24\.kz$/
+
 # [ Media ]
 /(^|^.*\.)1internet.tv$/
 /(^|^.*\.)kahoot.(com|it)$/
