@@ -867,6 +867,8 @@ kazlenta.kz
 www.kazlenta.kz
 zakazbuketov.kz
 www.zakazbuketov.kz
+dpksklad.kz
+www.dpksklad.kz
 
 # [ Kundelik ]
 kundelik.kz
