@@ -274,6 +274,10 @@ chatra.io
 call.chatra.io
 static.chatra.io
 
+# [ Chernaya100 ]
+chernaya100.com
+www.chernaya100.com
+
 # [ Chrome ]
 chromestatus.com
 www.chromestatus.com
