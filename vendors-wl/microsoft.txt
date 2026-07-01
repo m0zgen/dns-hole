@@ -214,3 +214,7 @@ www.onedrive.com
 www.outlook.com
 www.sway.com
 
+microsoft365.com
+www.microsoft365.com
+cloud.microsoft
+m365.cloud.microsoft
