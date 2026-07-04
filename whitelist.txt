@@ -35,6 +35,10 @@ www.24smi.org
 3dvf.com
 www.3dvf.com
 
+# [ 941store ]
+941store.ru
+www.941store.ru
+
 # [ Ably ]
 ably.io
 www.ably.io
