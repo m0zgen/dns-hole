@@ -37,6 +37,7 @@ www.3dvf.com
 
 # [ 941store ]
 941store.ru
+admin.941test.ru
 www.941store.ru
 
 # [ Ably ]
