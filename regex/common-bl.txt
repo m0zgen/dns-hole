@@ -1259,6 +1259,9 @@ focusgroovy.com
 /(?:^|\.)publicbt\.com$/
 /(?:^|\.)kbz0pwvxmv\.com$/
 
+# VC Scam
+/(?:^|\.)amlonlinebot\.org$/
+
 # Testing
 /(?:^|\.)testpanw\.com$/
 /^blockcheck[1-9][0-9]*\.system-checks\.org$/
