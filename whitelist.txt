@@ -847,6 +847,8 @@ www.kazhackstan.com
 # [ Konogo ]
 kinogo.org
 www.kinogo.org
+kinogo.ec
+www.kinogo.ec
 
 # [ Kz Hosting ]
 unihost.kz
