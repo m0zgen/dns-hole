@@ -241,6 +241,11 @@ www.branch.io
 api2.branch.io
 help.branch.io
 
+# [ Brave ]
+brave.com
+www.brave.com
+referrals.brave.com
+
 # [ Braze ]
 braze.com
 www.braze.com
