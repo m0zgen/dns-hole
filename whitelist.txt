@@ -231,6 +231,10 @@ www.blogspot.com
 blogger.com
 www.blogger.com
 
+# [ Bootstrap CDN ]
+bootstrapcdn.com
+maxcdn.bootstrapcdn.com
+
 # [ Branch ]
 branch.io
 www.branch.io
