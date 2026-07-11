@@ -949,6 +949,7 @@ smtp.mail.ru
 push-me.mail.ru
 portal.mail.ru
 recostream.go.mail.ru
+cloud.mail.ru
 
 # [ Malwarebytes ]
 malwarebytes.com
