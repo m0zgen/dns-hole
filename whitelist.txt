@@ -931,30 +931,29 @@ download.maxmind.com
 
 # [ Mail.ru ]
 # top-fwz1.mail.ru
-m.vk.com
-top.mail.ru
+account.mail.ru
+an.mail.ru
+b2.mail.ru
+cloud.mail.ru
+connect.mail.ru
+corp.mail.ru
+e.mail.ru
 img.imgsmail.ru
 img1.imgsmail.ru
-xray.mail.ru
-rs.mail.ru
-an.mail.ru
-trk.mail.ru
-r3.mail.ru
-st.mycdn.me
-b2.mail.ru
-stat.radar.imgsmail.ru
-r.mail.ru
-connect.mail.ru
-portal.mail.ru
-e.mail.ru
-corp.mail.ru
-account.mail.ru
 mail.ru
-smtp.mail.ru
-push-me.mail.ru
 portal.mail.ru
+portal.mail.ru
+push-me.mail.ru
+r.mail.ru
+r3.mail.ru
 recostream.go.mail.ru
-cloud.mail.ru
+rs.mail.ru
+smtp.mail.ru
+st.mycdn.me
+stat.radar.imgsmail.ru
+top.mail.ru
+trk.mail.ru
+xray.mail.ru
 
 # [ Malwarebytes ]
 malwarebytes.com
@@ -1564,6 +1563,9 @@ cp.vdsina.ru
 # [ Vk ]
 vk.com
 www.vk.com
+m.vk.com
+vk.cc
+vkontakte.ru
 
 # [ Vto ]
 vto.kz
