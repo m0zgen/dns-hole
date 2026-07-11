@@ -896,6 +896,10 @@ kundelik.kz
 schools.kundelik.kz
 mektepmenu.kz
 
+# [ Lextran ]
+lextran.com
+www.lextran.com
+
 # [ Linkedin ]
 linkedin.com
 www.linkedin.com
