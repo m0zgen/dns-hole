@@ -1113,6 +1113,10 @@ sdk.inbenta.com
 ip-api.com
 www.ip-api.com
 
+# [ Paklap ]
+paklap.pk
+www.paklap.pk
+
 # [ Pardot ]
 # Storage for CIS downloading
 pardot.com
