@@ -1160,6 +1160,10 @@ sm.pinimg.com
 #log.pinterest.com
 #trk.pinterest.com
 
+# [ Pixeldrain ]
+pixeldrain.com
+www.pixeldrain.com
+
 # [ Place Holders ]
 placehold.co
 www.placehold.co
