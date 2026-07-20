@@ -1461,6 +1461,11 @@ www.sysdig.com
 www.tadviser.ru
 tadviser.ru
 
+# [ Tailwind ]
+tailwindcss.com
+www.tailwindcss.com
+cdn.tailwindcss.com
+
 # [ Tamos-education ]
 tamos-education.kz
 www.tamos-education.kz
