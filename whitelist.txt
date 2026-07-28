@@ -1522,6 +1522,10 @@ twitter.com
 www.twitter.com
 t.co
 
+# [ Victoria Metrics ]
+victoriametrics.com
+www.victoriametrics.com
+
 # [ Vimeo ]
 vimeo.com
 www.vimeo.com
