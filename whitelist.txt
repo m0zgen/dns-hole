@@ -810,6 +810,10 @@ thumbs.dfs.ivi.ru
 rocket.ivi.ru
 ivi-region.cdnvideo.ru
 
+# [ Ivoox ]
+ivoox.com
+www.ivoox.com
+
 # [ Izap24 ]
 izap24.kz
 www.izap24.kz
