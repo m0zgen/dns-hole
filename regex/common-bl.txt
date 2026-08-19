@@ -1259,6 +1259,9 @@ focusgroovy.com
 /(?:^|\.)publicbt\.com$/
 /(?:^|\.)kbz0pwvxmv\.com$/
 
+# Ransom
+/(?:^|\.)zersrv\.com$/
+
 # VC Scam
 /(?:^|\.)amlonlinebot\.org$/
 
