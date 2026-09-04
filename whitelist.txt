@@ -997,6 +997,10 @@ www.memfault.com
 interrupt.memfault.com
 community.memfault.com
 
+# [ Metricool ]
+metricool.com
+www.metricool.com
+
 # [ Microservices]
 microservices.io
 www.microservices.io
