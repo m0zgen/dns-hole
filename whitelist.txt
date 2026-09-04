@@ -634,6 +634,10 @@ harness.io
 www.harness.io
 auth.split.io
 
+# [ Haygen ]
+heygen.com
+www.heygen.com
+
 # [ Hdrezka ]
 hdrezka.ag
 www.hdrezka.ag
