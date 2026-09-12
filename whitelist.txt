@@ -1599,6 +1599,9 @@ www.vk.com
 m.vk.com
 vk.cc
 vkontakte.ru
+vk.ru
+www.vk.ru
+m.vk.ru
 
 # [ Vto ]
 vto.kz
