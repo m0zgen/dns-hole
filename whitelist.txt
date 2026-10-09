@@ -749,6 +749,15 @@ node-eu1-a-3.jivosite.com
 telemetry.jivosite.com
 code-jvs.jivosite.com
 
+# [ joindns4 ]
+joindns4.eu
+www.joindns4.eu
+protective.joindns4.eu
+unfiltered.joindns4.eu
+child.joindns4.eu
+noads.joindns4.eu
+child-noads.joindns4.eu
+
 # [ Jsdelivr ]
 cdn.jsdelivr.net
 
