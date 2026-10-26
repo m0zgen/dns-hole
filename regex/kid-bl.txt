@@ -16,16 +16,17 @@
 /(?:^|\.)pornoakt\.club$/
 
 # [ Mass ]
-/(?:^|.*\.)[qk][iy]z[0-9]dar.*$/
+# Some legacy patterns intentionally match inside a domain label.
+/^.*[qk][iy]z[0-9]dar.*$/
 /(?:^|.*\.)24videos.*$/
-/(?:^|.*\.)astrakhan.*$/
+/^.*astrakhan.*$/
 /(?:^|.*\.)bqsex.*$/
 /(?:^|.*\.)devozki.*$/
-/(?:^|.*\.)dosug-gid.*$/
+/^.*dosug-gid.*$/
 /(?:^|.*\.)e-xoops.*$/
 /(?:^|.*\.)ebuchka.*$/
 /(?:^|.*\.)erkiss.*$/
-/(?:^|.*\.)escorteurogirls.*$/
+/^.*escorteurogirls.*$/
 /(?:^|.*\.)feikiss.*$/
 /(?:^|.*\.)furoroutwear.*$/
 /(?:^|.*\.)impro-game.*$/
@@ -33,20 +34,23 @@
 /(?:^|.*\.)kz-girl.*$/
 /(?:^|.*\.)mister-x.*$/
 /(?:^|.*\.)mkiska.*$/
-/(?:^|.*\.)noodlemagazine.*$/
+/^.*noodlemagazine.*$/
 /(?:^|.*\.)onporn.*$/
 /(?:^|.*\.)pejnya.*$/
-/(?:^|.*\.)porn.*$/
-/(?:^|.*\.)prostitutki.*$/
+/^.*porn.*$/
+/^.*prostitutki.*$/
 /(?:^|.*\.)public-porn.*$/
 /(?:^|.*\.)relaxa.*$/
 /(?:^|.*\.)rusdosug.*$/
+/(?:^|.*\.)rusoska.*$/
 /(?:^|.*\.)sliva4.*$/
 /(?:^|.*\.)spreee.*$/
 /(?:^|.*\.)trahkino.*$/
 /(?:^|.*\.)ukdevilz.*$/
 /(?:^|.*\.)uzpopka.*$/
 /(?:^|.*\.)vipsexpay.*$/
+/(?:^|.*\.)xhamster.*$/
+/(?:^|\.)xhcdn\.com$/
 /(?:^|.*\.)zorox.*$/
 
 # Progress
