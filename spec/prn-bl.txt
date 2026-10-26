@@ -1,3 +1,4 @@
+# Deprecated. Moved to regex/kid-bl.txt
 # [ Regex rules ] #
 /(^|^.*\.)vuajerizm.(com)$/
 /(^|^.*\.)polnushka.(com)$/
