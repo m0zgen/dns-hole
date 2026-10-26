@@ -4483,3 +4483,9 @@ zylom.nl
 zylomgames.com
 zynga.com
 zyraffa.pl
+
+# [ Testing ]
+steampowered.com
+steamcommunity.com
+store.steampowered.com
+help.steampowered.com
