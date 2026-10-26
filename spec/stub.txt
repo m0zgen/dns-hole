@@ -1,0 +1,3 @@
+# [ Stub file ]
+
+blockcheck1.system-checks.org
