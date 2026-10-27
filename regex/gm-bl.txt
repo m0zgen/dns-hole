@@ -1,11 +1,6 @@
-# [ Strict rules ] #
-/^cdn[0-9]+-epicgames-[0-9]+\.file\.myqcloud\.com$/
-/^epicgames-download[0-9]+\.akamaized\.net$/
-/^epicgames-download[0-9]+-[0-9]+\.file\.myqcloud\.com$/
-
-# [ Mass ]
-
-# [ Plain domains ]
+# Gaming domains: exact domains and subdomains require suffix matching in the resolver.
+# Publisher and game websites are included; network blocking coverage requires app traffic validation.
+# [ Domain rules ]
 01jeux.net
 1000-spiele.de
 10001games.fr
@@ -290,6 +285,8 @@ axeso5.com
 axeuk.com
 axifer.com
 axisgamesonline.com
+axlebolt.com
+axlebolt.games
 azeroth.fr
 babygames.com
 baits.io
@@ -377,6 +374,7 @@ bizgratuit.com
 bl.mud.at
 blablaland.com
 black-book-editions.fr
+blackrussia.online
 blazinggames.com
 bleue.planete.v2.online.fr
 blibs.com
@@ -664,6 +662,7 @@ cubecraft.net
 cuisinejeux.com
 curvefever.com
 cuteflashgames.com
+cyber-evolution.ru
 cyberarena.net
 cyberiapc.com
 cyberjuegos.com
@@ -789,6 +788,7 @@ dolldivine.com
 dollzmania.com
 dolygames.com
 domesprit.com
+domovyat.ru
 donjons-tresors.com
 dontstarvegame.com
 donutgames.com
@@ -834,6 +834,7 @@ draynor.net
 dreadcast.net
 dreamalot.it
 dreamcatchergames.com
+dreamgames.com
 dreamsmud.com
 dressupgal.com
 dressupgames77.com
@@ -991,6 +992,7 @@ fantasiegames.de
 fantasticcontraption.com
 fantastigames.com
 fantasycastle.com
+farlightgames.com
 farmerama.com
 farmerama.de
 farmville.com
@@ -1135,6 +1137,7 @@ freeclassicgames.com
 freecrosswordpuzzles.com.au
 freedownloadgame.com
 freefarmgame.fr
+freefiremobile.com
 freeflashgames.it
 freegame.com
 freegameaccess.com
@@ -1693,6 +1696,7 @@ ganjawars.ru
 gapo.co.uk
 garathor.com
 garena.com
+garenanow.com
 garotapopular.com
 gator.fr
 gawd.io
@@ -1704,6 +1708,7 @@ generation-game.com
 generationsims3.com
 genetique.biz
 geno.org
+genshin.hoyoverse.com
 genshin.mihoyo.com
 genshinimpact.com
 geojuegos.com
@@ -1844,6 +1849,7 @@ habbo.ca
 habbo.cl
 habbo.com
 habbo.fr
+habby.com
 hackandcheats.org
 hackedarcadegames.com
 hackedfreegames.com
@@ -1882,6 +1888,7 @@ heavygames.com
 hedonistica.com
 helbreathnemesis.com
 helicoptergame.net
+help.steampowered.com
 herna.biz
 hernibox.cz
 heroes-fr.com
@@ -1947,6 +1954,7 @@ hry24.sk
 hrydnes.cz
 hryzadarmo.sk
 hryzdarma.sk
+hsr.hoyoverse.com
 htfgames.com
 html5games.net
 hublo.com
@@ -1966,7 +1974,9 @@ iconoclast.org
 ideo-lejeu.com
 idleworm.com
 ifungames.com
+igamecj.com
 igamewin.com
+igg.com
 igirlgames.com
 igol.be
 igrajonline.com
@@ -2005,6 +2015,7 @@ informatist.net
 ingame.de
 initiative-jdr.com
 inkagames.com
+innersloth.com
 innogames.com
 innogames.de
 inpactvirtuel.com
@@ -2018,6 +2029,7 @@ instagamez.com
 insulaner-online.de
 interjeux.net
 internetgames247.com
+intlgame.com
 invocato.com
 iogames-io.io
 iogames.fr
@@ -2618,11 +2630,13 @@ lesjeuxvideo.com
 lesjeuxweb.com
 lesmeilleursjeux.net
 lesroyaumes.com
+lesta.ru
 lesudokugratuit.com
 letempledujeu.fr
 lethalpenguin.net
 lets-fish.com
 letscollect.com.br
+levelinfinite.com
 lexaloffle.com
 ligadosgames.com
 lightning-games.com
@@ -2630,6 +2644,7 @@ lightningamer.com
 lil-life.com
 lilgames.com
 liliane.mille.free.fr
+lilith.com
 lineage2.com
 linerider.com
 lion3d.com
@@ -2787,6 +2802,7 @@ micromania.fr
 midnight-mafia.co.uk
 midnight-mafia.com
 midnightsynergy.com
+mihoyo.com
 mijngame.nl
 millenium.org
 millionsofgames.com
@@ -2837,6 +2853,7 @@ misteuro.com
 mistupid.com
 mitternachtsgarten.de
 mixmaster.fr
+mlbb.dev
 mlgame.co.uk
 mlgame.cz
 mlgame.de
@@ -2848,6 +2865,7 @@ mmorpg100.com
 mmosale-fr.com
 mmozone.com
 mo.co
+mobilelegends.com
 mochimedia.com
 modd.io
 mofunzone.com
@@ -2869,12 +2887,14 @@ monkeon.co.uk
 monkeycash.fr
 monkeygames.com
 monkeygames.ws
+monopolygo.com
 monrenard.forumactif.com
 monsterland.se
 monstersgame.com.pt
 montanola-jeux.com
 monzoo.net
 mooiegames.nl
+moonton.com
 moraxian.com
 moreflashgames.com
 mortalrealms.com
@@ -2992,6 +3012,7 @@ nianticlabs.com
 nierlein.net
 nightfall.org
 nightwalkers.io
+nikke-en.com
 nin-nin-game.fr
 ninja-man.com
 ninja-mx.com
@@ -3124,6 +3145,7 @@ oriongame.fr
 ornigo.com
 ortsoftware.com
 otterarchives.com
+outfit7.com
 outland.org
 outsidetheboxsoftware.com
 outwar.com
@@ -3325,6 +3347,8 @@ pokebip.com
 pokemon-france.com
 pokemon.com
 pokemonbattlearena.net
+pokemongo.com
+pokemongolive.com
 pokemoninfinity.com
 pokemonnegro.com
 pokemonplasma.com
@@ -3368,6 +3392,7 @@ projectlore.com
 projetgenesis.com
 promu.fr
 proun-game.com
+proximabeta.com
 ps3fanboy.com
 ps3spirit.fr
 psp3d.com
@@ -3376,6 +3401,7 @@ psychogoldfish.com
 ptg.be
 ptg.fr
 pubg.com
+pubgmobile.com
 puissance-4.com
 puissance-gamers.com
 purefelinity.com
@@ -3491,6 +3517,7 @@ rivasseau.free.fr
 rivercombat.com
 rivergame.net
 rm.vx.love.free.fr
+ro.blox.com
 roblox.cn
 roblox.com
 roblox.qq.com
@@ -3568,6 +3595,8 @@ schnapsen.at
 schnapserkoenig.at
 scholandia.org
 schoolunblockedgames.org
+scopely.com
+scopely.io
 scorpion.startrek-rebellion.com
 scorpnabier.blogspot.com
 se-network.de
@@ -3778,11 +3807,13 @@ st.dl.pinyuncloud.com
 stabfish.io
 stableking.com
 staggan.com
+standoff2.com
 star-conflict.com
 star-fleet.com
 stararmy.com
 starbase118.net
 starblast.io
+stardewvalley.net
 stardoll.com
 starfights.de
 stargate.trooper.free.fr
@@ -3848,8 +3879,11 @@ strongholdkingdoms.com
 stuckgamer.com
 studiohoppe.com
 studioquiz.com
+stumbleguys.com
 subagames.com
 subsetgames.com
+subwaysurfers.com
+subwaysurferscity.com
 sudoku-evolution.com
 sudoku-gratuit.fr
 sudoku-land.com
@@ -3885,6 +3919,7 @@ swcombine.com
 swtor.com
 sxe-anticheat.com
 sxe-injected.com
+sybogames.com
 sydlexia.com
 t2tmud.org
 t45ol.com
@@ -3928,6 +3963,7 @@ telltalegames.com
 telokado.com
 tem-la-firme.com
 tempusmud.com
+tencentgames.com
 tennis2table.com
 tentlan.com
 terragaming.net
@@ -4324,6 +4360,7 @@ wormax.io
 worms.zone
 worthplaying.com
 wotblitz.com
+wotblitz.ru
 wotmud.org
 wow-europe.com
 wow-free-games.com
@@ -4441,6 +4478,7 @@ zeemud.org
 zeevo.eu
 zefrank.com
 zeldaecho.free.fr
+zenless.hoyoverse.com
 zenlesszonezero.com
 zepirates.com
 zeredunicorn.com
@@ -4484,80 +4522,7 @@ zylomgames.com
 zynga.com
 zyraffa.pl
 
-# [ Testing ]
-steampowered.com
-steamcommunity.com
-store.steampowered.com
-help.steampowered.com
-pubgmobile.com
-fortnite.com
-standoff2.com
-hoyoverse.com
-cyber-evolution.ru
-minecraft.net
-blackrussia.online
-stardewvalley.net
-brawlstars.com
-wotblitz.ru
-wotblitz.com
-domovyat.ru
-
-# PUBG Mobile & Tencent
-pubgmobile.com
-tencentgames.com
-levelinfinite.com
-proximabeta.com
-intlgame.com
-# Fortnite & Epic Games
-fortnite.com
-epicgames.com
-epicgames.dev
-# Standoff 2 & Axlebolt
-standoff2.com
-axlebolt.com
-axlebolt.games
-# Free Fire & Garena
-freefiremobile.com
-garena.com
-garenanow.com
-# Call of Duty: Mobile & Activision
-callofduty.com
-activision.com
-# Mobile Legends: Bang Bang & Moonton
-mobilelegends.com
-moonton.com
-mlbb.dev
-# Brawl Stars & Supercell
-brawlstars.com
-supercell.com
-supercellid.com
-clashroyale.com
-clashofclans.com
-# HoYoverse (Genshin Impact, Honkai: Star Rail, Zenless Zone Zero)
-hoyoverse.com
-mihoyo.com
-hoyolab.com
-genshin.hoyoverse.com
-hsr.hoyoverse.com
-zenless.hoyoverse.com
-# Minecraft & Mojang
-minecraft.net
-mojang.com
-minecraftservices.com
-# Roblox
-roblox.com
-ro.blox.com
-rbxcdn.com
-# Among Us
-innersloth.com
-# World of Tanks Blitz & Lesta / Wargaming
-wotblitz.ru
-wotblitz.com
-lesta.ru
-wargaming.net
-# Black Russia & Cyber Evolution
-blackrussia.online
-cyber-evolution.ru
-domovyat.ru
-# Stardew Valley
-stardewvalley.net
+# [ Regex rules: Epic Games CDN ]
+/^cdn[0-9]+-epicgames-[0-9]+\.file\.myqcloud\.com$/
+/^epicgames-download[0-9]+\.akamaized\.net$/
+/^epicgames-download[0-9]+-[0-9]+\.file\.myqcloud\.com$/
