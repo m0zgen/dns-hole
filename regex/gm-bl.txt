@@ -4501,3 +4501,69 @@ brawlstars.com
 wotblitz.ru
 wotblitz.com
 domovyat.ru
+
+# --- PUBG Mobile & Tencent ---
+pubgmobile.com
+tencentgames.com
+levelinfinite.com
+proximabeta.com
+
+# --- Fortnite & Epic Games ---
+fortnite.com
+epicgames.com
+
+# --- Standoff 2 & Axlebolt ---
+standoff2.com
+axlebolt.com
+
+# --- Игры HoYoverse (Genshin Impact, Honkai: Star Rail, Zenless Zone Zero) ---
+://hoyoverse.com
+://hoyoverse.com
+://hoyoverse.com
+hoyoverse.com
+mihoyo.com
+hoyolab.com
+
+# --- Игры Supercell (Brawl Stars, Clash Royale, Clash of Clans) ---
+brawlstars.com
+clashroyale.com
+clashofclans.com
+supercell.com
+supercellid.com
+
+# --- Mobile Legends: Bang Bang ---
+mobilelegends.com
+moonton.com
+mlbb.dev
+
+# --- Call of Duty: Mobile ---
+callofduty.com
+activision.com
+
+# --- Free Fire (Garena) ---
+freefiremobile.com
+garena.com
+
+# --- Roblox ---
+roblox.com
+ro.blox.com
+
+# --- Among Us ---
+innersloth.com
+
+# --- Minecraft ---
+minecraft.net
+mojang.com
+
+# --- World of Tanks Blitz & Леста Игры ---
+wotblitz.ru
+wotblitz.com
+lesta.ru
+
+# --- Российские мобильные онлайн-проекты ---
+blackrussia.online
+cyber-evolution.ru
+domovyat.ru
+
+# --- Уютные симуляторы ---
+stardewvalley.net
