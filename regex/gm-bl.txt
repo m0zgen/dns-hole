@@ -4502,68 +4502,62 @@ wotblitz.ru
 wotblitz.com
 domovyat.ru
 
-# --- PUBG Mobile & Tencent ---
+# PUBG Mobile & Tencent
 pubgmobile.com
 tencentgames.com
 levelinfinite.com
 proximabeta.com
-
-# --- Fortnite & Epic Games ---
+intlgame.com
+# Fortnite & Epic Games
 fortnite.com
 epicgames.com
-
-# --- Standoff 2 & Axlebolt ---
+epicgames.dev
+# Standoff 2 & Axlebolt
 standoff2.com
 axlebolt.com
-
-# --- Игры HoYoverse (Genshin Impact, Honkai: Star Rail, Zenless Zone Zero) ---
-://hoyoverse.com
-://hoyoverse.com
-://hoyoverse.com
-hoyoverse.com
-mihoyo.com
-hoyolab.com
-
-# --- Игры Supercell (Brawl Stars, Clash Royale, Clash of Clans) ---
-brawlstars.com
-clashroyale.com
-clashofclans.com
-supercell.com
-supercellid.com
-
-# --- Mobile Legends: Bang Bang ---
+axlebolt.games
+# Free Fire & Garena
+freefiremobile.com
+garena.com
+garenanow.com
+# Call of Duty: Mobile & Activision
+callofduty.com
+activision.com
+# Mobile Legends: Bang Bang & Moonton
 mobilelegends.com
 moonton.com
 mlbb.dev
-
-# --- Call of Duty: Mobile ---
-callofduty.com
-activision.com
-
-# --- Free Fire (Garena) ---
-freefiremobile.com
-garena.com
-
-# --- Roblox ---
-roblox.com
-ro.blox.com
-
-# --- Among Us ---
-innersloth.com
-
-# --- Minecraft ---
+# Brawl Stars & Supercell
+brawlstars.com
+supercell.com
+supercellid.com
+clashroyale.com
+clashofclans.com
+# HoYoverse (Genshin Impact, Honkai: Star Rail, Zenless Zone Zero)
+hoyoverse.com
+mihoyo.com
+hoyolab.com
+genshin.hoyoverse.com
+hsr.hoyoverse.com
+zenless.hoyoverse.com
+# Minecraft & Mojang
 minecraft.net
 mojang.com
-
-# --- World of Tanks Blitz & Леста Игры ---
+minecraftservices.com
+# Roblox
+roblox.com
+ro.blox.com
+rbxcdn.com
+# Among Us
+innersloth.com
+# World of Tanks Blitz & Lesta / Wargaming
 wotblitz.ru
 wotblitz.com
 lesta.ru
-
-# --- Российские мобильные онлайн-проекты ---
+wargaming.net
+# Black Russia & Cyber Evolution
 blackrussia.online
 cyber-evolution.ru
 domovyat.ru
-
-# --- Уютные симуляторы ---
+# Stardew Valley
 stardewvalley.net
