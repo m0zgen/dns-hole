@@ -556,7 +556,9 @@ gizmodo.com
 www.gizmodo.com
 
 # [ GitHub ]
+githubusercontent.com
 raw.githubusercontent.com
+release-assets.githubusercontent.com
 # https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/whitelist/github.txt
 github.dev
 github.com
@@ -569,7 +571,6 @@ avatars1.githubusercontent.com
 avatars2.githubusercontent.com
 avatars3.githubusercontent.com
 github.map.fastly.net
-githubusercontent.com
 
 # [ Gcore ]
 gcore.com
