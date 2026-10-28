@@ -1214,6 +1214,10 @@ www.place-hold.it
 images.placeholders.dev
 dummyimage.com
 
+# [ Podcastor ]
+podcastor.fr
+www.podcastor.fr
+
 # [ PQ Hosting ]
 pq.hosting
 www.pq.hosting
