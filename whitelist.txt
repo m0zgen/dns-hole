@@ -523,6 +523,8 @@ images.g2crowd.com
 # [ Gettrade ]
 gettrade.ai
 www.gettrade.ai
+feedback.gettrade.ai
+staging.gettrade.ai
 
 # [ GitHub ]
 github.com
