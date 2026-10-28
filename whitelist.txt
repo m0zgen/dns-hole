@@ -520,6 +520,10 @@ www.ft.com
 g2crowd.com
 images.g2crowd.com
 
+# [ Gettrade ]
+gettrade.ai
+www.gettrade.ai
+
 # [ GitHub ]
 github.com
 api.github.com
