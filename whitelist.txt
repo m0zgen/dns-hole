@@ -1305,6 +1305,11 @@ click.redditmail.com
 rollbar.com
 www.rollbar.com
 
+# [ Remodelhealth ]
+remodelhealth.com
+www.remodelhealth.com
+app.remodelhealth.com
+
 # [ Redhead ]
 redthread.studio
 www.redthread.studio
