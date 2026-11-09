@@ -112,6 +112,9 @@ nuget.servehttp.com
 /(?:^|\.)postzi\.top$/
 /(.*)kz-serve\.cfd$/
 /(.*)postkz\.lat$/
+pots-kzservices.top
+aivsbv.cfd
+post.aivsbv.cfd
 
 # KazEgov Scam
 # https://t.me/securixy_kz/820
