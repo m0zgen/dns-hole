@@ -225,6 +225,10 @@ www.bitpay.com
 bk.ru
 www.bk.ru
 
+# [ BlackfoxVR ]
+blackfoxvr.com
+www.blackfoxvr.com
+
 # [ Blogging ]
 blogspot.com
 www.blogspot.com
