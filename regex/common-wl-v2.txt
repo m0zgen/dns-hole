@@ -1,0 +1,268 @@
+# [ Common ]
+
+@akamai.net
+@apple.com
+@chatgpt.com
+@cloudfront.net
+@comagic.ru
+@comodoca.com
+@corel.com
+@datadoghq.com
+@deepl.com
+@deepseek.com
+@digicert.com
+@eloqua.com
+@entrust.net
+@firefox.com
+@gismeteo.kz
+@gismeteo.ru
+@globalsign.com
+@hcaptcha.com
+@intercom.io
+@jivosite.com
+@lastpass.com
+@lencr.org
+@letsencrypt.org
+@licdn.com
+@linkedin.com
+@mozilla.com
+@mozilla.org
+@nessus.org
+@ntp.org
+@oaistatic.com
+@onelink.me
+@openai.com
+@openbld.net
+@opera.com
+@pikabu.ru
+@protechts.net
+@qualtrics.com
+@raiffeisen.ru
+@raiffeisen.ua
+@sectigo.com
+@sendpulse.com
+@sentry.io
+@shodan.io
+@slack.com
+@slackb.com
+@symcd.com
+@sys-adm.in
+@twimg.com
+@uptimerobot.com
+@userapi.com
+@usertrust.com
+@verisign.com
+@vmware.com
+@voidboost.cc
+@weather.com
+@wialon.com
+@x.com
+@xlgmedia.com
+@zerossl.com
+
+# [ Gov ]
+
+/(?:^|\.)[^.]+\.gov$/
+
+@gov.by
+@gov.cn
+@gov.it
+@gov.kg
+@gov.kz
+@gov.ru
+@gov.uk
+@gov.uz
+
+# [ Fin ]
+
+@1xbet.com
+@1xbet.kz
+@bankffin.kz
+@bankrbk.kz
+@bcc.kz
+@dynatrace.com
+@forte.kz
+@halykbank.kz
+@hcsbk.kz
+@kaspi.kz
+@kazincombank.kz
+@lloydsbank.co.uk
+@lloydsbank.com
+@mastercard.com
+@mykassa.kz
+@nationalbank.kz
+@nurbank.kz
+@nurbank24.kz
+@swift.com
+@ttxm.co.uk
+@visa.com
+@visabusinessschool.com
+@vtb.kz
+@vtb.ru
+@westernunion.com
+
+# [ Mobile banking ]
+
+/(?:^|\.)firebase[^.]*\.crashlytics\.com$/
+/(?:^|\.)firebase[^.]*\.googleapis\.com$/
+
+@aaplimg.com
+@acfcs.org
+@appsflyer.com
+@appsflyersdk.com
+@sustainalytics.com
+
+# [ Platforms ]
+
+@adj.st
+@allawnos.com
+@braze.eu
+@findmykids.org
+@heytapmobile.com
+@miro.com
+@strava.com
+
+# [ APIs ]
+
+@ipify.org
+@ipwho.is
+@ipwhois.io
+
+# [ Filters ]
+
+@oisd.nl
+
+# [ Clouds / Nets ]
+
+/^ovh\.commander[0-9]{1,2}\.com$/
+
+@apple.com.akadns.net
+@apple.com.edgekey.net
+@apple.com.edgesuite.net
+@apple.map.fastly.net
+@bitrix.info
+@cloudflare.com
+@dropbox.com
+@edgedatg.com
+@githubusercontent.com
+@google.com
+@icloud.com.akadns.net
+@imgsmail.ru
+@mzstatic.com
+@seagate.com
+@tinkoffjournal.ru
+@ttwstatic.com
+
+# @akadns.net
+# @fastly.net
+# @unity3d.com
+
+# [ Kz ]
+
+@cloud24.kz
+
+# [ Media ]
+
+/^data[0-9]{2,}-cdn\.datalock\.ru$/
+/^rezka\.([a-c]{2})$/
+/^static\.([d-h]{2})rezka\.([a-c]{2})$/
+
+baskino.me
+voidboost.net
+
+@1internet.tv
+@kahoot.com
+@kahoot.it
+
+# [ Games ]
+
+@ea.com
+@playstation.com
+@playstation.net
+@roblox.com
+
+# [ IoT ]
+
+@dreame.tech
+@dreametech.com
+@tuyacn.com
+@tuyaeu.com
+
+# [ Programming, Coding ]
+
+@grafana.org
+@kameleoon.com
+@kameleoon.eu
+@kameleoon.io
+@kameleoon.net
+@posthog.com
+@vsassets.io
+@vscode-unpkg.net
+
+# [ Social / Jobs ]
+
+/(?:^|\.)hh\.([a-z]{2,})$/
+
+# [ MS ]
+
+@azure-api.net
+@azure-mobile.net
+@azurecr.io
+@azureedge.net
+@azurefd.net
+@events.data.microsoft.com
+@livediagnostics.monitor.azure.com
+@msecnd.net
+@msedge.net
+@office.net
+@office365.com
+@trafficmanager.net
+@visualstudio.com
+@windows.net
+
+# @azure.com
+
+# [ Yandex ]
+
+@qloud-a.com
+@qloud-a.net
+@qloud-a.ru
+@qloud-b.com
+@qloud-b.net
+@qloud-b.ru
+@qloud-c.com
+@qloud-c.net
+@qloud-c.ru
+@yandex.by
+@yandex.com
+@yandex.kz
+@yandex.net
+@yandex.ru
+@yandex.st
+@yandex.ua
+@yandex.uz
+
+# [ Markets ]
+
+@taobao.com
+@temu.com
+
+# [ Ad checkers ]
+
+@succeedscene.com
+
+# [ Roots ]
+
+@root-servers.net
+
+# [ Other ]
+
+/(^|^v[n-p]{2,}\.)bespoyasko\.kz$/
+
+# [ Tests ]
+
+@example.com
+@example.net
+
+# @clarity.ms
+# @shopifysvc.com
