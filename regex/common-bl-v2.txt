@@ -1,0 +1,861 @@
+# [ Noise ]
+
+# Ads
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+mediation.goog
+adservice.google.com
+an.facebook.com
+api.rstprgapipt.com
+@agl008.shop
+
+#
+avatars.mds.yandex.net
+www.avatars.mds.yandex.net
+appmetrica.yandex.com
+analytics.mobile.yandex.net
+/avatars.(.*[a-z]){3}.yandex\.net/
+
+# [ Brute-force ]
+/(\.mx1\.mx1\.)/
+/(\.mail\.mail\.mail)/
+/mx1.mx1.mx1/
+/mail.mail.mail/
+
+# [ Malware Domain ]
+
+# Src: https://www.r-tec.net/r-tec-blog-when-hackers-hack-the-hackers.html
+@servehttp.com
+
+# Source: https://mobile.twitter.com/stephenlacy/status/1554697077430505473
+# ovz1.j19544519.pr46m.vps.myjino.ru
+@myjino.ru
+
+# SMS Scam
+@szqdn.com
+@jsgqsb.com
+@programinfos.com
+
+# https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/microsoft-encrypted-restricted-permission-messages-deliver-phishing/
+@fmsbscotland.us
+@taluspays.us
+@chambless-math.com
+
+# CapraTube
+# https://www.sentinelone.com/labs/capratube-transparent-tribes-caprarat-mimics-youtube-to-hijack-android-phones/
+@claudfront.net
+@ptzbubble.shop
+@allowlisted.net
+
+# https://citizenlab.ca/2023/09/predator-in-the-wires-ahmed-eltantawy-targeted-with-predator-spyware-after-announcing-presidential-ambitions/
+@sec-flare.com
+@verifyurl.me
+
+# https://securelist.ru/backdoored-free-download-manager-linux-malware/107924/
+@fdmpkg.org
+
+# https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/amp/
+@ķeepass.info
+
+# https://securelist.com/triangulation-validators-modules/110847/
+@backuprabbit.com
+
+# https://blog.talosintelligence.com/attributing-yorotrooper/
+@az-link.email
+@tpp.tj
+@mail-ru.link
+
+# https://securelist.ru/spyware-whatsapp-mod/108323/
+@whatsagold.app
+@watsabplusgold.com
+@whatsgold.app
+@3ssem.com
+@goldnwhats.app
+@omarwhats.app
+
+# https://blog.aquasec.com/loony-tunables-vulnerability-exploited-by-kinsing
+@haxx.in
+
+# LummaC2 stealer - https://outpost24.com/blog/lummac2-anti-sandbox-technique-trigonometry-human-detection/
+@curtainjors.fun
+@gogobad.fun
+@superyupp.fun
+
+# Royal Ransomware - https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-061a
+@sombrat.com
+@gororama.com
+@softeruplive.com
+@altocloudzone.live
+@ciborkumari.xyz
+@myappearinc.com
+@parkerpublic.com
+@tumbleproperty.com
+
+# https://securelist.ru/trojan-proxy-for-macos/108460/
+@akamaized.ca
+
+# https://reasonlabs.com/research/the-cashback-extension-kille
+@t-oapp.ru
+@my-panel.ru
+@netplus-vpn.ru
+
+# [Lumma Variant] https://www.fortinet.com/blog/threat-research/lumma-variant-on-youtube
+@netovrema.pw
+@opposesicknessopw.pw
+@politefrightenpowoa.pw
+@chincenterblandwka.pw
+
+# KazPost Scam
+@post-serviceskz.top
+@postzi.top
+@kz-serve.cfd
+@postkz.lat$
+@pots-kzservices.top
+@aivsbv.cfd
+
+# KazEgov Scam
+# https://t.me/securixy_kz/820
+@oneindia.info
+@jretail.co.uk
+@egov-kz.online
+
+# Pelmeni wrapper - https://lab52.io/blog/pelmeni-wrapper-new-wrapper-of-kazuar-turla-backdoor/
+@sam-maintenance.com
+@bibliotecaunicef.uy
+@altavista.rs
+
+# WogRAT Malware Exploits aNotepad
+# https://asec.ahnlab.com/en/62446/
+@linuxwork.net
+@t0rguard.net
+@newujs.com
+@domaiso.com
+@jp.anotepad.com
+
+# Bing ad for NordVPN leads to SecTopRAT
+# https://www.malwarebytes.com/blog/threat-intelligence/2024/04/bing-ad-for-nordvpn-leads-to-sectoprat
+@nordivpn.xyz
+@besthord-vpn.com
+
+# Rhadamanthys Stealer
+# https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta547-targets-german-organizations-rhadamanthys-stealer
+@bolibachan.com
+@indscpm.xyz
+@metro-delivery.com
+
+# Trusted Brands and Sponsored Google Ads to Distribute MSIX Payloads
+# https://www.esentire.com/blog/fin7-uses-trusted-brands-and-sponsored-google-ads-to-distribute-msix-payloads
+@sun47281.space
+@storageplace.pro
+@sun1.space
+@cdn41.space
+@cdn46.space
+
+# CISA: Black Basta
+# https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-131a
+@airbusco.net
+@allcompanycenter.com
+@animalsfast.net
+@artspathgroup.net
+@artspathgroupe.net
+@artstrailman.com
+@artstrailreviews.com
+@audsystemecll.net
+@auuditoe.com
+@bluenetworking.net
+@brendonline.com
+@businesforhome.com
+@businessprofessionalllc.com
+@buyblocknow.com
+@buygreenstudio.com
+@caspercan.com
+@childrensdolls.com
+@clearsystemwo.net
+@cloudworldst.net
+@constrtionfirst.com
+@consulheartinc.com
+@currentbee.net
+@erihudeg.com
+@garbagemoval.com
+@gartenlofti.com
+@getfnewsolutions.com
+@getfnewssolutions.com
+@investmendvisor.net
+@investmentgblog.net
+@investmentrealtyhp.net
+@investrealtydom.net
+@ionoslaba.com
+@jenshol.com
+@jessvisser.com
+@karmafisker.com
+@kekeoamigo.com
+@kolinileas.com
+@limitedtoday.com
+@magentoengineers.com
+@maluisepaul.com
+@masterunix.net
+@modernbeem.net
+@monitor-websystem.net
+@monitorsystem.net
+@myfinancialexperts.com
+@mytrailinvest.net
+@nebraska-lawyers.com
+@oneblackwood.com
+@onedogsclub.com
+@ontexcare.com
+@otxcarecosmetics.com
+@otxcosmeticscare.com
+@prettyanimals.net
+@protectionek.com
+@rasapool.net
+@realbumblebee.net
+@recentbee.net
+@recentbeelive.com
+@reelsysmoona.net
+@securecloudmanage.com
+@seohomee.com
+@septcntr.com
+@simorten.com
+@softradar.net
+@specialdrills.com
+@startupbizaud.net
+@startupbusiness24.net
+@startupbuss.com
+@startupmartec.net
+@startuptechnologyw.net
+@steamteamdev.net
+@stockinvestlab.net
+@taskthebox.net
+@technologgies.com
+@thesmartcloudusa.com
+@thetrailbig.net
+@tomlawcenter.com
+@topglobaltv.com
+@trackgroup.net
+@trailcocompany.com
+@trailcosolutions.com
+@trailgroupl.net
+@trailshop.net
+@treeauwin.net
+@unitedfrom.com
+@unougn.com
+@usaglobalnews.com
+@wardeli.com
+@webnubee.com
+@welausystem.net
+@wellsystemte.net
+@wipresolutions.com
+@withclier.com
+
+# Polyfill supply chain attack
+# https://sansec.io/research/polyfill-supply-chain-attack
+@kuurza.com
+@googie-anaiytics.com
+
+# Proofpoint massive phishing. EchoSpoofing campaign.
+# https://labs.guard.io/echospoofing-a-massive-phishing-campaign-exploiting-proofpoints-email-protection-to-dispatch-3dd6b5417db6
+novamixnf.onmicrosoft.com
+skypesksm.onmicrosoft.com
+munimariquina.onmicrosoft.com
+edc2015.onmicrosoft.com
+farocapital365.onmicrosoft.com
+gmdk.onmicrosoft.com
+x8674lj.onmicrosoft.com
+ramirocaroguamuchil.onmicrosoft.com
+bandalignano.onmicrosoft.com
+skyvictory.onmicrosoft.com
+redesmedicasips.onmicrosoft.com
+t1chile.onmicrosoft.com
+cfcnglns65p07a512l.onmicrosoft.com
+dsumed.onmicrosoft.com
+meleamita.onmicrosoft.com
+blancom.onmicrosoft.com
+idorganization.onmicrosoft.com
+opam.onmicrosoft.com
+saiani.onmicrosoft.com
+stacey025.onmicrosoft.com
+bolmendo.onmicrosoft.com
+emailcontact132.onmicrosoft.com
+jerem236.onmicrosoft.com
+frantisekvesely.onmicrosoft.com
+mitwarehouse.onmicrosoft.com
+gourmoud.onmicrosoft.com
+grupmacrolim.onmicrosoft.com
+veroty.onmicrosoft.com
+teclive.onmicrosoft.com
+sdht.onmicrosoft.com
+nahjaltaj.onmicrosoft.com
+fas83.onmicrosoft.com
+snnssmartact.onmicrosoft.com
+jordi619.onmicrosoft.com
+antonya777.onmicrosoft.com
+bernadno.onmicrosoft.com
+reonenergy.onmicrosoft.com
+furgeson862.onmicrosoft.com
+frend265.onmicrosoft.com
+domnef.onmicrosoft.com
+berga015.onmicrosoft.com
+lukk989.onmicrosoft.com
+6zc8sx.onmicrosoft.com
+angelicoo.onmicrosoft.com
+molebeek.onmicrosoft.com
+zbmxs.onmicrosoft.com
+clementy618.onmicrosoft.com
+nordany390.onmicrosoft.com
+sofrane.onmicrosoft.com
+fgbgfbtsbg.onmicrosoft.com
+molanbeek.onmicrosoft.com
+volman683.onmicrosoft.com
+gafaacat.onmicrosoft.com
+kleop.onmicrosoft.com
+omran035.onmicrosoft.com
+antlisa.onmicrosoft.com
+gregorioa.onmicrosoft.com
+hollman250.onmicrosoft.com
+mailv077.onmicrosoft.com
+felnder.onmicrosoft.com
+lukana108.onmicrosoft.com
+lkstubc.onmicrosoft.com
+lisalfr.onmicrosoft.com
+clemon108.onmicrosoft.com
+amana770.onmicrosoft.com
+nertvoxss.onmicrosoft.com
+
+@tonalimail.org
+@x0ican.org
+@amassou.org
+@developmentsreaders.org
+@nsusiuko.info
+@towdirection.org
+@fenugrek.info
+@gandermail.info
+@starssky.agency
+@newservicestc.net
+@aniview.org
+@detawatch.com
+@wheatrusks.town
+@llksbcosa.org
+@upchecked.org
+@playnz.org
+@delaysearly.org
+@lastlist.org
+@resultnosc.org
+@comebackpilots.com
+@vscali.org
+@mirajcloud.org
+
+# Fake funeral “live stream” scams target grieving users on Facebook
+# https://www.malwarebytes.com/blog/news/2024/08/fake-funeral-live-stream-scams-target-grieving-users-on-facebook
+@qtvlivestreamhd.com
+@hqonlivestream.xyz
+@visitpageaus.com
+@auseventstream.com
+@pbg4jptrk.com
+@paperpadpen.com
+
+# Phishing Pages Delivered Through Refresh HTTP Response Header
+# https://unit42.paloaltonetworks.com/rare-phishing-page-delivery-header-refresh/
+@8ik8rq.ru
+
+# Tunneling - https://cybersecuritynews.com/hackers-exploiting-dns-tunneling/
+@avtomaty-bcg.online
+@codeaddon.net
+@dreyzek.com
+@dtodcart.site
+@foxxbank.com
+@healthproreview.com
+@juicyplaymatesfinder.com
+@lifemedicalplus.net
+@linkwide.site
+@lustypartnersfinder.com
+@mouvobo.site
+@mponiem.site
+@ns2000wip.com
+@piquantchicksfinder.com
+@pretorya.site
+@sosua.cz
+@unlimitedpartnersfinder.com
+@yummyflingsfinder.com
+@yummyloversfinder.com
+@zzczloh.site
+
+# https://www.malwarebytes.com/blog/news/2024/10/large-scale-google-ads-campaign-targets-utility-software
+@creativekt.com
+@designexplorerapp.net
+@studioplatformapp.net
+@foreducationapp.com
+@workmeetingsapp.com
+@turnrevenue.com
+@aerodrame.finance
+
+# https://www.cleafy.com/cleafy-labs/toxicpanda-a-new-banking-trojan-from-asia-hit-europe-and-latam
+@dksu.top
+@mixcom.one
+@freebasic.cn
+
+# DeceptionAds
+# https://labs.guard.io/deceptionads-fake-captcha-driving-infostealer-infections-and-a-glimpse-to-the-dark-side-of-0c516f4dc0b6
+@hianime.to
+@9animetv.to
+@aniwatchtv.to
+@sflix.to
+@myflixerz.to
+@hdtodayz.to
+@9minecraft.net
+@chapmanganato.to
+@y2mate.com
+@steamrip.com
+@y2meta.tube
+@tubemp4.is
+@moviesjoy.is
+@gomovies.sx
+@asuracomic.net
+@freek.to
+@flixhq.to
+@mangakakalot.com
+@coinpriceline.com
+@hurawatch.cc
+@movies2watch.tv
+@theflixertv.to
+@mangafire.to
+@z-lib.io
+@hydrahd.cc
+@cinego.tv
+@ouo.io
+@filecrypt.co
+@vipbox.lc
+@totalsportek.best
+@dopebox.to
+@sportshub.stream
+@manhwaclan.com
+@streameast.best
+@mangareader.to
+@kaido.to
+@megadb.net
+@mangabuddy.com
+@kisskh.co
+@bato.to
+@mangaread.org
+@manhuaus.com
+@gostream.to
+@alphatron.tv
+@readcomiconline.li
+@dramacool.bg
+@mixdrop.ps
+@e123movieswatch.com
+@totalsportek.games
+@aniwatch.to
+@travelmiso.com
+
+# Fake Etsy
+# https://www.malwarebytes.com/blog/news/2025/02/fake-etsy-invoice-scam-tricks-sellers-into-sharing-credit-card-information
+@com-etsy-verify.cfd
+@switchero.cfd
+@1562587027.cfd
+@3841246.cfd
+@39849329.cfd
+@447385638.cfd
+@57434.cfd
+@5847325245.cfd
+@6562587027.cfd
+@6841246.cfd
+@72871.cfd
+@7562587027.cfd
+@8841246.cfd
+@92875.cfd
+@9438632572.cfd
+@948292.cfd
+@97434.cfd
+@984323.cfd
+@checkid1573.cfd
+@chekup-out.cfd
+@coinbox.cfd
+@fastpay.cfd
+@offer584732.cfd
+@offer62785.cfd
+@offer684732.cfd
+@paylink.cfd
+@paymint.cfd
+@paywave.cfd
+@requlred-verlfication.cfd
+@requstlon-verflcation.cfd
+@web-proff-point.cfd
+@verlflcation-etsy.cfd
+
+# IP logger + Lumma
+# Unwanted HH connector: https://t.me/cyberseckz/482070
+@02ip.ru
+@2no.co
+@aptonic.xyz
+@arcbrowser.pro
+@bookmarkfc.info
+@censortracker.pro
+@cleanmymac.pro
+@cleanshot.ink
+@cyberhavenext.pro
+dekabristiney.fvds.ru
+@linewizeconnect.com
+@ezstat.ru
+@figma.lat
+@grabify.link
+@iina-app.lat
+@internxtvpn.pro
+@ipgrabber.ru
+@ipgraber.ru
+@iplis.ru
+@iplogger.co
+@iplogger.com
+@iplogger.info
+@iplogger.org
+@iplogger.ru
+@lightpillar.lat
+@macbartender.lat
+@moonsift.store
+@orbitpettystudio.fun
+@parallelsdesktop.pro
+@parrottalks.info
+@password-app.pro
+patrikbob100.fvds.ru
+@pixelmator.pics
+@pixelmator.us
+@primusext.pro
+@punchtelephoneverdi.store
+@rainway.cloud
+@readermodeext.info
+@rize.lat
+@servicescraft.buzz
+@setapp.ink
+@sipapp.lat
+@skylum.store
+@smallrabbitcrossing.site
+@snuggleapplicationswo.fun
+@strainriskpropos.store
+@telephoneverdictyow.site
+@theoryapparatusjuko.fun
+@ultradelux.buzz
+@uvoice.live
+@vpncity.live
+@wayinai.live
+@yip.su
+@yujaverity.info
+
+# New I2PRAT communicates via anonymous peer-to-peer network
+# https://www.gdatasoftware.com/blog/2024/12/38093-ip2rat-malware
+@porn-zoo.sbs
+
+# Malicious websites. Examples:
+# ns500213.ns500248.ns500262.ns500248.ns500242.ns500259.ns500202.ns500248.ns500213.ns500195.sweetchicksclub.com
+# ns500259.ns500202.ns500261.ns500242.ns500248.ns500249.ns500248.ns500202.ns500197.ns500208.hereyourhotlady.com
+/(?:ns\d+\.){4,}[\w-]+\.[\w-]+/
+
+# faked homebrew
+@brewe.sh
+
+# Faked DeepSeek
+@deepseek-platform.com
+@r1deepseek-ai.com
+@app-updater1.app
+@app-updater2.app
+@app-updater.app
+
+# Faked Putty and WinSCP / Weaponized PuTTY
+# https://arcticwolf.com/resources/blog/malvertising-campaign-delivers-oyster-broomstick-backdoor-via-seo-poisoning-trojanized-tools/
+# https://levelblue.com/blogs/security-essentials/like-putty-in-admins-hands
+@updaterputty.com
+@zephyrhype.com
+@putty.run
+@putty.bet
+@puttyy.org
+@puttysystems.com
+@puttyy.com
+@putty.lat
+@putty.us.com
+@heartlandenergy.ai
+@putty.network
+ruben.findinit.com
+ekeitoro.siteinwp.com
+@danielaurel.tv
+
+# HijackLoader
+# https://www.trellix.com/blogs/research/analysis-of-hijackloader-and-its-infection-chain/
+@directsnap.click
+@readyf1.lol
+@weeklyuploads.click
+
+# SPIDER SHAMOS Delivery on macOS
+# https://www.crowdstrike.com/en-us/blog/falcon-prevents-cookie-spider-shamos-delivery-macos/
+@mac-safer.com
+@rescue-mac.com
+@icloudservers.com
+@macostutorial.com
+
+# Anatsa malware
+# https://www.zscaler.com/blogs/security-research/android-document-readers-and-deception-tracking-latest-updates-anatsa
+@saurkanot.com
+@docsresearchgroup.com
+
+# Evil Youtube downloaders
+# https://asec.ahnlab.com/en/89787/
+@4tressx.com
+@cloudnetpr.com
+@connectiondistribute.com
+@diskcleanu.com
+@fastconnectnetwork.com
+
+# Lastpass Phish
+@lastpassdesktop.com
+@lastpassdesktop.app
+@lastpassgazette.blog
+@lastpasspulse.blog
+
+# Phorpiex
+# https://www.microsoft.com/en-us/security/blog/2021/05/20/phorpiex-morphs-how-a-longstanding-botnet-persists-and-thrives-in-the-current-threat-environment/
+@aeaagegaegeahrh.ru
+@aefiaefidjidghh.ru
+@aefofhhfouahugr.ws
+@aegohaohuoruitiieh.co
+@aegohaohuoruitiiel.co
+@aegohaohuoruitiiem.to
+@aegohaohuoruitiier.su
+@aegohaohuoruitiieu.cc
+@aegohaohuoruitiiez.io
+@aeguaheoufuhfhu.ru
+@aeifaeifhutuhuhusl.co
+@aeifaeifhutuhuhusm.to
+@aeifaeifhutuhuhusr.su
+@aeifaeifhutuhuhusu.cc
+@aeifaeifhutuhuhusz.io
+@aeiziaezieidiebg.su
+@aeoughaoheguaoehdl.co
+@aeoughaoheguaoehdm.to
+@aeoughaoheguaoehdr.su
+@aeoughaoheguaoehdu.cc
+@aeoughaoheguaoehdz.io
+@aeufuaehfiuehfuhfl.co
+@aeufuaehfiuehfuhfm.to
+@aeufuaehfiuehfuhfr.su
+@aeufuaehfiuehfuhfu.cc
+@aeufuaehfiuehfuhfz.io
+@afaeigaifgsgrhhafd.io
+@afaeigaifgsgrhhafl.co
+@afaeigaifgsgrhhafm.to
+@afaeigaifgsgrhhafr.su
+@afaeigaifgsgrhhafu.cc
+@afaeigaifgsgrhhafz.io
+@afaigaeigieufuifil.co
+@afaigaeigieufuifim.to
+@afaigaeigieufuifir.su
+@afaigaeigieufuifiu.cc
+@afaigaeigieufuifiz.io
+@afeifieuuufufufuf.su
+@agileblue.com
+@aiiaiafrzrueuedur.ru
+@aoekfoaefoahfoh.ru
+@avdbawudhafiehf.ru
+@awwararuhuedhhf.ru
+@befaheaiudeuhughgh.co
+@befaheaiudeuhughgl.co
+@befaheaiudeuhughgm.to
+@befaheaiudeuhughgr.su
+@befaheaiudeuhughgu.cc
+@befaheaiudeuhughgz.io
+@bfagzzezgaegzgfaih.co
+@bfagzzezgaegzgfail.co
+@bfagzzezgaegzgfaim.to
+@bfagzzezgaegzgfair.su
+@bfagzzezgaegzgfaiu.cc
+@bfagzzezgaegzgfaiz.io
+@breve.email
+@daedagheauehfuuhfl.co
+@daedagheauehfuuhfm.to
+@daedagheauehfuuhfr.su
+@daedagheauehfuuhfu.cc
+@daedagheauehfuuhfz.io
+@eaeuafhuaegfugeudh.co
+@eaeuafhuaegfugeudl.co
+@eaeuafhuaegfugeudm.to
+@eaeuafhuaegfugeudr.su
+@eaeuafhuaegfugeudu.cc
+@eaeuafhuaegfugeudz.io
+@eafuebdbedbedggk.ws
+@eafuebdbedbedggr.ws
+@eafueudzefverrgk.ws
+@eafueudzefverrgr.ws
+@eaougheofhuaez.top
+@ebufaehfahefheh.ru
+@efaejfojegohgut.ru
+@efaejfojegohgut.su
+@efeuafubeubaefur.ws
+@efniaenfinefing.ru
+@eguaheoghouughahsl.co
+@eguaheoghouughahsm.to
+@eguaheoghouughahsr.su
+@eguaheoghouughahsu.cc
+@eguaheoghouughahsz.io
+@feauhueudughuurk.ws
+@feedmefile.top
+@gaehaejehgaefgz.ru
+@gaghpaheiafhjefijh.co
+@gaghpaheiafhjefijl.co
+@gaghpaheiafhjefijm.to
+@gaghpaheiafhjefijr.su
+@gaghpaheiafhjefiju.cc
+@gaghpaheiafhjefijz.io
+@gaoehuoaoefhuhfugh.co
+@gaoehuoaoefhuhfugl.co
+@gaoehuoaoefhuhfugm.to
+@gaoehuoaoefhuhfugr.su
+@gaoehuoaoefhuhfugu.cc
+@gaoehuoaoefhuhfugz.io
+@gaoheeuofhefefhutl.co
+@gaoheeuofhefefhutm.to
+@gaoheeuofhefefhutr.su
+@gaoheeuofhefefhutu.cc
+@gaoheeuofhefefhutz.io
+@gaohrhurhuhruhfsdh.co
+@gaohrhurhuhruhfsdl.co
+@gaohrhurhuhruhfsdm.to
+@gaohrhurhuhruhfsdr.su
+@gaohrhurhuhruhfsdu.cc
+@gaohrhurhuhruhfsdz.io
+@gaouehaehfoaeajrsl.co
+@gaouehaehfoaeajrsm.to
+@gaouehaehfoaeajrsr.su
+@gaouehaehfoaeajrsu.cc
+@gaouehaehfoaeajrsz.io
+@gaueudbuwdbuguur.ws
+@geafneiefiefnin.ru
+@geaohgoehagugeh.ru
+@geaohgoehagugeh.su
+@geauhouefheuutiiil.co
+@geauhouefheuutiiim.to
+@geauhouefheuutiiir.su
+@geauhouefheuutiiiu.cc
+@geauhouefheuutiiiz.io
+@gotsomefile.top
+@huaeokaefoaeguaehl.co
+@huaeokaefoaeguaehm.to
+@huaeokaefoaeguaehr.su
+@huaeokaefoaeguaehu.cc
+@huaeokaefoaeguaehz.io
+@koekfoaejfoefok.ru
+@loeofaihefihfhg.ru
+@lpiauefhuheufhg.ru
+@mnenneaihfihegi.ru
+@mokaeduegfuaehh.ru
+@myphotoload.com
+@ndrxbezrsdgsergdfs.co
+@okdoekeoehghaoer.ws
+@osheoufhusheoghuesd.ru
+@ouhfuosuoosrhfzr.su
+@ploeuahfueugeug.ru
+@plpanaifheaighai.su
+@rohgoruhgsorhugih.ru
+@rubbfibididhiei.ru
+@rzhsudhugugfugugsh.co
+@rzhsudhugugfugugsl.co
+@rzhsudhugugfugugsm.to
+@rzhsudhugugfugugsr.su
+@rzhsudhugugfugugsu.cc
+@rzhsudhugugfugugsz.io
+@sefuhsuifhishffo.ru
+@sefuhsuifhishfy.in
+@seiiamefiaigaefo.ru
+@seuufhehfueugheg.to
+@seuufhehfueugheh.ws
+@seuufhehfueughek.ws
+@seuufhehfueughem.top
+@seuufhehfueughet.to
+@sisfiusnrsruisfo.ru
+@sisfiusnrsruisy.in
+@sndiuenidniueifo.ru
+@soijodneoiauoefo.ru
+@ssofhoseuegsgrfnj.su
+@thaus.to
+@thaus.ws
+@tldrbox.com
+@tldrbox.top
+@tldrbox.ws
+@tldrhaus.top
+@tldrnet.top
+@tldrzone.com
+@tldrzone.top
+@trik.ws
+@tsrv1.com
+@tsrv1.ws
+@tsrv2.top
+@tsrv2.ws
+@tsrv3.ru
+@tsrv3.ws
+@tsrv4.ws
+@tsrv5.top
+@unokaoeojoejfghr.ru
+@uoaeogauhduadhug.su
+@urusurofhsorhfuuhd.io
+@urusurofhsorhfuuhl.co
+@urusurofhsorhfuuhm.to
+@urusurofhsorhfuuhr.su
+@urusurofhsorhfuuhu.cc
+@urusurofhsorhfuuhz.io
+@vitamind.top
+@w4tw4tw4tw4t4.jo
+@wduufbaueeubffgh.ws
+@worm.ws
+@xmrupdtemall.top
+@zrziqezrizrizzf.ru
+@zrziqezrizrizzf.su
+@zzruuoooshfrohu.su
+
+# Mac Stealer
+# https://www.jamf.com/blog/macsync-stealer-evolution-code-signed-swift-malware-analysis/
+@focusgroovy.com
+
+# Common
+
+# Abuse DDoS bot
+@mozicloud.org
+
+# Abuse web rat
+@salat.cn
+
+# Phishing
+@vod3um.online
+@dostavka.dealp-a.cyou
+@auselectrical.com
+# https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/
+@pypj.org
+
+# Telegram Scam
+@cmstcycle.com
+
+# Tunnels
+@networklinkpro.net
+@poke-mon.xyz
+@maomao678.com
+@prometheusnet01.xyz
+@mlk4krt.com
+@mild4trom.com
+@mlcrosoft.me
+
+@80-25-lyy.com
+@rarbg.com
+@rarbg.me
+@drivergenius.com
+@thaose.com
+@acgnxtracker.com
+@nyaatorrents.info
+@rixtelecom.se
+@publicbt.com
+@kbz0pwvxmv.com
+
+# Ransom
+@zersrv.com
+
+# VC Scam
+@amlonlinebot.org
+
+# Testing
+@testpanw.com
+/^blockcheck[1-9][0-9]*\.system-checks\.org$/
+/^blockcheck[1-9][0-9]*\.[a-z0-9-]+\.system-checks\.org$/
+```[cite: 7]
