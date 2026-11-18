@@ -75,7 +75,7 @@ analytics.mobile.yandex.net
 # [ Malware Domain ]
 
 # Src: https://www.r-tec.net/r-tec-blog-when-hackers-hack-the-hackers.html
-/(^|^.*\.)servehttp.com$/
+/(?:^|\.)servehttp.com$/
 adsense.servehttp.com
 nuget.servehttp.com
 
@@ -607,7 +607,7 @@ yujaverity.info
 /(?:ns\d+\.){4,}[\w-]+\.[\w-]+/
 
 # faked homebrew
-/(^|^.*\.)brewe.sh$/
+/(?:^|\.)brewe.sh$/
 
 # Faked DeepSeek
 /(?:^|\.)deepseek-platform\.com$/
