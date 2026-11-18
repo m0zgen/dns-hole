@@ -160,7 +160,7 @@ analytics.mobile.yandex.net
 @post-serviceskz.top
 @postzi.top
 @kz-serve.cfd
-@postkz.lat$
+@postkz.lat
 @pots-kzservices.top
 @aivsbv.cfd
 
