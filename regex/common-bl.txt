@@ -9,6 +9,9 @@ an.facebook.com
 api.rstprgapipt.com
 /(?:^|\.)agl008\.shop$/
 
+/adclick.*.doubleclick.net$/
+/.+?ads.*.doubleclick.net$/
+
 #
 avatars.mds.yandex.net
 www.avatars.mds.yandex.net
