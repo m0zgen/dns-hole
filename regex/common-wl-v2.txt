@@ -62,7 +62,8 @@
 
 # [ Gov ]
 
-/(?:^|\.)[^.]+\.gov$/
+# Moved to tld zbld module
+# /(?:^|\.)[^.]+\.gov$/
 
 @gov.by
 @gov.cn
@@ -257,7 +258,7 @@ voidboost.net
 
 # [ Other ]
 
-/(^|^v[n-p]{2,}\.)bespoyasko\.kz$/
+@bespoyasko.kz
 
 # [ Tests ]
 
