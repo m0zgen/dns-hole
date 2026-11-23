@@ -316,6 +316,11 @@ learn.cisecurity.org
 claude.com
 www.claude.com
 
+# [ Clickhouse ]
+clickhouse.com
+www.clickhouse.com
+packages.clickhouse.com
+
 # [ Collects, Shorteners ]
 # get.inc
 bit.ly
