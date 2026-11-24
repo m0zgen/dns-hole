@@ -387,6 +387,11 @@ www.crt.sh
 cybersecuritynews.com
 www.cybersecuritynews.com
 
+# [ Debian ]
+debian.org
+deb.debian.org
+security.debian.org
+
 # [ Db-Ip ]
 db-ip.com
 www.db-ip.com
