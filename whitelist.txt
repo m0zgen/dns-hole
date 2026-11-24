@@ -381,6 +381,10 @@ go.crowdstrike.com
 crt.sh
 www.crt.sh
 
+# [ Cybersecuritynews ]
+cybersecuritynews.com
+www.cybersecuritynews.com
+
 # [ Db-Ip ]
 db-ip.com
 www.db-ip.com
