@@ -336,6 +336,8 @@ www.okt.to
 # [ Cloudflare ]
 cloudflare.com
 dash.cloudflare.com
+cloudflarestatus.com
+www.cloudflarestatus.com
 
 # [ Cloudns ]
 cloudns.net
@@ -547,6 +549,8 @@ api.github.com
 vscode-auth.github.com
 alive.github.com
 collector.github.com
+githubstatus.com
+www.githubstatus.com
 # copilot-proxy.githubusercontent.com
 
 # [ Godaddy ]
