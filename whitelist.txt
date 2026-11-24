@@ -558,6 +558,11 @@ godaddy.com
 www.godaddy.com
 api.aws.parking.godaddy.com
 
+# [ Golang ]
+golang.org
+proxy.golang.org
+sum.golang.org
+
 # [ Goldapple ]
 goldapple.by
 goldapple.kz
