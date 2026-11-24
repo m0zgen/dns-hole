@@ -559,6 +559,8 @@ www.godaddy.com
 api.aws.parking.godaddy.com
 
 # [ Golang ]
+go.dev
+pkg.go.dev
 golang.org
 proxy.golang.org
 sum.golang.org
