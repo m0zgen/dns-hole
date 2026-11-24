@@ -460,14 +460,16 @@ ms.dzen.ru
 cdn.dzen.ru
 
 # [ Egov ]
-egov.kz
-www.egov.kz
-primeminister.kz
-www.primeminister.kz
 akorda.kz
-www.akorda.kz
 atameken.kz
+egov.kz
+eotinish.kz
+primeminister.kz
+www.akorda.kz
 www.atameken.kz
+www.egov.kz
+www.eotinish.kz
+www.primeminister.kz
 
 # [ Electrum ]
 electrum.org
